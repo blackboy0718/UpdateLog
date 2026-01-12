@@ -1,0 +1,2 @@
+업데이트: https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/mabinogi_update.txt
+이벤트: https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/mabinogi_events.txt
