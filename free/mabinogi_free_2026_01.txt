@@ -313,5 +313,65 @@
     "url": "https://mabinogimobile.nexon.com/Community/Free/3344597",
     "content": "솔직히 기대 되는 사람 없잖아요 ㅋㅋㅋ\n지금까지 이모양 이꼴인대\n기대를 한다? 아직 머리 덜꼬매진거지 뭐\n난 기대도 안함\n볼생각도 없다...\n그냥 아무생각 없이 숙제만 끄적끄적 하고 끄는 게임인대\n무슨 기대를 한다고...\n라고 해도... 이런 글이나 쓰는거 보면 기대 하는 건 맞긴해... ㅋㅋㅋㅋ\n제발 내가 하는 게임인대 망하길 기대하는 사람은 없잖아!!!\n살려줘!!!!",
     "comments": []
+  },
+  {
+    "thread_id": "3344682",
+    "title": "깔끔하게 그냥 겜 망했으면 좋겠다",
+    "date": "2026.01.12 20:29",
+    "comment_count": 0,
+    "view_count": 39,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3344682",
+    "content": "걍 내일 깔끔하게 본인역량 역부족으로 더이상 운영할수없다고 하자 ㅈㅎ아 너도 솔직히 너 능력없는거알자나 열심히하는게 아니라 잘해야 겜이 성장하는데 넌 ㄷㄹㅌ인 자리에서  잘할생각은안하고 열심히할생각만하니깐 겜이 개쳐망하는거야 걍 니 능력부족 인정하고 다른 ㄷㄹㅌ한테 넘기든가 아님 걍  GG치고 섭종때리자",
+    "comments": []
+  },
+  {
+    "thread_id": "3344681",
+    "title": "룬워드 이게 맞냐?",
+    "date": "2026.01.12 20:24",
+    "comment_count": 1,
+    "view_count": 78,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3344681",
+    "content": "무기 11 방어21 악세26 엠블 6인데도 이럼....",
+    "comments": [
+      {
+        "text": "방어구 40개 언저리 되야함ㅋㅋ\n내가 지금 룬워드2개 선택에 총10개임",
+        "date": "2026.01.12 20:40"
+      }
+    ]
+  },
+  {
+    "thread_id": "3344633",
+    "title": "모비 라방은 과금방송이라서 이제 기대가 안됨",
+    "date": "2026.01.12 19:28",
+    "comment_count": 0,
+    "view_count": 63,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3344633",
+    "content": "보나마나 약속하고 미뤘던거나 미리 예고한 레이드 대충 설명하고 나면\n새로 팔물건 몇가지 광고하고 쿠폰 뿌리고 질문답변받다가 민심사나우면 얼굴빨개져서 끝하고 튈듯",
+    "comments": []
+  },
+  {
+    "thread_id": "3344627",
+    "title": "어비스 랭킹전 4334 및 4323 찐 공략.",
+    "date": "2026.01.12 19:19",
+    "comment_count": 0,
+    "view_count": 75,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3344627",
+    "content": "﻿1. 1브익컷에 걸맞는 압축딜러를 섭외한다.(보통 랭킹 3위권 격태양을 섭외한다.)\n(1브익컷이란 브레이크 익스텐드 하번에 죽이는것을 뜻함)\n2. 시간 많은 빙결을 섭외한다.(투력 상관없음. 단 , 세팅잘되어있어야함. )\n(어차피 1브익컷은 빙결이 강하고 말고를 떠나 격태양과 음유시인의 시너지가 중요하다.)\n3. 음유시인을 섭외한다.(무조건 세팅 잘되어있어야함. 투력은 크게 상관없음.)\n4. 버스충인 나는 대충 2억정도만 치면된다.\n-> 2억이란? 보통 함선허수기준 300만 +-정도만 되도 되고 투력기준 평균 6.0~6.2사이정도이다.\n단, 아무리 버스라도 파괴자셋은 있어야한다.\n현 점수 12만400점\n내투력 6.2(거의근접)",
+    "comments": []
+  },
+  {
+    "thread_id": "3344625",
+    "title": "내일은 또 얼마나 무능함을 보여줄까ㅋㅋㅋ",
+    "date": "2026.01.12 19:18",
+    "comment_count": 0,
+    "view_count": 45,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3344625",
+    "content": null,
+    "comments": []
   }
 ]
