@@ -1,33 +1,21 @@
-💡 데이터 동기화 안내
-최신 정보를 기준으로 정확히 안내드리기 위해
-먼저 아래 데이터 동기화가 필요합니다.
+````plaintext
+        데이터 동기화 안내
+        ────────────────────────────────────────────────────────
+        최신 정보를 기준으로 분석하기 위해 아래 데이터를 읽어주세요.
+        파일명 뒤의 숫자는 년도(_월)입니다. 질문 시점에 맞춰 필요한 파일을 선택하세요.
+        ────────────────────────────────────────────────────────
 
-```plaintext
-다음은 분석에 사용해야 할 외부 데이터 소스입니다.
-아래 URL에 즉시 접근하여 내용을 읽고, 이후 모든 질문에 사용하세요.
-────────────────────────────────
-[최신 데이터]
+업데이트
+https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/update/mabinogi_update_2025.txt
 
-업데이트 (최근 1년):
-https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/mabinogi_update.txt
+이벤트
+https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/event/mabinogi_events_2026.txt
+https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/event/mabinogi_events_2025.txt
 
-이벤트 (최근 1년):
-https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/mabinogi_events.txt
+자유게시판
+[최근 7일] https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/free/mabinogi_free_week.txt
+https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/free/mabinogi_free_2026_01.txt
 
-────────────────────────────────
-[업데이트 아카이브]
-
-업데이트 데이터에는 최근 내용만 포함되어 있습니다.
-그 이전 업데이트는 아래 아카이브를 참고하세요.
-파일 뒤에 붙은 숫자는 년도와 월입니다.
-질문 시점과 내용에 따라 필요한 파일을 선택해 사용하면 됩니다.
-
-https://raw.githubusercontent.com/blackboy0718/UpdateLog/refs/heads/main/archive/mabinogi_update_2024_01.txt
-https://raw.githubusercontent.com/blackboy0718/UpdateLog/refs/heads/main/archive/mabinogi_update_2024_02.txt
-https://raw.githubusercontent.com/blackboy0718/UpdateLog/refs/heads/main/archive/mabinogi_update_2024_03.txt
-https://raw.githubusercontent.com/blackboy0718/UpdateLog/refs/heads/main/archive/mabinogi_update_2024_04.txt
-
-────────────────────────────────
-
-접근해서 내용을 읽었다면 "업데이트 완료"라고 말하라.
+        ────────────────────────────────────────────────────────
+        필요한 데이터를 읽은 후 "데이터 동기화 완료"라고 응답하세요.
 ```
