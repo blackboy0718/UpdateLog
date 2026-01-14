@@ -7,7 +7,8 @@
 파일명 뒤의 숫자는 년도(_월)입니다.
 
 업데이트
-  1) <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/update/mabinogi_update_2025.txt>
+  1) <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/update/mabinogi_update_2026.txt>
+  2) <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/update/mabinogi_update_2025.txt>
 
 이벤트
   1) <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/event/mabinogi_events_2026.txt>
