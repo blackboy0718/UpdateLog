@@ -1,5 +1,149 @@
 [
   {
+    "thread_id": "3347433",
+    "title": "렉 미쳤다",
+    "date": "2026.01.15 12:59",
+    "comment_count": 0,
+    "view_count": 27,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347433",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3347417",
+    "title": "도적 무기도 원랜 \"듀얼\"이었나보넹...",
+    "date": "2026.01.15 12:52",
+    "comment_count": 0,
+    "view_count": 44,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347417",
+    "content": "새삼스럽지만 오늘 첨 알았네",
+    "comments": []
+  },
+  {
+    "thread_id": "3347409",
+    "title": "그런데 봄축셋은 그럼 본가 콜라보도 아닌데 도용이었던거임?",
+    "date": "2026.01.15 12:47",
+    "comment_count": 0,
+    "view_count": 75,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347409",
+    "content": "대체 뭐였을까...\n그리고 겨울숲 의상들 원조가 되는건 본가에서 비인기템 아님? 비슷한거 구도 잡아놓은 옷이 있으니 디자이너들 편하라고 선택된건가",
+    "comments": []
+  },
+  {
+    "thread_id": "3347398",
+    "title": "ㅋㅋㅋㅋㅋ장기미접 캐릭들 안치우고 유니크 닉네임 연거",
+    "date": "2026.01.15 12:41",
+    "comment_count": 0,
+    "view_count": 179,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347398",
+    "content": "참 생각짧다 ㅋㅋㅋ 라방에서 장기미접 닉 삭제한다고 하면뭐하냐 1년장기미접해야 삭제해준다고 공지올렸드만ㅋㅋㅋㅋㅋ석박사 나온 양반들이 차암 생각짧아잉?",
+    "comments": []
+  },
+  {
+    "thread_id": "3347390",
+    "title": "쿠션 쿠폰은 도대체 언제 주는거?",
+    "date": "2026.01.15 12:34",
+    "comment_count": 0,
+    "view_count": 52,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347390",
+    "content": "1월 9일에 지급한다고 했다가\n중순으로 말 바꾸고\n벌써 1월 15일인데\n라이브때 언제 지급하냐고 물어보니 채팅 차단 먹이질 않나(다른 유튭 계정으로 확인함)\n도대체 언제 준다는거야?????미친거야????\n엄연히 돈을 주고 현장까지 가서 구매했는데\n이런식으로 운영하는 게임사는 듣지도 보지도 못함",
+    "comments": []
+  },
+  {
+    "thread_id": "3347385",
+    "title": "5분남았다 드가즈아~~~",
+    "date": "2026.01.15 12:26",
+    "comment_count": 0,
+    "view_count": 24,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347385",
+    "content": "... 빨리 트롤 없을때 후딱 레이드 를\n오후 퇴근후부턴 어시스트 충들 바글바글해서 힘드니",
+    "comments": []
+  },
+  {
+    "thread_id": "3347374",
+    "title": "결국 또 도적은 ㅡㅡ",
+    "date": "2026.01.15 12:12",
+    "comment_count": 2,
+    "view_count": 281,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347374",
+    "content": "﻿그냥 버린 자식이냐",
+    "comments": [
+      {
+        "text": "저거 모바일 유저는 보이긴할까?\n렉 더 만들기만 할것 같은데",
+        "date": "2026.01.15 12:15"
+      },
+      {
+        "text": "모바일게임인데..... 너무 어렵다.",
+        "date": "2026.01.15 12:17"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347368",
+    "title": "문열어줘어어",
+    "date": "2026.01.15 12:01",
+    "comment_count": 0,
+    "view_count": 60,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347368",
+    "content": "시간 잘 지키지도 않는 사람들이 점검시간만 잘챙겨...이게 맞아?...",
+    "comments": []
+  },
+  {
+    "thread_id": "3347363",
+    "title": "문 열어라",
+    "date": "2026.01.15 12:00",
+    "comment_count": 0,
+    "view_count": 41,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347363",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3347360",
+    "title": "왜 아무도 이 얘기는 안하는거지?",
+    "date": "2026.01.15 11:51",
+    "comment_count": 6,
+    "view_count": 761,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347360",
+    "content": "라방에서 뿔피리 팔아야하니까 채팅 채널 자동으로 월드 채널로 변경되는거 수정안해줄거다라고 했는데\n왜 이 얘기는 아무도 안함?\n사실 난 저게 제일 짜증나는 요소인데\n지들 돈벌려고 우리들에게 불편함을 감수하라는거잖음.\n그냥 뿔피리 상품을 없애는게 제일 베스트인거고,\n굳이 팔아야겠다면 파티창이나 길드창 이용에 불편을 주지 말고\n월드채널 창을 따로 분리해서 보여주던가...\n왜 굳이 사람들 짜증을 유발하는 방식으로 운영을 해야하냐는 말이지.\n팝업때 나침반 클릭안되고 제작 10개로 제한하고 등등 짜증나게 하는 요소가 한두개가 아닌데,\n이정도면 어떻게 해야 사람들이 짜증을 내는지 연구하는 심리학 게임인거 아님?",
+    "comments": [
+      {
+        "text": "뿔피리가 있는데도 월창 개판나는데 그것마저 없으면 참 보기 좋겠다 그죠?",
+        "date": "2026.01.15 11:52"
+      },
+      {
+        "text": "자동으로 변경 됐었어? 난 왜 그걸 못 느꼈지.....길드창 아니면 파티창으로만 보고있어서 그런가?",
+        "date": "2026.01.15 11:54"
+      },
+      {
+        "text": "라방에서 뿔피리 팔아야하니까 채팅 채널 자동으로 월드 채널로 변경되는거 수정안해줄거다라고 했는데\n글쓴이님 이말을 어디서 했죠? 다시 돌려보고 보고 듣고 해도... 시간좀 알려주세요",
+        "date": "2026.01.15 12:01"
+      },
+      {
+        "text": "뿔피리 관련된 이야기\n1:24:48 ~ 1:26:07  다시 들어보세요.\n저런 맨트를 한적이 없어요",
+        "date": "2026.01.15 12:06"
+      },
+      {
+        "text": "글쓴이님 난...독증??",
+        "date": "2026.01.15 12:24"
+      },
+      {
+        "text": "그런말 한적 없는데\n그냥 월챗만 따로 모을 수 있는 채팅창을 새로 만들도록 하겠다 했던듯",
+        "date": "2026.01.15 12:12"
+      }
+    ]
+  },
+  {
     "thread_id": "3347212",
     "title": "반박하던 애들 밑에글 반박좀 해보세요",
     "date": "2026.01.15 08:47",
