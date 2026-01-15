@@ -1,5 +1,1622 @@
 [
   {
+    "thread_id": "3348220",
+    "title": "불매하라고",
+    "date": "2026.01.15 20:59",
+    "comment_count": 0,
+    "view_count": 2,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348220",
+    "content": "최소한 절반 이하로 쓰든지\n아예 안 쓰면 더 좋고\n우리가 돈을 쓰는 한 얘네는 바뀌지 않을 거야\n대상 탔을 때 보상 기억하냐\n유저에 대한 고마움도 미안함도 없는 회사야\n그런 회사에겐 이슈가 생길 때마다 매출이 수직하락 할 수 있다는 두려움이라도 심어 줘야지\n즐거우려고 게임 하는 건데 이렇게 유저 조롱하는 회사 제품을 왜 사주냐고",
+    "comments": []
+  },
+  {
+    "thread_id": "3348212",
+    "title": "간보냐?",
+    "date": "2026.01.15 20:54",
+    "comment_count": 0,
+    "view_count": 20,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348212",
+    "content": "방송 켜서 티켓 10장으로 전설 한 부위 뽑아봐라",
+    "comments": []
+  },
+  {
+    "thread_id": "3348211",
+    "title": "보상을 할거면 전설아바타에 들어간 에픽과 직물을 돌려주던가",
+    "date": "2026.01.15 20:54",
+    "comment_count": 0,
+    "view_count": 23,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348211",
+    "content": "유저 우롱이나 하고 있네. 전설 풀셋 15만원 만들어놓고.",
+    "comments": []
+  },
+  {
+    "thread_id": "3348209",
+    "title": "지옥10 버스막힘?",
+    "date": "2026.01.15 20:54",
+    "comment_count": 1,
+    "view_count": 24,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348209",
+    "content": null,
+    "comments": [
+      {
+        "text": "이제는 최소한 입장 투력은 달성해야 갈수있어요",
+        "date": "2026.01.15 20:55"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348203",
+    "title": "데코 장식 드래그로 바꿔줘!",
+    "date": "2026.01.15 20:49",
+    "comment_count": 0,
+    "view_count": 9,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348203",
+    "content": "아니 드래그 방식이 좋은데 왜 터치로 바꾼거야?\n아님 버그?\n드래그 안되니 너무 불편해.",
+    "comments": []
+  },
+  {
+    "thread_id": "3348196",
+    "title": "ERROR 41 발생 후 게임 실행 불가",
+    "date": "2026.01.15 20:46",
+    "comment_count": 0,
+    "view_count": 13,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348196",
+    "content": "이거 해결하는 법 아시는 분 없나요 ㅜㅜ",
+    "comments": []
+  },
+  {
+    "thread_id": "3348192",
+    "title": "내 글 왜 지워18 한시간 30분동안 다듬었는데 2천원짜리 2%보상안이 찰떡이었나",
+    "date": "2026.01.15 20:44",
+    "comment_count": 0,
+    "view_count": 43,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348192",
+    "content": "계속 욕나오는거 필터링 체크하면서 1시간 넘게 기달려서 겨우 올린건데 왜지워 GEIROEI들아",
+    "comments": []
+  },
+  {
+    "thread_id": "3348185",
+    "title": "존말할때 캐선창 원복하세요",
+    "date": "2026.01.15 20:40",
+    "comment_count": 0,
+    "view_count": 49,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348185",
+    "content": "아니 재접위치에 아주 절묘하게 종료버튼을 놧네\n겜끄고 잠이나 자라는거지?",
+    "comments": []
+  },
+  {
+    "thread_id": "3348182",
+    "title": "전설아바타 보상관련과 경매장 관련",
+    "date": "2026.01.15 20:38",
+    "comment_count": 2,
+    "view_count": 118,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348182",
+    "content": "개인적으로 부위당 패션티켓 10장은 이거 아니라 봄니다.......\n그걸로는 전설 아바타를 구입했어야 하는 핵심 가치의 보존과 보상이 안된다 생각함니다\n그들이 전설 아바타를 구입한 이유는 지금이 아니면 더는 구할수없는 꾸미기 아이템이라는\n가치가 있었기 때문임니다\n그런대 유저간 거래를 통해 구할수 있어진다면 궅이 힘들게 불안한 확율 싸움을 하면서\n구하기 보다 그냥 경매장을 통해 구입하기를 선택하는 유저들이 많았을것이고\n또한 장기적 관점으로 한두 파츠 자기가 원하는 파츠만 먼저 구해두고 세트효과는 나중에 천천이 가추겠다는 선택도\n가능했을것임니다 이런 점 때문에 경매장 자체는 저는 반대는 안하였지만\n이로 인해 벌어진 가치 손실 이번이 아니면 구할수 없었다는 그 가치를 위해\n전설 픽업 기간에 전설 합성을 하였을 이유의 박탈에 대한 케어는 아니라는것\n이러한 것을 보존해 주는 것이라면 레거시 전설화 될 경우 해당 레거시화 되는 전설 아바타 파츠를\n시몬이 전설 로브 보내 주듯이 디자인 리파인된 거래 불가 전설을 주면서 레거시화 된 전설은 거래 가능하개 한다던지\n하는식으로 지금 아니면 구하지 못한다는 프리미엄을 보존해 주면서\n추가적으로 레거시화된 전설은 거래 가능하도록 하는 구성이였어야\n웨카 경매장은 환영 받았을것임니다\n그럴 경우 레거시 전설을 싸게 구할수 있는 것이 문제가 아니고 많은 유저들에게 해텍이 됬을것이고\n기존에 전설을 뽑았던 유저들또한 충분한 보상이 였을거고 거래장도 활성화 됬을것이고요\n그런의미 최소한 지금 사태를 해결 보려면 부위당 페션티켓이 아니라 최소한 1차 2차 옷을를 뽑았었던 유저들에게\n1차 2차 디자인 기반으로 리파인한 전설 옷을 줘야 이번 일이 해결 될것이라봄니다 페션티켓은 아니에요......\n이에 관한 유저의견이 있다면 적어주세요\n데브켓이 좋아요나 뎃글 많은 글은 모니터링 한다 생각하거든요",
+    "comments": [
+      {
+        "text": "그마저도 30트 넘게 해도 못 뽑은 사람은 보상 없다고",
+        "date": "2026.01.15 20:43"
+      },
+      {
+        "text": "그 못뽑고 넘어간 사람들도 거래를 통해 세트는 가춰볼수 있다 그점에서 경매장 자체는 반대는 안했던거\n문제는 이것을 케어하기위해 억리로라도 뽑았어야할 이유 이번이 아니면 안되었기에 뽑았던 사람들에 대한\n케어가 전무하였던점 그리고 이러한 요소에 대한 케어로는 더는 구할수없는 전설 아바타를 추가 지급 하면서 케어를 해줬어야 한다 생각했다는것\n일단 거래장 자체는 무산 되었지만 하다 못해 케어는 제대로 해야하고\n저는 그 케어를 위해서는 전설 의상을 세로 1차 2차 디자인 컨셉트에 맟춰 세로 리파인한 전설을 지급해야 한다 생각한것",
+        "date": "2026.01.15 20:48"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348177",
+    "title": "이번 보상의 본질은 등급분류 위반 우회 시도 (웨카 경매장)를 무마하는 거잖아요?",
+    "date": "2026.01.15 20:36",
+    "comment_count": 2,
+    "view_count": 108,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348177",
+    "content": "모두 전설 아바타 가치 하락에 집중하고 있지만, 사실 본질은\n1. 12세 게임에 있으면 안되는 시스템을 게임에 집어넣으려고 시도 했다.\n2. 거기에 대해 직접적으로 피해를 본 유저들의 불만부터 잠재우고 들어가겠다.\n라고 생각하거든요.\n그런데 입막음 비용으로 패션티켓 10장에 캐시샵 포인트 200이 너무 가벼워 보여요 ㅋㅋㅋㅋㅋㅋ\n그리고 사실 보상이 크고 작고 보다도, 기존 전설 패션 보유자에 집중된 이 프레이밍 자체가 되게 웃기고 화가나는 거지.",
+    "comments": [
+      {
+        "text": "합성에 실패한 사람은 보상 없다고~",
+        "date": "2026.01.15 20:37"
+      },
+      {
+        "text": "지들 머리 속 처럼 가벼운보상 ㅋㅋㅋㅋㅋ 진짜 일렬로 세워놓고 뺨아리 씨게 마려움",
+        "date": "2026.01.15 20:49"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348171",
+    "title": "난 사실 웨카보상 안바라서 별생각없이 봤는데 기분 더러워짐ㅋㅋㅋㅋㅋㅋ",
+    "date": "2026.01.15 20:30",
+    "comment_count": 3,
+    "view_count": 121,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348171",
+    "content": "아니 차라리 안줬으면 기분 난 안상했을것 같음 ㅋㅋㅋㅋㅋㅋ근데 티켓몇개에 200캐시포라는 어처구니없는 글보고 얼탱이가 없긴하네여 ㅋㅋㅋ 난 이럴거면 안받아 난 지급해주지마세요 데브캣님들아. 진짜 안받아도되고 유저들이 무슨 동네 거지임? ㅋㅋㅋㅋㅋㅋㅋㅋ 1,2시즌이면 전압셋 백~백오십 이상 쓴사람들 수두룩할텐데 ㅋㅋㅋㅋ그냥 엿먹으라는 이딴보상 할거면 하지마세요ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "comments": [
+      {
+        "text": "저도요 생각도 안하고 있었는데 보상 이게 뭐죠 ㅋㅋ 차라리 주질 말지 거지 동냥하는 것도 아니고 약 올리는 느낌임",
+        "date": "2026.01.15 20:34"
+      },
+      {
+        "text": "약 올리는 거 맞음",
+        "date": "2026.01.15 20:38"
+      },
+      {
+        "text": "잊고 지내는데 불지르네.",
+        "date": "2026.01.15 20:56"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348165",
+    "title": "뱅가드 브리치 진짜 이런 컨텐츠 기획은 누가 하는거임?",
+    "date": "2026.01.15 20:25",
+    "comment_count": 2,
+    "view_count": 109,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348165",
+    "content": "골드 보상 주는건 좋은데 진짜 재미 1도 없고 그냥 말만 타고 뛰는 컨텐츠인데\n몽골 문화 체험 컨텐츠임? 기획자가 몽골 출신인가?\n제자리에서 그냥 몹 잡는 컨텐츠면 몰라도 디팬스마냥 보스도 뛰어나오고 그래야지.\n횟수도 3회는 너무 하자나.\n1회에 그냥 30을 줘 왜 자꾸 숙제 줄여달라는데 숙제를 강제로 하게 만드냥.",
+    "comments": [
+      {
+        "text": "데브캣 얘넨 게임 재미를 위해서만드는게 아니라  게임 지표가 중요한 얘든임.  유저수  플레임타임 이런거  높으면 갓겜처럼 보이거든요.  알맹이는 신경 안씀",
+        "date": "2026.01.15 20:29"
+      },
+      {
+        "text": "몽골 말타기 체험 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "2026.01.15 20:30"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348162",
+    "title": "지옥 난이도 최상위 1등 랭커팀들에게 특별한 보상을 해주세요 진심.",
+    "date": "2026.01.15 20:24",
+    "comment_count": 1,
+    "view_count": 75,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348162",
+    "content": "명예의전당 이딴거 말고\n모비노기 광고영상 연기자분들 쓰면서 재밌게 많이 올라오더만요.\n거기 광고 새로 만들때마다\n최상위 랭커팀들 4명의 아이디들을 광고에 알맞은 타이밍에 잘 넣어주세요.\n영원히 남을 광고속 명예의 아이디들\n그정돈 해줄 수 있잖아요.\n물론 난 매어까지 밖에 안하지만..ㅋ\n그러면 랭커분들 의욕도 뿜뿜",
+    "comments": [
+      {
+        "text": "그렇게 하려면 밸패부터 제대로 해야 해요 직변권을 주던가",
+        "date": "2026.01.15 20:31"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348149",
+    "title": "에이렐 글로만 적는 팁",
+    "date": "2026.01.15 20:16",
+    "comment_count": 1,
+    "view_count": 101,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348149",
+    "content": "1. 초록/보라 피자장판은 머리위에 음표랑 반대되는 장판색으로 들어가면 되는데\n초록은 잘 안보여서 안보이면 보라장판 쫓아가고, 보라색 잘보이면 초록장판 가면 됨\n2. ★★★★★ 음표 디버프 3스택 쌓이면 춤추는데, 직선으로 날아오는거 춤추는 사람이 맞으면 무쟈게 아픈데 다른 사람이 맞으면 안아프니 대신 맞아줘야 데카 관리가 됨\n3. 한군데 몰려서 딜하기보단 분산해서 사방에서 딜해야 나중에 방방이(하늘높이 날려주는 회오리) 퍼뜨려놔서 쫓아 들어가기가 편함\n4. 유저 타게팅 말고 아무도 없는곳에서 갑자기 천천히 내려오는 초록색 음표는 터질때까지 기다려서 맞으면 음표 디버프 1스택 깎임\n5. 브레이크 더럽게 안되니까 딜 약한 파티 외에는 브레이크 위주로 노리는건 비추\n6. 설마 방방이 언제 타야하는지 모르는 사람이 있는건 아니겠지...라며 적는데 전체 광역기 느리게 장판 빨간색 퍼지기 시작하는거 피하는 용도임\n7. 나머진 그냥 맞거나 피하면서 깨면 최소 투력 파티로도 쉽게 깸",
+    "comments": [
+      {
+        "text": "아직 안해봐서 이거 대충 읽고 가서 해봐야 겠다",
+        "date": "2026.01.15 20:37"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348148",
+    "title": "NC보다 못한놈들은 처음보네",
+    "date": "2026.01.15 20:16",
+    "comment_count": 1,
+    "view_count": 90,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348148",
+    "content": "회사 수준 진짜 바닥이네",
+    "comments": [
+      {
+        "text": "nc보다 못한거 아님 저쪽도 문양 사건 터지고 어떻게 했었는지 생각하면....\n단지 이번 대응도 나는 나쁜거라봄 저걸로 주는개 아니라 그냥 세로\n1차2차 전설아바타 기반 디자인 리파인한 세 전설 옷 주면 그럭저럭 상황 좋게 해결될 일이였다봄\n경매장 관련으로도 레거시 관련으로\n레거시 전환되면서 전설 로프처럼 세로 리파인된 거래 불가 전용 옷 주고\n레거시 전설은 거래 가능하개 된다던지 했으면 웨카 경매장 으로 욕도 안먹었을것",
+        "date": "2026.01.15 20:23"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348144",
+    "title": "전압에 소모한 에픽 패션 돌려주셈",
+    "date": "2026.01.15 20:13",
+    "comment_count": 0,
+    "view_count": 83,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348144",
+    "content": "개나소나 끼고다니는거 만들겠다고 천장도 없는 전압 합성에 뛰어든 거 아님\n그냥 옛날 에픽 패션이 훨씬 가치가 높네 ㅋㅋ참나",
+    "comments": []
+  },
+  {
+    "thread_id": "3348141",
+    "title": "소통한다는척 하면서 알바뿌리고 여론조작하고 여전하네",
+    "date": "2026.01.15 20:11",
+    "comment_count": 1,
+    "view_count": 70,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348141",
+    "content": "에휴 그냥 서버 닫아\n본가에서 데려온 패션도 무슨 엘리트 급인데 돈 받고 에픽으로 쳐 팔지않나\n웨카사건으로 지들도 유저 매출 다 조져놓고 이거 보상도 아까워서 짜게 쳐 주는거보면 답이없다 ㅋㅋ",
+    "comments": [
+      {
+        "text": "그거 유저끼리 간담회 나오셨던 분 맞죠ㅋㅋㅋ 보상안 이따위로 나올줄은 꿈에도 몰랐네요 앞으로 어떤 일 예상하십니까",
+        "date": "2026.01.15 20:21"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348134",
+    "title": "웨카 경매장 보상안에 대한 개인적인 의견",
+    "date": "2026.01.15 20:09",
+    "comment_count": 2,
+    "view_count": 199,
+    "like_count": 4,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348134",
+    "content": "[합성으로 전압을 얻은 유저들에게 주는 보상안]\n확률로만 따졌을때 전압 1세트 획득에 필요한 에픽 패션은 24개(부위당 6개)\n에픽패션 3개 얻기위한 티켓 개수는 100개(에픽패션 획득확률2% + 100회 천장 1개)\n총 800개의 티켓이 필요하고 20개의 재봉가위가 소모됩니다.\n데브캣이 제시한 보상안은 전압 1세트 기준 패션티켓 40장과 가치 계산이 힘든 800캐시샵 포인트(세공기, 프리즘으로 계산하면 1600M캐시=패션티켓 8장의 가치)\n전압을 얻기위해 소모한 비용의 약 6%를 보상안으로 제시했다고 생각이 됩니다.\n[웨카 경매장을 이용한 유저들에게 주는 보상안]\n데브캣이 공개한 내용으로는 0.4%의 유저만 웨카 경매장을 이용하였다고 했습니다.\n그중 일부 유저들은 게임아이템 거래 사이트를 통해서 페이백을 받고 웨카 경매장을 통해 전압을 구입했습니다.(전압 1세트당 페이백을 통해 20만~30만원 선에서 거래됨)\n거래사이트를 통하지 않고 전압 1세트를 구입하였다고 가정하면\n평균적으로 전압 1부위당 2만웨카에 거래가 되었고(특수매물 제외) 1세트=8만웨카=80000M캐시\n데브캣이 제시한 보상안은 구매액의 20%이니 16000M캐시 라고 계산이 됩니다.\n[개인적인 의견]\n1. 합성으로 전압을 얻은 유저가 웨카 경매장을 통해 전압을 얻은 유저보다 압도적으로 비율이 높다고 생각이 됩니다.\n2. 과거 데브캣에서 주었던 보상내용에서 알 수 있듯이 보상내용 자체에 가치를 매겨서 내부지표로 활용하여,  실적에 반영 하려는 모습이 보입니다.(대표적으로 게임대상 보상내용 논란)\n3. 따라서 상대적으로 유저수가 적은 웨카 경매장 이용 유저들에게는 후한 보상이 적용되었고, 반대로 합성을 통해 전압을 획득한 유저들에게는 적은 보상안이 적용되었다고 생각합니다.\n4. 단순히 보상이 짜다를 말하고 싶은게 아닌 보상내용 설계 자체가 잘못된 것 같다는 생각이 든다는 얘기를 하고싶네요.",
+    "comments": [
+      {
+        "text": "웨카 경매장 이용자 보상안이 아니라 캐시샵 내 웨카 이용자에 대한 보상안만 있습니다.",
+        "date": "2026.01.15 20:31"
+      },
+      {
+        "text": "예를 들어 웨카로 환생석을 구매한 사람",
+        "date": "2026.01.15 20:31"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348131",
+    "title": "겜 실행",
+    "date": "2026.01.15 20:08",
+    "comment_count": 1,
+    "view_count": 16,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348131",
+    "content": "LG 유저인데 겜 실행 안되는거 다 그러는거임???? 언제 고쳐지노.. 시작한지 12시간만에 겜접을판이다 끼발..",
+    "comments": [
+      {
+        "text": "엘지 아직도 그러나요?",
+        "date": "2026.01.15 20:32"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348127",
+    "title": "전압보상",
+    "date": "2026.01.15 20:06",
+    "comment_count": 1,
+    "view_count": 95,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348127",
+    "content": "3차는 왜 안주는데?",
+    "comments": [
+      {
+        "text": "3차는 웨카경매장에서 거래가 안 돼서 보상 안 해준다네요",
+        "date": "2026.01.15 20:46"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348126",
+    "title": "200ㅋㅋㅋㅋㅋ캐샵포인트 ㅋㅋㅋㅋㅋ",
+    "date": "2026.01.15 20:06",
+    "comment_count": 0,
+    "view_count": 89,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348126",
+    "content": "장난치니 1기전압은 재료도 많이 없던시절이었는데 ㅋㅋㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3348121",
+    "title": "데브야 여기 한번 들어가봐",
+    "date": "2026.01.15 20:03",
+    "comment_count": 0,
+    "view_count": 100,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348121",
+    "content": "https://arca.live/b/mabimobile/159681241?p=1\n너네민심 나락가기직전이야 공홈에서는 순환 해서 우리가 말해주지 강제로 여기는 아니다 ? 너네 영진들 오래살거같아\n저정도 욕이면 도깨비 급일듯",
+    "comments": []
+  },
+  {
+    "thread_id": "3348118",
+    "title": "1차 전압셋만드는데 200들었는데 지금 장난하냐",
+    "date": "2026.01.15 20:01",
+    "comment_count": 0,
+    "view_count": 105,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348118",
+    "content": "진훈아 너 장난하지 지금?",
+    "comments": []
+  },
+  {
+    "thread_id": "3348113",
+    "title": "가치보존으로 전설1부위당 최소20만이라며?",
+    "date": "2026.01.15 19:59",
+    "comment_count": 0,
+    "view_count": 122,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348113",
+    "content": "니들이 그렇게 정하고\n팔았잖아?\n그럼 부위당 20만원치\n티겟을 줘야하는거 아님?\n왜 프티10장이야?\n전설1부위당 프티10장인데\n20만에 판거야? 그럼 사기아냐?",
+    "comments": []
+  },
+  {
+    "thread_id": "3348107",
+    "title": "레이드 다 전멸나서 나갔는데 왜 패널티 먹어요?",
+    "date": "2026.01.15 19:57",
+    "comment_count": 0,
+    "view_count": 77,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348107",
+    "content": "레이드 우만돌리다가 다 전멸나서 나갔는데 왜 패널티줘요? 10분이나 ? 중간에 나간것도 아닌데 패치를 생각이란걸 좀 하고하셔야지 안그래도 기믹 그지같은거때매 스트레스 받는데... 전멸나서 나갔는데 10분기다리라는 메세지뜨네요ㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3348106",
+    "title": "레이드 탈주 패널티 짜증나네",
+    "date": "2026.01.15 19:57",
+    "comment_count": 0,
+    "view_count": 99,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348106",
+    "content": "전부 죽어서 나와졌는데 다시 돌리려니깐 탈주 패널티 받았는데 중간에 나간 것도 아니고 데카 다 쓰고 다 죽어서 나가진것도 탈주로 치는거임?",
+    "comments": []
+  },
+  {
+    "thread_id": "3348105",
+    "title": "돈슨하.. 돈쓴내가 잘못이다",
+    "date": "2026.01.15 19:57",
+    "comment_count": 0,
+    "view_count": 57,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348105",
+    "content": "패션티켓10장 말인가 방구인가\n패션티켓 40장이면 전압 세트 맞추나보네 너네는 걸뱅이 같은 보상\n니들이나 해 전압뽑는다고 돈지르면뭐해 보상은 개구데기인데",
+    "comments": []
+  },
+  {
+    "thread_id": "3348104",
+    "title": "혹시 회의할때요",
+    "date": "2026.01.15 19:55",
+    "comment_count": 1,
+    "view_count": 133,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348104",
+    "content": "혈중 알코올 농도 0.2% 미만은 회의 참석 불가인가요? 뇌를 거치지 않고 나오는 보상인데요?",
+    "comments": [
+      {
+        "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ개 웃기네 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "2026.01.15 19:59"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348103",
+    "title": "18포인트로 글자 쓰세요 18",
+    "date": "2026.01.15 19:55",
+    "comment_count": 0,
+    "view_count": 34,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348103",
+    "content": "﻿하도 욕이 나와서 하고 싶은 말 글을 못 쓰고 있네\n18포인트로 아무말이라도 써야지 암튼 데브캣 망하라는 얘기",
+    "comments": []
+  },
+  {
+    "thread_id": "3348102",
+    "title": "니들이 생각하는 가치보존 < 이게 부위당 10장임?",
+    "date": "2026.01.15 19:55",
+    "comment_count": 0,
+    "view_count": 62,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348102",
+    "content": "이미 웨카 경매로 가치는 개나 줘버리고\n1차 풀세트 하신 분들은 진짜 패키지 말고 깡으로 하신 분들도 많을 텐데\n대체 부위당 10장은 어느 대가리에서 나온 값임?\n라방 켜서 부위당 10장으로 전설 쳐 뽑아 보세요 그럼 인정해줄라니까",
+    "comments": []
+  },
+  {
+    "thread_id": "3348097",
+    "title": "웨카 사용 보상안 진짜 제정신임?",
+    "date": "2026.01.15 19:53",
+    "comment_count": 0,
+    "view_count": 104,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348097",
+    "content": "애초에 웨카부터 개빡치는데 너네같았으면 그 뭣도없는 상품들을 웨카로 샀\n었겟ㄴㅑ? 정상적인 사고라면 진짜 이딴 보상안은 나오면 안되지. 너네 일처리 편하려고 이딴식으로해? 현금환불은 바라지도 않아 머저리들아 좋은말로 할때 그냥 회수해가고 M캐쉬로 돌려줘",
+    "comments": []
+  },
+  {
+    "thread_id": "3348096",
+    "title": "프패티 10장은 장난하는건지 ㅋㅋㅋㅋ",
+    "date": "2026.01.15 19:53",
+    "comment_count": 0,
+    "view_count": 44,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348096",
+    "content": "프패티 100장 있어서 한부위 뽑을까 말까한데\n이건 걍 티배깅 수준의 보상",
+    "comments": []
+  },
+  {
+    "thread_id": "3348095",
+    "title": "주또주도 마찬가집니다. 초기랑 금액은 같은데 내용물 다른것도",
+    "date": "2026.01.15 19:52",
+    "comment_count": 0,
+    "view_count": 66,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348095",
+    "content": "내용물이 같은 금액에 더 좋은거 내놓을 줄 알았으면 뭐하러 초반에 주또주 판매해서 구매 왕창하게 만드셨습니까?\n본인들만 아는 내용으로 그저 고객 농락한거 아닙니까..",
+    "comments": []
+  },
+  {
+    "thread_id": "3348092",
+    "title": "공짜 티켓 개꿀이다",
+    "date": "2026.01.15 19:51",
+    "comment_count": 0,
+    "view_count": 88,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348092",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3348086",
+    "title": "무과금이라 전압노관심 에이렌인가 레이드 깨라고만든거냐 압도인데 못깸 아놔",
+    "date": "2026.01.15 19:47",
+    "comment_count": 1,
+    "view_count": 147,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348086",
+    "content": "아놔 뭔데 겜이 쉬우면제미없다 해도 이거 너무한거아니냐 뭔 기믹이 적정투력감 못깨게 만들었냐",
+    "comments": [
+      {
+        "text": "그 전압입은사람들이 깨줌",
+        "date": "2026.01.15 19:51"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348084",
+    "title": "아이온2 견제용 사료보다 못하네",
+    "date": "2026.01.15 19:47",
+    "comment_count": 0,
+    "view_count": 42,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348084",
+    "content": "아욘2나온다고 헐레벌떡 기프트위크인가 뭐시기 한수량 보다 전압 가치를 낮게보네ㅎㅎㅎ\n무과금 1일차 시작 감사합니다.",
+    "comments": []
+  },
+  {
+    "thread_id": "3348075",
+    "title": "프리미엄 패션티켓 10장",
+    "date": "2026.01.15 19:42",
+    "comment_count": 0,
+    "view_count": 154,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348075",
+    "content": "이게 전압 가치훼손에 대한 보상??\n오늘 150장 패션티켓 뽑았는데 에픽 한개도 안나왔다.\n동건아 진훈아? 이거 맞냐?",
+    "comments": []
+  },
+  {
+    "thread_id": "3348069",
+    "title": "니네 검수 안하지??",
+    "date": "2026.01.15 19:40",
+    "comment_count": 0,
+    "view_count": 74,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348069",
+    "content": "마이홈 데코 모바일로 위치옮기는거 왜 바꿈??\n십자화살표 두번눌러서 캐릭터를 움직여야 되는데\n그전엔 십자가 화살표 드래그였잖어\n돌앗맨???\n이러고 월급을 받네",
+    "comments": []
+  },
+  {
+    "thread_id": "3348067",
+    "title": "웨카 이용자는 왜 보상 안줘요?",
+    "date": "2026.01.15 19:39",
+    "comment_count": 1,
+    "view_count": 119,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348067",
+    "content": "전설합성하다 다 터지고 포기하다 웨카경매장 나와서 데카 사서 전압 산 사람은\n왜 보상 안주나요?",
+    "comments": [
+      {
+        "text": "? 이건 뭔소리죠",
+        "date": "2026.01.15 19:51"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348065",
+    "title": "혹시 이번 전압보상은 환율을 따라가나요?",
+    "date": "2026.01.15 19:37",
+    "comment_count": 0,
+    "view_count": 78,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348065",
+    "content": "환율때문에 보상이 이렇게 좀 짠가?",
+    "comments": []
+  },
+  {
+    "thread_id": "3348064",
+    "title": "넥슨이랑 데브캣은 악마다 악마",
+    "date": "2026.01.15 19:37",
+    "comment_count": 0,
+    "view_count": 39,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348064",
+    "content": "대단한 보법이네. 저거 법적으로 검토다하고 최저점으로 제시한거 아니냐.\n웨카사건 대형사건이었는데 최저점으로 보상준다는 발상자체가 악마가 따로없다.\n결국 이래도사준다는걸 산리오 콜라보때 다시 확인한모양인듯.",
+    "comments": []
+  },
+  {
+    "thread_id": "3348058",
+    "title": "생방켜서 40장으로 전압 풀셋 만들어보세요",
+    "date": "2026.01.15 19:36",
+    "comment_count": 1,
+    "view_count": 192,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348058",
+    "content": "당신들 생방으로 40장 가지고 전압 풀셋 뽑아보세요\n그럼 인정하고 받을게요.\n근데 전압 가위는 조상님이 내줍니까?\n생돈 내고 천장 없는 전압 뽑으신분들 박탈감 + 웨카로 돈 쓰신분들에 대한 보상안이라 생각했는데\n말 같지도 않은 보상안이라 어이가 터집니다",
+    "comments": [
+      {
+        "text": "똑똑한데",
+        "date": "2026.01.15 19:53"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348057",
+    "title": "가치보존",
+    "date": "2026.01.15 19:35",
+    "comment_count": 0,
+    "view_count": 103,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348057",
+    "content": "뭐 싸지를 때마다 내가 생각하는 가치는 계속 떨어지는거 같은데? 이거 맞아요?",
+    "comments": []
+  },
+  {
+    "thread_id": "3348053",
+    "title": "웨카 써서 전설 패션 얻은 사람보다",
+    "date": "2026.01.15 19:34",
+    "comment_count": 2,
+    "view_count": 162,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348053",
+    "content": "직접 만든 사람이 훨씬 더 많은 금액을 사용 하였는데\n어떻게 웨카 구매자만 차별적으로 캐시 보상 하고\n거기에 또 20프로 추가보상을 한단 말입니까?\n당신네들이 웨카 경매장으로 유저 농락 했지 않습니까?\n웨카 까지 열리는거 다 알고 있었으면 전설 패션 안만들었지요..\n웨카 최소 구매가격 8만웨카면 80만원에 전설바지 2만웨카 20만원 아니였습니까..\n전설바지 2만웨카로 당신네들이 초반에 그렇게 만들 수 있었겠습니까?\n그런것 하나 사전에 공지하나 없이 수개월 후에 느닷없이 싸게 구매할 수 있는 방법으로 경매장 여신거면\n그에 맞게 대책 마련 하셨어야죠..\n20프로의 확률로 들어가는 가위 패션티켓 가격 계산한게 200캐시에 패션티켓 10장으로 전설패션 한부위를 만들 수 있다고 생각합니까?\n가위값도 안됩니다..",
+    "comments": [
+      {
+        "text": "심지어 캐쉬도 아니고 ㅋㅋ캐쉬포인트임",
+        "date": "2026.01.15 20:01"
+      },
+      {
+        "text": "머리가 더어지럽네요",
+        "date": "2026.01.15 20:04"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348046",
+    "title": "처음글써본다.. 보상 제발 주지말아라. 안받고싶다.",
+    "date": "2026.01.15 19:30",
+    "comment_count": 0,
+    "view_count": 163,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348046",
+    "content": "이야.. 대단하다?\n보상 별 생각없었는데 기분만 그냥 잡친다....\n데브켓 애들아...\n정상이냐???\n여태 나름 참으면서 했는데... 왜 하냐고 너네 게임 재미있어서하는거아니야ㅎㅎ\n어제 방송한이유가 오늘 이사단내고 3월까지 노방송 할생각이구나??\n나 너희 어떻게 일하는지 생각보다 잘 알고 있어...눈치 있는사람들은 알겠지\n원래 한국 모바일 알피지 경멸하는데 친구녀석때문에 시작했는데 역시나다. 하자고한넘을 믿었는데.. 믿을걸 믿었어야지ㅋㅋㅋ\n엔씨는 착한애들이었어ㅎㅎ 너네가 1등해라.. 데브켓은 내 인생 최악의 회사다.\n보상 주지말아. 먼 거지취급이냐.\n받고 싶지 않아. 바란적도 없어. 그냥 원래상태로 돌려주는거아니면ㅎㅎ\n망친 기분은 쉽게 안돌아와.",
+    "comments": []
+  },
+  {
+    "thread_id": "3348044",
+    "title": "니네 사비로 전압 뽑아봐라",
+    "date": "2026.01.15 19:30",
+    "comment_count": 0,
+    "view_count": 74,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348044",
+    "content": "에픽 뽑기와 전설합성 확률성 2중 가챠인데\n기간동안 전압도전을 위한 뽑기횟수 평균값으로 보상해야지.어떤 넘이 측정한거냐?산수개념없어?10장씩에 2천원돈 으로 에픽뽑아서 가위만 3천원인데?\n평균 전설확률 기대값에 에픽확률 기대값 가위값 실타래값을 평균 쳐야지 걸뱅이도 아니고 안받고\n말지 주고선 욕을 쳐먹어야 시원하냐?\n진훈아 동건아 방송켜라 욕좀 하자.",
+    "comments": []
+  },
+  {
+    "thread_id": "3348041",
+    "title": "생각좀 하고 싸질러라",
+    "date": "2026.01.15 19:29",
+    "comment_count": 0,
+    "view_count": 46,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348041",
+    "content": "누가봐도 납득이 안되는게 뻔히 보이는데 보상 이러고있네 ㅋㅋㅋ 10장 ㅋㅋㅋㅋㅋㅋ 그냥 주기 싫다해라 유저가 얼마나 만만하면 저딴게 통과된거임?ㅋㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3348035",
+    "title": "전압 보상 진짜 누구 생각이냐",
+    "date": "2026.01.15 19:25",
+    "comment_count": 0,
+    "view_count": 112,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348035",
+    "content": "니네 웨카경매장 못하게 막았다고 일부러 이러냐?\n부위당 티켓 10장....\n내가 40장 결제해줄테니까 전압4부위 뽑아봐라\n어이가 없어서 욕도 안나오네",
+    "comments": []
+  },
+  {
+    "thread_id": "3348034",
+    "title": "얘넨 지들 겜 전압이 얼마나 더러운지모름",
+    "date": "2026.01.15 19:25",
+    "comment_count": 0,
+    "view_count": 94,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348034",
+    "content": "전압펫은 물론이고\n그 확률이 얼마나 드러운지 걍 모름\n1부위당 프패티 10개는 그냥 헛웃음만 나오네 ㅋㅋㅋ\n조동아리 열지나 말던가\n가지가지한다 정말  그 어꺠위에 달린거에 제발 생각이란것좀 하고 살아라\n스카하 의상 치마자락도 고치고 생각 좀 하고 살아",
+    "comments": []
+  },
+  {
+    "thread_id": "3348028",
+    "title": "진짜 ㅋㅋㅋㅋㅋㅋ 웨카 하... 왕꿀밤 마렵다.",
+    "date": "2026.01.15 19:23",
+    "comment_count": 0,
+    "view_count": 53,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348028",
+    "content": "역시 전과가 있는 기업이라 여전하네",
+    "comments": []
+  },
+  {
+    "thread_id": "3348027",
+    "title": "고민 엄청 해서 준다는데 부위당 패티 10개? ㅋㅋㅋㅋㅋㅋ",
+    "date": "2026.01.15 19:22",
+    "comment_count": 0,
+    "view_count": 74,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348027",
+    "content": "에휴 끝까지 찌질하고 쪼잔하고 더럽다\n10장으로 전압 하나 뽑아봐라 동건아\n생각이란걸 하는걸까",
+    "comments": []
+  },
+  {
+    "thread_id": "3348024",
+    "title": "캐릭터 선택 ui 바꾼거 누구냐?",
+    "date": "2026.01.15 19:22",
+    "comment_count": 1,
+    "view_count": 138,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348024",
+    "content": "아 ㅅ   ... 캐릭터  선택하기를 눌렀는데 저딴 팝업 또뜨는 이유가 뭐야 ??\n나오늘 이더땜에 게임 4번 껐다",
+    "comments": [
+      {
+        "text": "글고 창고좀 누르면 그냥 팍팍 열리라고\n뭔 \" 넣을수 있습니다\" 이딴 개 설명 대사좀 없에 얼빠진놈들아",
+        "date": "2026.01.15 19:24"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348021",
+    "title": "웨카경매장 보상 뭐냐",
+    "date": "2026.01.15 19:20",
+    "comment_count": 1,
+    "view_count": 111,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348021",
+    "content": "이미 내 전압 가치를 니들이 정한것때매 석나가서 게임 부클래스작 끝나면 다른겜하러 떠날거였는데\n안 줘도 되는 보상안 봤다가 헛웃음 나와서 ㅋㅋㅋㅋ 프티10장 200캐시는 뭐냐 도대체\n아니 근데 200캐시는 뭔데? 에픽 합성 50캐시 전설 합성 300캐시 이렇게 팔고있으면서 무슨 결론이 도출됐길래 이렇게 주는거냐? 이해 안가네\n예전부터 그랬지만 보상<<< 이 단어의 뜻을 모르는 것도 아닐테고,\n어줍짢은 양으로 줄거면 걍 안주는게 덜짜치니까 줄거면 확실하게 주고 불만 안나오게라도 하세요 뭔\n에휴",
+    "comments": [
+      {
+        "text": "캐시가 아니라 캐시샵 포인트로 준다던데요..",
+        "date": "2026.01.15 19:23"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348020",
+    "title": "지들은 한부위당 20만원 측정해서 경매장 열어 놓고 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "2026.01.15 19:20",
+    "comment_count": 3,
+    "view_count": 213,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348020",
+    "content": "부위당 200캐시??? 전설가위도 300 캐시 아니냐 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "comments": [
+      {
+        "text": "본인들 계산과는 다른 보상안 ㅋㅋ",
+        "date": "2026.01.15 19:22"
+      },
+      {
+        "text": "200캐시 아님\n200캐시포인트인게 더 짜침",
+        "date": "2026.01.15 19:28"
+      },
+      {
+        "text": "변호사는 50% 보상안 제시했고  얘네들은 20%정도 생각하는것도 아니고 2%임 똥덩어리들",
+        "date": "2026.01.15 19:57"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348015",
+    "title": "역시 얘네들 지능 덜떨어진거 맞았네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "2026.01.15 19:19",
+    "comment_count": 1,
+    "view_count": 114,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348015",
+    "content": "부위당 10장 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n가방에 이벤트때 뿌린 프리미엄 패션 티켓 150장 있다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 유저를 거지 취급하네 ㅋㅋㅋㅋ",
+    "comments": [
+      {
+        "text": "에픽 1개도 못뽑을 수량 전압 본인들 돈으로 뽑아 보던지 ㅋㅋㅋㅋ",
+        "date": "2026.01.15 19:20"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348014",
+    "title": "세상에나 웨카보상 이렇게 줄바에 안받고말지;;",
+    "date": "2026.01.15 19:18",
+    "comment_count": 1,
+    "view_count": 96,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348014",
+    "content": "안주는것만 못하는 보상... 돼..박",
+    "comments": [
+      {
+        "text": "얼마나 돈쓴 호구로 봤는지 억울해요",
+        "date": "2026.01.15 19:21"
+      }
+    ]
+  },
+  {
+    "thread_id": "3348013",
+    "title": "전압 보상 진짜 너무 하신거 아닌가요",
+    "date": "2026.01.15 19:18",
+    "comment_count": 0,
+    "view_count": 54,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348013",
+    "content": "전압 만들겠다고 투자한 돈과 갈아버린 에픽 옷이 수십개인데\n어떻게 보상이 저것밖에 안 되는거죠...??\n시도한 횟수만큼 주시던가요",
+    "comments": []
+  },
+  {
+    "thread_id": "3348012",
+    "title": "게임을 한번도 안해보니 뭘해도 개판이지",
+    "date": "2026.01.15 19:18",
+    "comment_count": 0,
+    "view_count": 33,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348012",
+    "content": "하는짓거리 하는 소리 하나하나\n지들 게임에 대해 하나도 모르니까 뭘해도 쓰레기같은 소리와 업데이트방향이 나오는거지",
+    "comments": []
+  },
+  {
+    "thread_id": "3348009",
+    "title": "전압 보상 진짜 미쳤냐?",
+    "date": "2026.01.15 19:17",
+    "comment_count": 0,
+    "view_count": 78,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3348009",
+    "content": "한부위당 티켓 10장??\n진짜 머리에 총맞았냐?",
+    "comments": []
+  },
+  {
+    "thread_id": "3347999",
+    "title": "전압 보상 이따위로 줄거면 그냥 주지마라",
+    "date": "2026.01.15 19:14",
+    "comment_count": 1,
+    "view_count": 114,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347999",
+    "content": "본캐 부캐 포함해서 1,2차 전압 5세트 정도 있는데 물론 더 많이 뽑은 사람도 있겠지만 적게 뽑았다곤 생각안함\n근데 이따위로 줄거면 그냥 주지를 마라\n돈도 많이 벌면서 겨우 생색낸다고 10개는 ㅋㅋㅋ 이거나 먹고 떨어지라는거임?",
+    "comments": [
+      {
+        "text": "보상안 보고 화나는건 처음이네요 ㅋㅋㅋㅋ",
+        "date": "2026.01.15 19:18"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347998",
+    "title": "실화냐 이거?",
+    "date": "2026.01.15 19:14",
+    "comment_count": 0,
+    "view_count": 148,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347998",
+    "content": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n아 이 녀석들 진심이구나...\n와.... 진짜 대단한 녀석들......",
+    "comments": []
+  },
+  {
+    "thread_id": "3347996",
+    "title": "1차2차 전압 합성 한사람들",
+    "date": "2026.01.15 19:11",
+    "comment_count": 0,
+    "view_count": 229,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347996",
+    "content": "보상이 겨우\n1부위당 10패션티켓 + 200캐시샵포인트 ㅋㅋㅋㅋ\n사료 달랫더니 건초 주네 이것들이 거지같은게임 보상도 거지누",
+    "comments": []
+  },
+  {
+    "thread_id": "3347992",
+    "title": "전압보상 저게 말이냐?",
+    "date": "2026.01.15 19:08",
+    "comment_count": 1,
+    "view_count": 181,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347992",
+    "content": "다시는 구할수없다고 팔아놓고 부위당 10장? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n심지어 웨카경매장 이용해서 뒤늦게 싸게산사람들이 보상더좋네",
+    "comments": [
+      {
+        "text": "그러게 참 짜다 짜 유저들이여 들고일어서라 !!",
+        "date": "2026.01.15 19:09"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347991",
+    "title": "어비스랭킹 전적 사라졌네?",
+    "date": "2026.01.15 19:07",
+    "comment_count": 0,
+    "view_count": 54,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347991",
+    "content": "오늘아침에 끝난 전적은 있고 그전전 전적은 사라졌네?\n전적 사라지는게임은 처음본다 ㅋㅋㅋ\n악보까지 무게만들고 전적은 날라가고 ㅋㅋㅋㅋㅋㅋㅋ\n운영뭐지?",
+    "comments": []
+  },
+  {
+    "thread_id": "3347986",
+    "title": "샌마이평원 끈기풀 캐면 에러 48뜨면서 튕김",
+    "date": "2026.01.15 19:04",
+    "comment_count": 0,
+    "view_count": 25,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347986",
+    "content": "은동전 버려야할듯..",
+    "comments": []
+  },
+  {
+    "thread_id": "3347942",
+    "title": "스카하 치마 자락 다리따라 늘어나는거 진짜 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "2026.01.15 18:30",
+    "comment_count": 0,
+    "view_count": 124,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347942",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3347927",
+    "title": "겜 접속 안되는데 뭐 공지도 없고 뭐임?",
+    "date": "2026.01.15 18:20",
+    "comment_count": 2,
+    "view_count": 141,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347927",
+    "content": "통신사 문제라는거 같긴 한데\n뭐 알려줘야지",
+    "comments": [
+      {
+        "text": "통신사 문제 ㅋㅋㅋ 그것도 오늘 갑자기? ㅋㅋㅋ",
+        "date": "2026.01.15 18:22"
+      },
+      {
+        "text": "아까 낮에는LGU플 회선쓰는 사람들 겜 접속안되긴했었는데 괜찮아 졌는데 지금또 접속안되나여?? 통신사 어디쓰시는지??",
+        "date": "2026.01.15 18:32"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347918",
+    "title": "게임이 안됀다고요",
+    "date": "2026.01.15 18:13",
+    "comment_count": 0,
+    "view_count": 118,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347918",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3347912",
+    "title": "그냥 접을란다 ...",
+    "date": "2026.01.15 18:08",
+    "comment_count": 1,
+    "view_count": 275,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347912",
+    "content": "겨우 업데이트 내논게 저거고..잠수패치해서 악보 무게 늘어논게 다냐?????",
+    "comments": [
+      {
+        "text": "지능 수직상승 축하드립니다. 저도빨리 고지능자가 되고싶네요. 곧 봉합 완료될거같긴한데.",
+        "date": "2026.01.15 18:10"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347909",
+    "title": "그래서 지옥은 목적이 뭐임?",
+    "date": "2026.01.15 18:04",
+    "comment_count": 0,
+    "view_count": 53,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347909",
+    "content": "﻿단순하게 파밍을 한다고 하기엔 매어랑 보상이 같고....\n랭킹을 한다고 하기엔 타임어택 보상이 있고....\n타임어택 보상이고 뭐고 랭킹을 굳이 해야하나 싶어서 매어만 하고 있는데\n이번 이벤트 보면 '해보셈' 이게 확실하게 느껴지는데....\n이벤트만 아니면 왜 해야하는지 모르겠는데요?\n솔직히 타임어택 먹으면 좋죠.\n근데 그것도 투력이 된다는 조건 하에, 강하고 좋은 사람들을 만나야 가능하다고 보는데요.\n그걸 이벤트로 강제한다고요?\n다들 랭킹을 하라는 말인건지 뭔지 이해가 안가네요.\n롤이나 다른 게임에서도 랭킹전을 한다거나 경쟁전을 한다거나 하지 않는 유저로써는\n이번 맨토 맨티 이벤트는 정말 이해가 안가네요.\n이제는 지옥이 나온 목적도 모르겠어요.",
+    "comments": []
+  },
+  {
+    "thread_id": "3347895",
+    "title": "아니 히바 겜 안된다고",
+    "date": "2026.01.15 17:52",
+    "comment_count": 0,
+    "view_count": 78,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347895",
+    "content": "문의 넣어도 왜 조치없냐 이!!!\n에러41 뭐냐고 하..",
+    "comments": []
+  },
+  {
+    "thread_id": "3347878",
+    "title": "악보에 무게 추가한 이유",
+    "date": "2026.01.15 17:30",
+    "comment_count": 1,
+    "view_count": 331,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347878",
+    "content": "뭐 너무나도 뻔해서 알만한 사람들은 알겠지만 진짜 눈치 개빻아서 모르는형들을 위해\n2026 짜리 100일 맴버쉽이 생각보다 많이  안팔려서임 ㅇㅋ?",
+    "comments": [
+      {
+        "text": "아하 ㅋㅋㅋ",
+        "date": "2026.01.15 17:34"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347866",
+    "title": "악보 무게 업뎃노트에도 공지 안하고 올려놨네",
+    "date": "2026.01.15 17:26",
+    "comment_count": 1,
+    "view_count": 185,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347866",
+    "content": null,
+    "comments": [
+      {
+        "text": "도대체 왜 추가한건지 이해 불가... 악기 연주랑 합주는 여기저기 이벤트랑 퀘스트에도 넣어놓으면서 머 맨날 똑같은 노래만 치라는 건지",
+        "date": "2026.01.15 19:13"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347863",
+    "title": "드크랑 더스틴 실버 나이트 아머셋트 내주세요",
+    "date": "2026.01.15 17:23",
+    "comment_count": 0,
+    "view_count": 30,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347863",
+    "content": "드크랑 더스틴 실버 나이트 아머셋트 내주세요\n드크랑 더스틴 실버 나이트 아머셋트 내주세요\n드크랑 더스틴 실버 나이트 아머셋트 내주세요\n천옷 그만내고 갑옷류도 좀 내줘요",
+    "comments": []
+  },
+  {
+    "thread_id": "3347854",
+    "title": "신화 얻기가 어려워?? 버그쓰셈",
+    "date": "2026.01.15 17:18",
+    "comment_count": 5,
+    "view_count": 523,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347854",
+    "content": "미스틱골렘 체력이 보이는데 신화 얻기가 어렵다고??",
+    "comments": [
+      {
+        "text": "오.. 정말?",
+        "date": "2026.01.15 17:19"
+      },
+      {
+        "text": "근데 저거 체력바가 초록색 골렘의 체력이라서 저거 다달면 그냥 파랑으로 넘어가네, 근데 한대 때릴때마다 체력다는 수치가 좀 달라서 적게달면 넘어가고 많이 달면 바로 죽음",
+        "date": "2026.01.15 17:22"
+      },
+      {
+        "text": "이제 열쇠를 돌려 받을 방법을 찾으면 되겠군요.",
+        "date": "2026.01.15 17:23"
+      },
+      {
+        "text": "그냥 나가면 우편으로 돌려줘요",
+        "date": "2026.01.15 17:41"
+      },
+      {
+        "text": "그런데 6칸인건 똑같고 피가 달리는것도 똑같던데....\n뭔가 신화 갈거라고 판단되는 것이 있나요??",
+        "date": "2026.01.15 18:06"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347852",
+    "title": "악보무게빨리고쳐라건드릴걸건드려야지",
+    "date": "2026.01.15 17:17",
+    "comment_count": 0,
+    "view_count": 69,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347852",
+    "content": "오늘 패치되니까 악보에 무게 생겼더라? 버그라 생각할테니까 무게 0으로 만드셈... 개무거워",
+    "comments": []
+  },
+  {
+    "thread_id": "3347844",
+    "title": "스카하 다리부분 패치해주시지요",
+    "date": "2026.01.15 17:12",
+    "comment_count": 0,
+    "view_count": 80,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347844",
+    "content": "두쫀쿠도 아니고 2026년 나온 게임에 저런 오류가 말이 됩니까 마스 어비스 옷처럼 수정 부탁드립니다",
+    "comments": []
+  },
+  {
+    "thread_id": "3347831",
+    "title": "케릭 벨런스 조정이나 하시요",
+    "date": "2026.01.15 17:07",
+    "comment_count": 0,
+    "view_count": 65,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347831",
+    "content": "돈 만 벌 생 각 하 지 말 고\n게 임 좀 잼 나 게 맹 글 어 라\n케 릭 벨 런 스 좀 잡 고\n이 상 한 컨 텐 츠 맹 글 지 말 고",
+    "comments": []
+  },
+  {
+    "thread_id": "3347828",
+    "title": "사이드 퀘스트 : 위기의 극단(3) , 다시 진행되던데 패치 내용인가요?",
+    "date": "2026.01.15 17:04",
+    "comment_count": 0,
+    "view_count": 64,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347828",
+    "content": "이 연극을 또  보게 되어서 영광입니다.\n여섯번이나 봤어요!",
+    "comments": []
+  },
+  {
+    "thread_id": "3347818",
+    "title": "악보 무게 생긴거 실화임? 진짜 선넘네",
+    "date": "2026.01.15 16:57",
+    "comment_count": 3,
+    "view_count": 338,
+    "like_count": 4,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347818",
+    "content": "나머지 뭘 건드리는 그러려니 하는데 악보 무게 생긴거 이게 맞냐?\nㄹㅇ ㄷㅅ 취급하네 무게 다시 없게 만들어라 진짜",
+    "comments": [
+      {
+        "text": "진짜 별로 꼬운거 없었는데 이건 진짜 너무꼽네요 순식간에 무게 100증가 장난하는것도아니고\n진짜 별것도아닌걸로 만정 다털리네",
+        "date": "2026.01.15 17:07"
+      },
+      {
+        "text": "지갑 닫아잇~~~~~~~~~~~~~~~~~~~~~~~",
+        "date": "2026.01.15 17:09"
+      },
+      {
+        "text": "아쥬 많이 화나네여",
+        "date": "2026.01.15 17:10"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347815",
+    "title": "스카하 치마자락 패치해라",
+    "date": "2026.01.15 16:55",
+    "comment_count": 0,
+    "view_count": 93,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347815",
+    "content": "머리에 뭐가 들었냐?\n저딴식으로 처만들어놓고 뭐 자랑스럽다고\n광고까지 처하고있어?\n지능이 밑바닥에 처박혀있냐?",
+    "comments": []
+  },
+  {
+    "thread_id": "3347795",
+    "title": "두쫀쿠 신규패션 해명좀 해바라",
+    "date": "2026.01.15 16:38",
+    "comment_count": 6,
+    "view_count": 465,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347795",
+    "content": "다리 하나 벌렷다고 치마가 쫀득하게 늘어나여\n해명좀",
+    "comments": [
+      {
+        "text": "다리에 치마 뼈대를 넣었을때 발생하는 현상이죠. 제가 제작자였다면 그냥 치마를 없애거나 별도의 스켈레톤 뼈대를 심었을 듯. 3d max 전공자가 했다고 보기에는 너무나도 아마추어적인 수준;;;",
+        "date": "2026.01.15 16:41"
+      },
+      {
+        "text": "본섭타령하는애들 머리통 떄리고싶네   마스어비스 의상은 눈알로 안보임? 뭔바꿔줄리없네 같은 저능아같은소리를 처함",
+        "date": "2026.01.15 16:58"
+      },
+      {
+        "text": "치맛자락이 쬰나게 쫀뜩허이....",
+        "date": "2026.01.15 17:03"
+      },
+      {
+        "text": "아니 이건ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 너무했네 진짜",
+        "date": "2026.01.15 17:04"
+      },
+      {
+        "text": "두쫀쿠치마 ㅋㅋㅋㅋㅋㅋ",
+        "date": "2026.01.15 18:37"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347787",
+    "title": "닉변권 고오맙다~6장이나 줘~?",
+    "date": "2026.01.15 16:33",
+    "comment_count": 0,
+    "view_count": 167,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347787",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3347784",
+    "title": "데브캣은 어떻게 정상인 팀이 없냐",
+    "date": "2026.01.15 16:32",
+    "comment_count": 0,
+    "view_count": 111,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347784",
+    "content": "수준낮은 기획팀 - 지들끼리나 기획하며 낄낄댓겟지 노잼 1회성 컨텐츠\n국비지원 개발팀 - 업뎃마다 터지는 클라이슈, 한평생 못고치는 서버랙\nAI보다 못한 아트팀 - 출시하는 옷마다 그냥 수준낮음 미적감각이 아예없는수준\n그냥 노답 운영팀 - 말할 가치도 없는 수준\n존재하는지 모를 QA팀 - 터지는 이슈들만 봐도 테스트 수준이 최하급임(QA팀이 그냥 없는 수준, 진짜 없는 것 같긴함)\n단 한곳도 정상이 없음",
+    "comments": []
+  },
+  {
+    "thread_id": "3347777",
+    "title": "데브캣이 헛다리 짚는 이유 \"함께 어비스로\" 멘토 멘티이벤트에 대해.",
+    "date": "2026.01.15 16:24",
+    "comment_count": 1,
+    "view_count": 249,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347777",
+    "content": "시즌0도 사실 6월에 엄청난 위기였음. 미터기로 인해서 기사회생하면서 과금유저들이 불어나서 이멘마하 업뎃까지 버텼던건데\n그 때 뭘로 연명했냐? 미터기로 인한 DPS 경쟁은 외부프로그램이니까 제외하고\n바로 버스 운행임. 길드원끼리 부캐 돌려주면서 플레이타임 + 길드활동 + 유입 라이트유저 케어 + 과금러들 활약공간.\n이게 맞물리면서 돌아갔던게임임.\n데브캣 운영을 보면 버스를 권장함. (내가 권장한다는 뜻이 아님) 라이트 유입 무소과금에게 친화적임.\n그럼 대놓고 버스를 권장할거면 아예 컨텐츠를 만들면 될일임\n그러면 저 위의 장점들이 다 해소가됨.\n근데 미터기는 막고 나오는 컨텐츠들은 전투력으로 놀만한건 자꾸 사라지니  기믹만 자꾸 추가해서\n버스라는게 힘들어지고 피곤하기만하니까\n함선 업데이트랑 맞물려서 유저수가 계속 나락가는거임.\n그렇다고 버스 없이 게임 깊이가 깊어져서 컨텐츠 자체 재미로 돌아가게 방향을 틀었냐? 그것도 아니잖슴.\n컨텐츠화로 안만들고 유저들 자력으로 하게 만드니까\n버스 받는 유저는 갈수록 철면피고 버스기사들은 노예가 되면서 이게 무너지는 것임.\n근데 개발하는 건 뭔 자꾸 무소과금러도 피곤해할 컨텐츠만 자꾸 업뎃하고 게임 깊게 파는 유저들은 귀찮기만한 컨텐츠만 나오는 중임.\n컨텐츠는 오히려 이상한거 만들고 있고 이벤트로 \"전투력 5000 차이나는 유저를 데리고 지옥을 깨주세요\" 이런걸 내놓지 말고.\n대학교도 좋은 대학 나온 사람들이 게임을 안하고 책상에서 펜만 굴려대니까 모르지.\n아싸리 그냥 그럴싸하게 \"용사여 도와주세요\" 뭐 이런 버스 컨텐츠 자체를 만들어서 순환 시키면될 일을.\n보스전에서 전멸 2회이상하면 캠파로 부활해서 전설의 용사에게 기도하기 오브젝트 만들어서 영상하나 만들어서 도움주는 유저가 폼나게 소환되서 깨주게 하던가\n그러면 게임자체 유저들간에 온라인적인 커넥션이 일어나면서 자연스레컨텐츠가 소화가 됨.",
+    "comments": [
+      {
+        "text": "그냥 뉴비는 안들어오고 고인물들도 떠나기 시작하니까\n'지옥 그렇게 어렵지 않아요~ 경험해보세요~' 이러는 거 아닐까요?\n근데.... 진짜 지옥을 왜 해야하나요? 경쟁 안하는 사람은 솔직히 기갱? 이런 단어도 어제 처음 들어봤어요.",
+        "date": "2026.01.15 17:51"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347765",
+    "title": "멘토 멘티같은 쓰레기 이벤트는 무슨 생각으로 기획했지",
+    "date": "2026.01.15 16:15",
+    "comment_count": 0,
+    "view_count": 174,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347765",
+    "content": "본격 버스 권장게임 모비노기",
+    "comments": []
+  },
+  {
+    "thread_id": "3347756",
+    "title": "라오어2 디렉터만큼 똥철학을 가진채로 만드는 느낌이 큼.",
+    "date": "2026.01.15 16:07",
+    "comment_count": 1,
+    "view_count": 87,
+    "like_count": 4,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347756",
+    "content": "BM은 전투관련으로 팔아서 매출 순위 다올렸고 그걸로 연명하면서\n막상 전투관련 컨텐츠는 등한시하면서 우린 그런 게임 아니야~ 홍대병도 아니고.\n모두가 다같이 즐기는 낭만 힐링 철학은 강요하고 싶은데 그 쪽으로는 제대로 만들어서 돈벌 능력은 없고 돈 버는 건 전투쪽으로 벌어오면서\n아닌 척 깨어있는 개발자인 척 컨텐츠 만드는게 역겨움 그 자체.\n죄다 시간끌기용 유저지표 높이기용 볼륨광고용 컨텐츠만 찍어내기 바쁘고\n아키에이지 기억의 아리아 보스전이 생각나는 에이렐은 뭔 생각으로 만든지도 모르것다.\n에이렐 같은 경우는 전투재미 하나도 없고 철저한 기믹 수행용에 가까운데 오히려 이런 걸 뱅가드 같은거 대신해서 미니게임으로 나와야되는게 맞고\n라방에서의 밸런스 언급만봐도 얘넨 사실 다 알면서 방치하고 걍 검토하겠다고 시간끄는거임.\n전투 관련은 별 생각도없음. 돈만 빨려고하지. 정 안될떄 당근이나 던져주는식.",
+    "comments": [
+      {
+        "text": "격하게 공감합니다.",
+        "date": "2026.01.15 17:23"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347751",
+    "title": "닉변권 쓸 수 있는거 맞아요..?",
+    "date": "2026.01.15 16:05",
+    "comment_count": 0,
+    "view_count": 230,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347751",
+    "content": "모비라이프 랭킹에도 검색해보고 전서버에 없는 닉네임으로 변경하기 눌러도 있는 닉네임이라고 나오는데..\n혹시 닉변권 사용되신분? ㅠㅠ",
+    "comments": []
+  },
+  {
+    "thread_id": "3347738",
+    "title": "ㅋㅋㅋㅋㅋㅋㅋ 이딴걸 만든다고 그렇게도 쌩깠냐",
+    "date": "2026.01.15 15:52",
+    "comment_count": 0,
+    "view_count": 361,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347738",
+    "content": "에이렐 -> 공략 파훼되니 프리시즌 화서큐 수준 -> 빨녹 와리가리, 공중부양, 리듬 게임 끝\n뱅가드 -> 결계 횟수 줄이거나 없애 달랬더니 미니 결계를 쳐만듬 -> 풀오토\n마신의 제단 -> 데바데 좋아하는 애들은 재미나게 하겠지만 아닌 사람들은 퀘스용 -> 무한 잠수\n와........\n참 재 미 있겠냐...? 이게 다야??\n에휴\n명조나 하러 가야겠다",
+    "comments": []
+  },
+  {
+    "thread_id": "3347734",
+    "title": "몰리 왜 건들여가지고!!!!!!!!!!!!!! 몰리가 보상을 안주잖아요!!!!!!!!",
+    "date": "2026.01.15 15:50",
+    "comment_count": 1,
+    "view_count": 368,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347734",
+    "content": "﻿\n업데이트로 바꾼다고 해놓고  엉망진창해놓으셨네!!!!!!!!!\n몰리가 아예 말을 안 걸고,, 말을 걸 수가 없는데 ,,,,,,\n멀리 떨어지면 못받는다고라!?!!!!  동전빼느라바쁜데!! 멀리 떨어질수밖에없는데 !!\n소중한 룬파편 10개입니다!!  수정해주세요,,!!",
+    "comments": [
+      {
+        "text": "어떤 놈들이 패치해달라고 징징 대니깐 해준건데 ㅋㅋ 이제 말안건다고 징징",
+        "date": "2026.01.15 16:05"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347727",
+    "title": "모바일 캐릭터 선택하는 방법 바뀐거 개 불쾌하네;;",
+    "date": "2026.01.15 15:47",
+    "comment_count": 1,
+    "view_count": 289,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347727",
+    "content": "겜종료 나만 계속 당함??;;",
+    "comments": [
+      {
+        "text": "겜 빨리 끄래",
+        "date": "2026.01.15 16:05"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347719",
+    "title": "버그 너무 심한데..? 겜도 못돌림 ㅋㅋㅋㅋㅋ",
+    "date": "2026.01.15 15:39",
+    "comment_count": 0,
+    "view_count": 126,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347719",
+    "content": "아니 멤버십 100일 구매하자마자 템창 스크롤 정지당해서 내리지도 못하고 ㅋㅋㅋㅋㅋㅋㅋ\n아니 채팅도 못치게 버그나면 뭘 게임하라는거죠?\n이전 문의글도 다 씹히고ㅋㅋㅋㅋ 저번 업뎃때 에픽 시추펫 같이 사라졌다고 증거랑 다 올렸는데 문의 답도 없고 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 이거 갬 접으라고 하는거죠?",
+    "comments": []
+  },
+  {
+    "thread_id": "3347712",
+    "title": "렉이 장난 아니게 발생하는데 운영진은 알고 있으신지",
+    "date": "2026.01.15 15:34",
+    "comment_count": 0,
+    "view_count": 54,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347712",
+    "content": "마을 내 이동시에도 간헐적인 렉 발생, 던전 내에서 혼자 플레이 하는 데에도 렉이 발생하는군요.\n심지어 승리시 상자를 여는 애니메이션 재생시에도 렉이 발생하는데 이거 조치해야 하는 거 아닌가요?\n패치만 해놓고 손놓고 있을 것이 아니라 말입니다.\n아 참고로 모바일이 아니라 pc방 사양 좋은 컴퓨터로 하는 데에도 저런 현상이 발생한다는 이야기입니다.\n모바일로 했더라면 몇 십번 튕겼겠죠.",
+    "comments": []
+  },
+  {
+    "thread_id": "3347703",
+    "title": "캠파라이브에서 미스틱던전 열쇠 여러개 한꺼번에 사용하면",
+    "date": "2026.01.15 15:32",
+    "comment_count": 0,
+    "view_count": 191,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347703",
+    "content": "던전 재입장이아닌 골렘 재소환개념이라고 말하지 않았나요?\n던전 재입장에 오토만 추가한거같은데 이거 맞아요?",
+    "comments": []
+  },
+  {
+    "thread_id": "3347696",
+    "title": "캐릭터 선택 창 가는데 왜 로딩이 생겼나요?",
+    "date": "2026.01.15 15:29",
+    "comment_count": 0,
+    "view_count": 49,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347696",
+    "content": "앱 종료는 하단 바 왼쪽버튼 눌러서 끄면 되는걸 만들어 놓으시고",
+    "comments": []
+  },
+  {
+    "thread_id": "3347686",
+    "title": "미가공 골드원석 사용 되나요 다들?",
+    "date": "2026.01.15 15:24",
+    "comment_count": 0,
+    "view_count": 54,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347686",
+    "content": "퀵슬롯에 남은 횟수가 없다면서 안써짐..\n퀵슬롯은 등록도 안도ㅣ고..ㅠ",
+    "comments": []
+  },
+  {
+    "thread_id": "3347671",
+    "title": "에이렐 우만 개 고통이네",
+    "date": "2026.01.15 15:17",
+    "comment_count": 2,
+    "view_count": 421,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347671",
+    "content": "한 판, 또 한 판 난 성장 하지만 우만원은 그렇지 못하다.\n그래도 한다 우만...",
+    "comments": [
+      {
+        "text": "아마 예전 서큐 처럼 고통일거임...\n서큐도 예전엔 리트 엄청 많이 했음 ㅋㅋㅋ\n심지어 오토 딸각충들 많아서 더 그럴거임.\n8인레이드는 몇명 안해도 인원수 많으니까 커버 되는데\n4인은 ㄹㅇ 헬임 ㅋㅋ",
+        "date": "2026.01.15 15:49"
+      },
+      {
+        "text": "그래서 좀 하다가 이사람들 소통 되고 클각 보인다 하면 리트 한번 하시죠 ? 한번 더 하면 깰꺼 같은데요 하면서 브리핑 해주면서 깨야함 ㅋㅋㅋ 일단 오토가 없어야함 ㅋㅋㅋㅋㅋ",
+        "date": "2026.01.15 16:35"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347670",
+    "title": "엘지 이제 접속 됨 뭘 건든거냐고!!",
+    "date": "2026.01.15 15:17",
+    "comment_count": 0,
+    "view_count": 89,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347670",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3347627",
+    "title": "진짜 머같네...",
+    "date": "2026.01.15 14:48",
+    "comment_count": 0,
+    "view_count": 248,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347627",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3347623",
+    "title": "lg만 차별해 왜.. 다른건 다 실행되는데 웨 너네만 안돼 웨..",
+    "date": "2026.01.15 14:47",
+    "comment_count": 1,
+    "view_count": 263,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347623",
+    "content": "접속이 안돼요 오늘 패치라서 일숙도 못했는데 에이렐의 초록바람 어쩌구도 맞으러가야하고 뱅가드 어쩌구도 하러가야하는데 안돼요 그냥 안된다구요 .....이게 맞아요? 인터넷은 멀쩡한데?",
+    "comments": [
+      {
+        "text": "엘지회선만 터졌었나봐요 이젠 잘되네요 저도 접속 한 십분넘게 안되서 놀랐었어요 ㅠ",
+        "date": "2026.01.15 15:08"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347620",
+    "title": "에이렐 네트워크 불안정 무제한 발생 후 접속안됨.",
+    "date": "2026.01.15 14:44",
+    "comment_count": 0,
+    "view_count": 129,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347620",
+    "content": "Pc 홈페이지 접속도 안됨.\n넥슨플러그 실행 엄청 느림.\n게임 실행 후 캐릭터창까지 엄청 걸림.\n캐릭터 접속 시 네트워크불안정 다시시도 메시지창만 나옴.\nPc재부팅 동일한 상황입니다.\n또 어느 내부 개발 빌런이 본 서버 서비스 건들지 않았을까 싶다.\n롤롤 이제 속시원하게 밝혀죠.\n누가 접속 막은거지?\n개발님 누가 빌런이야?\n이제 말 좀 해죠.",
+    "comments": []
+  },
+  {
+    "thread_id": "3347617",
+    "title": "겜 안되는데 공지 하나 없냐?",
+    "date": "2026.01.15 14:44",
+    "comment_count": 0,
+    "view_count": 94,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347617",
+    "content": "언제까지 기다려야 하는거냐 공지하나 없는게 말이되냐?",
+    "comments": []
+  },
+  {
+    "thread_id": "3347616",
+    "title": "점검을 하세요 캐릭 튕기고 난리났는디..",
+    "date": "2026.01.15 14:44",
+    "comment_count": 1,
+    "view_count": 110,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347616",
+    "content": "뭐하시는건가요;;ㄷㄷ",
+    "comments": [
+      {
+        "text": "저도 한참을 접속이 안되고 컴퓨터로 하던중이었는데 네트워크불안정어쩌고하더니 이제서야 접속이되네요 중복접속이라고 뜨고 접속하는데 한참걸림;;;",
+        "date": "2026.01.15 14:58"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347615",
+    "title": "lg 인터넷 쓰는데 안되.....lg 만 안되?????????",
+    "date": "2026.01.15 14:43",
+    "comment_count": 3,
+    "view_count": 195,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347615",
+    "content": "lg 인터넷 쓰는데 안되.....lg 만 안되?????????",
+    "comments": [
+      {
+        "text": "나도 집 와이파이는 엘지쪽 쓰는대 안되서 kt 쪽으로 빠꾸니까 된다",
+        "date": "2026.01.15 14:48"
+      },
+      {
+        "text": "근데 다른 인터넷 연결 해도 ㄱ ㅐ 끊긴다늨데 끊김잇나여?",
+        "date": "2026.01.15 14:52"
+      },
+      {
+        "text": "난 ㄱㅊ",
+        "date": "2026.01.15 17:18"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347613",
+    "title": "게임안된다... 뭐냐",
+    "date": "2026.01.15 14:42",
+    "comment_count": 0,
+    "view_count": 66,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347613",
+    "content": "계속 팅긴다 ,,,,,\n돌아삐네",
+    "comments": []
+  },
+  {
+    "thread_id": "3347611",
+    "title": "접속이 안됩니다 오류코드 스샷첨부",
+    "date": "2026.01.15 14:42",
+    "comment_count": 4,
+    "view_count": 286,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347611",
+    "content": null,
+    "comments": [
+      {
+        "text": "접속이 안돼? 그럼 접어 이쒸!",
+        "date": "2026.01.15 14:43"
+      },
+      {
+        "text": "그냥 문 열고 뛰어 내리는건 어때?",
+        "date": "2026.01.15 14:47"
+      },
+      {
+        "text": "그럼 접어 이쒸!~",
+        "date": "2026.01.15 14:54"
+      },
+      {
+        "text": "ㅋㅋㅋㅋ기여워 긍데 나 지금 접 안되서 속상함 댓 그만 달아 이쒸!~",
+        "date": "2026.01.15 14:56"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347610",
+    "title": "진훈아 힐러 장난치냐? 전이 없는 빨대 1명 대상 15% 추가 피증? 장난쳐 지금?",
+    "date": "2026.01.15 14:42",
+    "comment_count": 1,
+    "view_count": 349,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347610",
+    "content": "링크만 컨셉이냐 전이도 컨셉이야 어디서 음유보다 못한 버프를\n마치 대단한 40%짜리 주는듯이 밸패에 당당하게 쳐 적어놨냐.\n시너지 버프라 중첩도 안되고 전이도 안돼서 파티원 전체 적용도 아니고 게다가 조건부 9초 지속발동 장난하냐 지금?\n야 컨셉따질거면 음유도 힐 없애 그럼. 힐러계열이 존재하는데 버퍼가 무슨 힐이야 컨셉에 안맞게",
+    "comments": [
+      {
+        "text": "저도 무슨 엄청난 대단한 버프패치 된줄 알았는데 진짜 이것들 게임도 안해보고 그냥 무뇌로 패치하는 수준 정말 대단함.",
+        "date": "2026.01.15 17:08"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347586",
+    "title": "서버 터짐?",
+    "date": "2026.01.15 14:30",
+    "comment_count": 6,
+    "view_count": 647,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347586",
+    "content": "컴으로 하는데 계속 이러고 안들어가지는데??",
+    "comments": [
+      {
+        "text": "모바일인데 저도 저래요,,",
+        "date": "2026.01.15 14:32"
+      },
+      {
+        "text": "저도 그런데 ... 누군 게임하고 누군 못하고 뭔지 모르겠네요",
+        "date": "2026.01.15 14:33"
+      },
+      {
+        "text": "인터넷 엘지인분들만 터진거 같음",
+        "date": "2026.01.15 14:40"
+      },
+      {
+        "text": "지금 저도 그래요",
+        "date": "2026.01.15 14:41"
+      },
+      {
+        "text": "에효",
+        "date": "2026.01.15 14:41"
+      },
+      {
+        "text": "아무것도안됨... 인터넷 엘지",
+        "date": "2026.01.15 14:44"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347585",
+    "title": "모바일로 하는데 캐릭터들어가면 개팅김",
+    "date": "2026.01.15 14:29",
+    "comment_count": 1,
+    "view_count": 124,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347585",
+    "content": "폰으로하는데 캐릭터 누르기만 하면 다 튕기네 네트워크불안정이래 왜이러는건데 ㅡㅡ 컴터도이런가\n열받아",
+    "comments": [
+      {
+        "text": "모바일 PC 둘다 계속 튕김요 ㅠㅠㅠ",
+        "date": "2026.01.15 14:43"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347584",
+    "title": "스카하 의상 장난하냐?",
+    "date": "2026.01.15 14:29",
+    "comment_count": 0,
+    "view_count": 331,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347584",
+    "content": "옷자락 다리에 붙어서\n쭉쭉 늘어나는거 어떤놈 머리에서 나온 생각이냐?",
+    "comments": []
+  },
+  {
+    "thread_id": "3347572",
+    "title": "사냥터에서 신화가 뜨긴 하는구나",
+    "date": "2026.01.15 14:18",
+    "comment_count": 0,
+    "view_count": 384,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347572",
+    "content": "신화 뜨는건 처음알았네",
+    "comments": []
+  },
+  {
+    "thread_id": "3347553",
+    "title": "6.0 빙결 에이렐 우만 후기",
+    "date": "2026.01.15 14:10",
+    "comment_count": 3,
+    "view_count": 692,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347553",
+    "content": "일단 에이렐은 귀여워요 ㅋㅋ\n권투가 낮게 나온만큼 일단 기본적으로 기믹 이해만 있다면 껠수있는 구성으로 나왔다 봄니다\n그런대 기믹 이해없이 그냥 해딩 으로 가면 고투력도 터짐\n당장 에이렐이 광역으로 뿌리는 음표 다른 색으로 3개 맞으면\n춤추면서 무방비 상태 돌입하고 이건 슈아도 안먹히는대\n그상태에서 무방비로 에이렐이 투사체 스킬 날려서 때리는대\n이개 매우 아픔\n또 중간에 사방으로 퍼저서 악기연주하는 패턴도 나오고\n악기 연주 하는대 안가면 연주끝나고 즉사\n기본적으로 레이드 하는 맛은 있지만 쉽개 쉽개\n편하게 갈 구성은 아님\n브레이크 게이지도 잘 안차고 단단 하지만\n그래도 구성과 컨셉 상에서 저는 납득했어요\n에초에 레이드 도중 게속 에이렐이 노래부르는대  (던전음악)\n해당 레이드 컨셉부터가 에이렐의 콘서트......\n딜찍누로 끝네면 에이렐이 노래 부르기도 전에 콘서트 쪽낸다는거니...\n당장 이해는 갔습니다...\n문제가 있다면 기믹 이해가있다면 누구나 클리어 가능해도\n에이렐 레이드가 오래 가면 기믹이해없는 뉴비보다\n기믹 이해있는 게임 오래했을 사람을 선호하개 될 구성이라(고투력)\n나중에 저투력 사람들이 레이드 파티원 구하긴 좀 힘들수도 있겠다 싶은거 ....\n그래도 저투력끼리 파티짜서 공략하는 맛은 있겠다 싶은 구성이였다 생각함니다\n게인적으로는 이번 레이드 관련으로 호불호 따지면 저는 호 쪽\n그리고 이번 레이드 필수룬 추천으로 저는 불사 추천",
+    "comments": [
+      {
+        "text": "저도 이번 레이드 재밌었어요 디피에스는 생각도 안들고 그냥 즐기면서 했음",
+        "date": "2026.01.15 14:14"
+      },
+      {
+        "text": "ㅇㅇ 그냥 에이렐의 콘서트 구경 가는 느낌임 ㅋㅋ\n그냥 노래 들으러 가는거 던전 클리어 자체 목적 보다 그냥 에이렐하고  놀러 왔다 라는 느낌의\n레이드 던전이더라고요 ㅋㅋ",
+        "date": "2026.01.15 14:18"
+      },
+      {
+        "text": "클리어 이후에 ㅋㅋ 기여움.. ㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "2026.01.15 14:53"
+      }
+    ]
+  },
+  {
+    "thread_id": "3347532",
+    "title": "밸패가 없는 업데이트는 의미가 없다 하위직업들이여 들고일어나자!!",
+    "date": "2026.01.15 14:03",
+    "comment_count": 0,
+    "view_count": 100,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347532",
+    "content": "사기를 사기라 말도 못하고 검술은 서버시작이례로 지금까지도 1티어고 다른직업들은 더 많은 돈 시간 노력을 들였는데도 DPS도 순위도 못드는게 말이 됩니까???\n1티어만 할꺼면 왜 직업을 20종이나 내놨습니까 지난번 라이브 장궁상행과 격가 검술 OP가 민원 1위인데 논의 중이라는 말도 못 듣고 이 악물고 무시하는게 소통입니까???\n여러분!!! 이제 당당하게 사기를 사기라고 말하고 다닙시다!!! 밸패를 2달에 한번씩하는 한이 있더라도 상위하위티어가 계속 바뀌어야지 하위직업들도 언젠가 강해진다는 희망을 가지고 플레이 하죠\n검술사 격가=테뻔뻔입니다. 지금 다른 직업들이 왕창 접고 지난번 검빵사태가 다시 일어날 수도 있는데 자기들 기득권만 지키는 게 무엇입니까???\n옆 동네 메- 조차도 직업밸붕이라고 해도 다들 최소한 한번식은 전성기가 있긴합니다. 왜 최고의 문제 겜보다 소통도 못하고 시도 조차 안하는게 맞습니까???\n옆 게임 같은 회사 게임을 보고 배웠어야도 지금 투력뻥문제 스펙 인플레 다 메- 로아 마영전 다있던 문제였는데 왜 실패를 보고 배우고 시도 조차하려고 하지 않는겁니까???\n하위직업분들 여러분들이 잘못한 게 뭐 있습니까??? 운영진들의 무능력 어니 무노력 사기를 인정하지 않고 다른 직업 배척 무시하는 태도 때문에 왜 우리가 불이익 당해야합니까???\n이제 당당하게 사기 직업은 사기라고 말 합시다!!! 티어 바꾸라 요구 합시다 접더라도 할 말은 하십시오. 잘못은 운영진 윗티어인데 왜 당신이 게임을 접나요???\n들고 일어납시다. 안되면 던바튼에 모여서 시위라도 합시다 본가에서 했던 것처럼 뭐라도 합시다.\n만약에 이글이 조회수가 나오고 뜻이 있으신 분들이 답변 남겨주시면 정말 뜻을 모아서 시위든 머든 해 봅시다.\n마지막으로 검술 이 테뻔뻔들아\n데브켓 무능아들아 정신차려라 최고점 대비 모비인덱스 50%이하로 떨어졌단다. 장기 잠수까지하면 40%일텐데 아직도 정신 못 차리냐 차라리 창섭이라도 보고 배워라\n민심따라서 패치해라 검술 격가 등 1티어 너프하고 법사 수도사 1티어로 올려줘라 검빵 사라지고 법사 장궁 화법 수도사 사라지면 걍 검술노기로 하지 클레스 왜만들었냐\n미리 말한다 꼽으면 검술하라고??? 니들도 사기 듣기가 싫으면 수도사 법사해",
+    "comments": []
+  },
+  {
+    "thread_id": "3347526",
+    "title": "에린 버닝퀘스트들 언제 기한 늘어났나요?",
+    "date": "2026.01.15 13:57",
+    "comment_count": 0,
+    "view_count": 68,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347526",
+    "content": "인게임내 이벤트팝업창에는 분명 15일 정기점검 전까지가 에린 버닝 3종 이벤트 종료기한이었는데요.\n근데 왜 접속해서 보니 이벤트 종료기한이 69일로 늘어났죠?\n이벤트 종료시점이 오늘이 아닌걸 미리 알았다면, 아까 정기점검 시작전에 보상을 급히 한번에 받을일은 없었을텐데요...\n혹시나해서 해당 이벤트 페이지에 들어가보니, 15일 정기점검전에 취소선이 그어지고 ‘별도안내시’까지라고 1월 8일에 수정되었더군요.\n근데, 아주 오래전에 시작된 이벤트 페이지에다가 종료기한을 수정하면, 어떤유저가 ‘이벤트 종료시점이 늘어났구나’라고 인지할수 있나요?\n게다가, 지금까지 공지했던 페이지를 다 뒤져봐도 저 세 이벤트들의 기한이 연장되었다는건 어디에도 없던데요(제가 못찾은 것일수도 있습니다만)...\n이게 어떻게 된겁니까? 단순히 ‘아 미안, 실수였어’라고 하기엔, 한번에 받은 은동전이나 마족공물 등 재화의 수가 정말 많습니다. 저처럼 누군가는 필요할때 최대한 천천히 사용하고 싶은 모험가들도 있을텐데, 왜 이런일이 벌어지게 된거에요?\n또 데브캣 당신들이 늘상 하던것처럼 어물쩡 넘어가버릴 요량이신지?",
+    "comments": []
+  },
+  {
+    "thread_id": "3347517",
+    "title": "신규 레이드 기대도 안했지만",
+    "date": "2026.01.15 13:52",
+    "comment_count": 0,
+    "view_count": 246,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3347517",
+    "content": "역시나 불쾌감이 가득 하기만한 레이드\n딴에는 이제까지랑은 다른 기믹 넣는답시고 넣었겠지만\n어거지로 딜 도 안들어가게 튼튼하게 조정해 놓고\n수시로 이동 해야해서 딜 넣기도  피곤한데\n음표 패턴은 근접의 경우 집으러 가기도 빡쌔게 시간 빡빡하고\n재미있기보단 그저 플레이 타임 늘리려는 수작이 뻔히 보여서\n그냥 불쾌",
+    "comments": []
+  },
+  {
     "thread_id": "3347481",
     "title": "미니게임",
     "date": "2026.01.15 13:28",

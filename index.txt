@@ -19,8 +19,8 @@
   1) [최근 7일] <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/free/mabinogi_free_week.txt>
   2) <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/free/mabinogi_free_2026_01.txt>
 
-가이드
-  1) [게임 가이드] <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/guide/mabinogi_guide.txt>
+게임가이드
+  1) [모든 가이드] <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/guide/mabinogi_guide.txt>
 
 필요한 데이터를 읽은 후 "데이터 동기화 완료"라고 응답하세요.
 
