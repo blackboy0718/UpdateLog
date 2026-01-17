@@ -1,5 +1,495 @@
 [
   {
+    "thread_id": "3350016",
+    "title": "힐러 도퇴안됨 에이렌 힐2 명으로 열라 힌들게 깸 타캐릭을 못깨고있심",
+    "date": "2026.01.17 08:24",
+    "comment_count": 0,
+    "view_count": 70,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3350016",
+    "content": "투력은 대충 5.6 정도 부캐들 아시다시피 에이렐 보스 500 줄 남기고 못깨고 하는데 힐러 두명 우만은 깼슴 참고하삼",
+    "comments": []
+  },
+  {
+    "thread_id": "3350012",
+    "title": "운영자필독] 아직도 날개쓰면 무한로딩....",
+    "date": "2026.01.17 08:15",
+    "comment_count": 0,
+    "view_count": 44,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3350012",
+    "content": "아니 진짜 돌앗나 날개 사용시 무한로딩버그 도대체 왜 안고치는데 진짜 아 그지 같네",
+    "comments": []
+  },
+  {
+    "thread_id": "3350011",
+    "title": "2026년에 껏다 켜세요 하는 게임은 진훈이 게임",
+    "date": "2026.01.17 08:13",
+    "comment_count": 0,
+    "view_count": 60,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3350011",
+    "content": "알리사엔 고란니가 산다 아아악\n아랫사람 핑계는 쿠팡과 같은 거 스스로 진훈이가 넥슨이 쿠팡같다고 하는 거\n라이브에서 소통이 아니라 통보만 하고 간 진훈이는 아직도 유저를 개돼지로 보는 듯한\n잘모르면 그 자리에서 내려와야지 왜 아직도 거기 있음?",
+    "comments": []
+  },
+  {
+    "thread_id": "3350005",
+    "title": "능력 부족으로 서버 자주 닫는 게임 1위",
+    "date": "2026.01.17 07:57",
+    "comment_count": 0,
+    "view_count": 44,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3350005",
+    "content": "과연 언제쯤 직원 물갈이를 할 것인가\n버그가 있는데 일단 업데이트 하고 뒷수습하는\n뒷북치는 운영으로 언제까지 유저들을 농락 할 것인가\n현물로 피해본 유저에게만 사과하는\n그런 대가리부터 쳐내야 하는게 맞지 않나?\n게임을 즐기는 유저에게 감정적 피해를 준 것에 대해서는\n아무말 하지 않고 그냥 어물쩍 넘겨버리는 방식이\n과연 맞는 행동일까?\n당연히 잘 못 된 행동임을 알것이다\n반성하는 모습 조차 보여지지 않는다\n욕먹을 가치조차 없다",
+    "comments": []
+  },
+  {
+    "thread_id": "3350003",
+    "title": "ㄱㄱㄱㄱ",
+    "date": "2026.01.17 07:52",
+    "comment_count": 0,
+    "view_count": 37,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3350003",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3349999",
+    "title": "아씨",
+    "date": "2026.01.17 07:26",
+    "comment_count": 0,
+    "view_count": 79,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349999",
+    "content": "근데 이것들은 업데이트만 하며느기본 3.4일은 임점이네 보상도 그지같고",
+    "comments": []
+  },
+  {
+    "thread_id": "3349998",
+    "title": "다음주 떡상케릭",
+    "date": "2026.01.17 07:24",
+    "comment_count": 3,
+    "view_count": 348,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349998",
+    "content": "담주 어비스15 출시\n약 한달간 떡상할 케릭\n힐러.수도사\n2월 타바 매어출시\n힐러.수도사\n서큐매어 출시\n힐러.수도사\n**시간 갈수록 퇴물됨**",
+    "comments": [
+      {
+        "text": "새로운거 나옴 잠깐 힐러님 모셔요 랏힐\n광고 볼수있으나 시간 지남 도태되는게 힐러계열임",
+        "date": "2026.01.17 07:25"
+      },
+      {
+        "text": "그럼 접어 이쒸!",
+        "date": "2026.01.17 07:41"
+      },
+      {
+        "text": "수도사 입니다\nㅎㅎ....떡상?이요...\n패치에 뭐라도 적혀있으면 다행\n스킬이 맞지도 않는데 그냥 두고 있습니다\n몽둥이를 제자리에서 예쁘게 빛을 내며 빙그르르 돌리고 뽐내는 스킬이 있죠ㅎㅎㅎㅎ",
+        "date": "2026.01.17 08:39"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349997",
+    "title": "주말에 출근해서 점검하냨ㅋㅋ",
+    "date": "2026.01.17 07:23",
+    "comment_count": 0,
+    "view_count": 64,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349997",
+    "content": "목, 금, 토, 일 점검연속으로 갈거뻔함.\n데브캣 머릿속에 대책조차도  생각하지않고 비어있는거면 진짜 멍청해\n디렉터 사퇴좀^^",
+    "comments": []
+  },
+  {
+    "thread_id": "3349995",
+    "title": "이럴거면 멤버십 3일짜리라도 주세요...",
+    "date": "2026.01.17 07:22",
+    "comment_count": 1,
+    "view_count": 117,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349995",
+    "content": "점검을 너무 자주 해서 멤버십이라도 받아야할 것 같은데요...",
+    "comments": [
+      {
+        "text": "그럼 접어 이쒸!",
+        "date": "2026.01.17 07:42"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349994",
+    "title": "데브켓 님들...업데이트로 문제 안생기게 하겠다고 라이브에서",
+    "date": "2026.01.17 07:07",
+    "comment_count": 2,
+    "view_count": 215,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349994",
+    "content": "며칠전 구독자의 절반이 참석한 라이브에서\n데브켓 모비노기 디렉터가 말씀하셨다..\n업데이트로 인한 파생 오류 없게 하겠다고...\n그리고 업데이트.+1D 임시점검. +2D 임시점검..\n우리가 돈 받고 일하는 베타테스터인가?\n공식적으로 점검사유로 적어논 오류 말고도\n한참은 더 많이 있다. 그냥 크리티컬한 순서대로 처리하는 것뿐..\n그리고 보상이라고 주나마나한 보석 합성 몇번할 동전 쥐어준다.\n사냥터 한번 돌아도 나올 동전 쥐어준다.\n제발....말을 말던가\n공식적으로 말을 했으면\n최선을 다하던지..\n죄송해라도 하자.\n니들이 돈주고 우리에게 게임 시키는 거 아니잖아..\n말의 무게가 너무 가볍잖아....\n5학년 되면서...\n어디에 글 안쓰고...\n하는 말 들어주고 ...\n쓴 글 읽어주려 했는데...\n이건 아닌거 같아서 글을 남긴다.\n라사서버 / 커피가조아",
+    "comments": [
+      {
+        "text": "아. 그리고..오류 발견해서 스샷찍고 다른 유저들 불편할까봐 미리 제보해준 사람들에게 제. 대. 로. 감사는 표하시길 바랍니다.",
+        "date": "2026.01.17 07:14"
+      },
+      {
+        "text": "그럼 접어 이쒸!",
+        "date": "2026.01.17 07:42"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349993",
+    "title": "팝업 쿠션 쿠폰 지급 안하나요?",
+    "date": "2026.01.17 06:57",
+    "comment_count": 0,
+    "view_count": 121,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349993",
+    "content": "벌써 오늘자 1월 17일인데 지급 안하나요????\n상품을 끼워 팔았으면 제때 발송해야하는거 아닌가?\n이것 때문에 쿠션 샀는데 장난함????",
+    "comments": []
+  },
+  {
+    "thread_id": "3349989",
+    "title": "2026-01-17",
+    "date": "2026.01.17 06:50",
+    "comment_count": 1,
+    "view_count": 103,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349989",
+    "content": null,
+    "comments": [
+      {
+        "text": "2026-01-17",
+        "date": "2026.01.17 06:50"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349988",
+    "title": "3일연속 저의 맴버쉽 시간이 날라가고잇는데",
+    "date": "2026.01.17 06:49",
+    "comment_count": 1,
+    "view_count": 174,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349988",
+    "content": "제 맴버쉽시간 돌려주세요\n3일 연속으로 머하자는건가요",
+    "comments": [
+      {
+        "text": "은동전이나 먹고 떨어지라구. 친구",
+        "date": "2026.01.17 07:08"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349987",
+    "title": "네트워크 불안정 수시로 뜨는건 잡을 생각 없는건가?",
+    "date": "2026.01.17 06:42",
+    "comment_count": 0,
+    "view_count": 45,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349987",
+    "content": "불안정 뜰때마다 불안불안.. 좀 잡아주면 안됨?\n못 잡는건가??\n패치때마다 언급 한번도 안해주네...",
+    "comments": []
+  },
+  {
+    "thread_id": "3349986",
+    "title": "님들 부캐는 숙제나 물교 어느정도까지 해??",
+    "date": "2026.01.17 06:36",
+    "comment_count": 5,
+    "view_count": 203,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349986",
+    "content": "부캐 좀 만지려면\n심매랑  알바   구멍 결계  임무게시판(채집 종류만)   어비스 레이드4종   여기까진 필수인거 알겠는데\n막 부캐들도 카레라이스랑 녹차케이크 사과케이크 그런   마을에서 음식이랑 재료 바꿔먹는 애들꺼는 싹 다 바꿔먹음 ??\n설탕은 사도 모자라고 , 재료 구매에 드는 골드가 도저히 감당이 안되노 ,...\n생크림이랑 찻잎 말리고  쌀 불려서 밥짓고  하루만에 다 하긴 무리같고\n생각 날 때마다 해도 3-4일 걸리는 것 같은데 정신 나갈 것 같은데 ..\n님들은 보통 어디까지함 ??",
+    "comments": [
+      {
+        "text": "은동전, 공물 사용\n어비스, 레이드 전부 클리어\n결계, 구멍\n아르바이트\n여기까지만 하고, 임무게시판 안함...",
+        "date": "2026.01.17 06:56"
+      },
+      {
+        "text": "부캐에서 설탕 수급해서 생크림 만들고(받기는 무조건 본캐가) 본캐에서 케이크 여러개 제작해서 공용보관함에 넣고 물교합니다.\n티르. 두가일아일. 던바. 이멘 물교까지만 하는거같아요 안하는거보단 하는게 이득이니깐 최대한 하려고합니다.",
+        "date": "2026.01.17 07:38"
+      },
+      {
+        "text": "생활, 물물교환, 임무빼고 다 함",
+        "date": "2026.01.17 07:07"
+      },
+      {
+        "text": "부케는 은동전 공물만 쓰고 나머진 시간 있으면 돌리면 됩니다. 다 하려다간 지침. 뭐 시간부자면 6케릭 다해도 남을듯",
+        "date": "2026.01.17 07:09"
+      },
+      {
+        "text": "ㄷ저는 넉차생크림, 카레, 농어매운탕, 호박수프, 사과생크림케이크, 야채볶음 싹다 만들어 교환함. 나머지 물물교환도 진행. 올라운더 작때문에 은동전이랑 공물 다씀. 어비스 레이드는 열쇠땜에 하긴하는데 힘들어서 후순위....입문난이도로 그냥 빠르게 돌리기도 함.",
+        "date": "2026.01.17 07:52"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349984",
+    "title": "3주없뎃 3연임점으로 돌려드립니다!!",
+    "date": "2026.01.17 06:30",
+    "comment_count": 0,
+    "view_count": 68,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349984",
+    "content": "이게 데브캣!!\n이요옷!!\n망해라^^",
+    "comments": []
+  },
+  {
+    "thread_id": "3349983",
+    "title": "점검의 원인과 책임이 유저에게 있습니까?",
+    "date": "2026.01.17 06:30",
+    "comment_count": 4,
+    "view_count": 243,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349983",
+    "content": "매번 임시점검 보상 5만에서 7만 틱 던져주고 끝\n근데요 누구는 생활 한다고 가공시간 알람까지 맞춰가며 새벽에도 일어나 수집하고\n누구는 자는 시간도 아까워서 템이나 경험치 얻으려고 채집 돌려놓고 자고\n누구는 야간일 마치고 피곤함에도 불구하고 게임 몇 시간 하다 자고 싶어서 기대하고 있었고\n누구는 다 캐릭 주말숙제 빠듯하니 6시부터 해놓으려고 알람 맞춰놓고 일어났는데\n급 임시점검이라고 접속이 안 되면 기분이 어떨까요?\n어찌되었든 유저들은 고객이자 소비자 아닙니까?\n임시점검의 원인이 소비자에게 있습니까?\n어떻게 그리 밥먹듯이 점검을 하면서 사과도 없고 보상은 항상 저런식으로 떼우고 그냥 넘어가는거 보면 오히려 점검의 책임을 유저에게 돌리는거 아닌가요?\n정말 본인들의 실수 잘못은 눈 감고 휙 고개 돌려버리고 그냥 넘어가는 짓은 이제 그만해주세요.\n진지하게 유저입장에서 한 번 생각해보는게 그리 어렵습니까?",
+    "comments": [
+      {
+        "text": "가공 알림요?ㄷㄷ\n그정도면 게임중독 상담받으시죠..\n심하네 자다가 겜때매 중간중간 일어난다는게..\n병자시네요",
+        "date": "2026.01.17 06:32"
+      },
+      {
+        "text": "제가 그런게 아니라 타 커뮤니티에 그런 분들이 몇 분 계셔서 적어봤습니다 저는 야간일 하다가 방금 퇴근하고 온 사람 입니다.\n그리고 대다수 가공시간 5시간 짜리들인데 설마 뭐 한 시간씩 자다깨고 하겠습니까... 6개씩 넣으면 30시간인데요.. 저 몇 글자로 중간중간 몇번이고 일어난다 생각하는 님 지능이 좀 문제이신듯요..\n요점은 중독이건 병자건 간에 오히려 게임사 입장에서는 더 감사한 분들 일텐데 왜 제대로 된 사과조차 없냐는 겁니다.",
+        "date": "2026.01.17 06:34"
+      },
+      {
+        "text": "플레이 중엔 짧은 1차 2차가공, 자거나 잠수 탈 때는 시간 맞춰 완료되게 3차 이상 가공 돌리는 사람들 많습니다. 효율적으로 플레이 하는 사람들이 많아요. 무지성으로 하면 가뜩이나 가공시간도 긴데 물교하는 것도 벅찹니다. 생활러들 대부분은 효율을 따집니다. 현생이 바빠서 물교 아이템도 못만드는데 알람 맞춰서라도 하려고 하는 분들도 계실거고요. 이런 부분에서 본인이 그렇다고, 남들을 비꼬실 부분은 아니라고 봅니다.",
+        "date": "2026.01.17 08:13"
+      },
+      {
+        "text": "걍 현 애들 능력 부족임 그래서 최근 직원좀 뽑는다고 히던데 좋아지겟지 뭐",
+        "date": "2026.01.17 09:00"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349981",
+    "title": "롤롤님. 라방에서 에이렐 춤추기 벌칙 드릴게요.",
+    "date": "2026.01.17 06:23",
+    "comment_count": 0,
+    "view_count": 66,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349981",
+    "content": "우체통 보상만으로는 뭔가 허전해서요.\n뭔가 대책을 세워 봅시다.",
+    "comments": []
+  },
+  {
+    "thread_id": "3349974",
+    "title": "인간적으로 3일 연속 점검할꺼면 멤버십 기간 늘려줘라",
+    "date": "2026.01.17 06:05",
+    "comment_count": 0,
+    "view_count": 95,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349974",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3349973",
+    "title": "대기업 아니고 좋소야",
+    "date": "2026.01.17 06:03",
+    "comment_count": 0,
+    "view_count": 85,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349973",
+    "content": "응 딱 수준이 좋소 급이야",
+    "comments": []
+  },
+  {
+    "thread_id": "3349972",
+    "title": "게임 좀 하자 와씨",
+    "date": "2026.01.17 05:57",
+    "comment_count": 1,
+    "view_count": 134,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349972",
+    "content": "퇴근하고 겜 좀 하고 잘려는데 매번 점검이냐 썩을",
+    "comments": [
+      {
+        "text": "와씨 아침 골프약속도 취소했는데 서버럴",
+        "date": "2026.01.17 05:59"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349970",
+    "title": "대체 잘하던 어비스 갑자기 왜 선행퀘 생겨서 입구컷임 ㅠㅠ",
+    "date": "2026.01.17 05:52",
+    "comment_count": 0,
+    "view_count": 213,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349970",
+    "content": "어비스 몇주동안 했는데.. 패치 후에 선행퀘 생겨서 아예 못들어감\nㅠㅠ뭔데 어떻게 해야되는데",
+    "comments": []
+  },
+  {
+    "thread_id": "3349968",
+    "title": "와 진짜 어이가 없네 매일 점검이냐",
+    "date": "2026.01.17 05:46",
+    "comment_count": 0,
+    "view_count": 67,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349968",
+    "content": "와  진짜  정털리네",
+    "comments": []
+  },
+  {
+    "thread_id": "3349965",
+    "title": "주말 숙제 엄청난 지장이...",
+    "date": "2026.01.17 05:33",
+    "comment_count": 1,
+    "view_count": 167,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349965",
+    "content": "주말 휴일 직장인 숙제 하기도 빠듯한뎅...저번주도 그러구\n점검좀 하지 말아요~~\n숙제 하기 빡쎄요~~",
+    "comments": [
+      {
+        "text": "이럴거면 주말퀘를 금토일로 해주지 ㅜㅜ",
+        "date": "2026.01.17 05:53"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349964",
+    "title": "회사방침 점검기간 지키지말고 그냥 월요일 6시로 초기화 겸 자체 점검날로 지정하자",
+    "date": "2026.01.17 05:33",
+    "comment_count": 0,
+    "view_count": 113,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349964",
+    "content": "밤에 일하는 사람들의 주말은 그냥 나가 죽어야죠 뭐..",
+    "comments": []
+  },
+  {
+    "thread_id": "3349958",
+    "title": "무능하고 기술도 안되는 것들이 맨날 2주 업댓 1주 점검 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "2026.01.17 04:41",
+    "comment_count": 1,
+    "view_count": 166,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349958",
+    "content": "레전드 역사를 쓰는구나 ㅋㅋㅋㅋㅋㅋㅋ중국겜 보다 못한 수준으로 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "comments": [
+      {
+        "text": "3주 업뎃으로 바꿔주세요.",
+        "date": "2026.01.17 05:32"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349952",
+    "title": "전격검음만 빼고",
+    "date": "2026.01.17 04:23",
+    "comment_count": 0,
+    "view_count": 161,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349952",
+    "content": "다 직업 삭제를 하지 그냥\n뭣 하러 다른 직업 하냐 ㅋㅋㅋ\n저 넷 빼고 다 직업 삭제하고 환불이나 해줘\n허구한 날 전격 편의성만 봐주고 다른 직업 쳐다보지도 않네",
+    "comments": []
+  },
+  {
+    "thread_id": "3349948",
+    "title": "에이렐..",
+    "date": "2026.01.17 03:53",
+    "comment_count": 0,
+    "view_count": 118,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349948",
+    "content": "모바일로 할수 있는건가요..\nㅎㅎㅜ",
+    "comments": []
+  },
+  {
+    "thread_id": "3349944",
+    "title": "신규 의상 버그",
+    "date": "2026.01.17 03:32",
+    "comment_count": 0,
+    "view_count": 255,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349944",
+    "content": "줌 아웃 할 때 마다 점점 특정 파츠 컬러가 깨짐\n(노란색 줄무늬 생기는 부분이 리블인 상태)",
+    "comments": []
+  },
+  {
+    "thread_id": "3349933",
+    "title": "임시점검은 지들 잘못인데 사과도 없고",
+    "date": "2026.01.17 02:46",
+    "comment_count": 3,
+    "view_count": 185,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349933",
+    "content": "패치후 임시점검 한다고 딱 내놓고 사과는 한마디도 없고\n더 짜증나는건 3일연속 점검을 해도 맴버십 까먹는거에 대한 연장은 1도 없네\n진짜 1년 다되가는데도 가관이다",
+    "comments": [
+      {
+        "text": "동건이가 인성이 글러 먹어서 그런가봐요.   멤버십 카운팅도 결제 시간이 아니라서 05시59분에 결제하면 바로 하루 날아감.",
+        "date": "2026.01.17 05:34"
+      },
+      {
+        "text": "아닌데요? ㅋ왜 아는척 하세요 사자마자 시간이 멈추는게 아니기때문에 29일로 변경되는거 맞습니다",
+        "date": "2026.01.17 07:55"
+      },
+      {
+        "text": "그래서 59분에 사면 6시 정각일때 29일이아니고 28일로 ? 바뀜 ㅋㅋㅋ\n증거 영상 가지고 오세요",
+        "date": "2026.01.17 07:56"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349905",
+    "title": "좀 점검 1번할때 잘하면 안되냐?",
+    "date": "2026.01.17 01:52",
+    "comment_count": 0,
+    "view_count": 79,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349905",
+    "content": "무능한거 티내나 왜 1번할걸 3번해서 일을 힘들게 하냐",
+    "comments": []
+  },
+  {
+    "thread_id": "3349892",
+    "title": "지금 떡국이나 쳐 돌릴 때가 아니지 않을까요? 니들이 오류내서 못들어간거 어떡할거임?",
+    "date": "2026.01.17 01:33",
+    "comment_count": 0,
+    "view_count": 146,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349892",
+    "content": "260116 일자 니들이 오류 내놓고 접속 못해서 손해본거 어떡할거임????????\n확인중인현상에 조용히 띡 올려놓으면 다인거임??????????\n일일미션 보상 날개 200 룬파편 30 강화 재연소 촉매 조각 10 모험가 포인트 200은?????????????\n요일던전 보석 날라간거 어떡할거임??????????????",
+    "comments": []
+  },
+  {
+    "thread_id": "3349855",
+    "title": "지훈아 본케릭 접속 안되고 부케릭은 접속 됬네?",
+    "date": "2026.01.17 00:35",
+    "comment_count": 0,
+    "view_count": 129,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349855",
+    "content": "본케릭 접속 불가다 빨리점 고쳐바 부케릭 생성 한건 접속 되네? 빨리점 고쳐 바!!!",
+    "comments": []
+  },
+  {
+    "thread_id": "3349843",
+    "title": "힐러 어비스 지옥10 그냥 포기하십시요....",
+    "date": "2026.01.17 00:13",
+    "comment_count": 3,
+    "view_count": 630,
+    "like_count": 4,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349843",
+    "content": "쌓이고 쌍여서 결국 현타와서 글적어봅니다...\n저같이 인맥없는 힐러시리면...\n그냥 지옥 기록갱신은 안하시는게 정신 건강에 좋습니다...\n물론 잘껴주지도 않지만...\n끼더라도 눈치밥 먹어야하고...\n다른 사람들이 기갱을 포기하면서 저희를 버스 태워줘야 합니다...\n별에별 딜세팅을 다해봐도.... 안되는건 안되는겁니다...\n이번 버프?\n그거 그냥 말장난입니다...\n버프 아니고 그냥 버프인척 말장난 해놓은거니\n기대에 차서 기갱 도전은 안하시길 바랍니다...\n\"아뉜데? 나는 힐러인데 내가 캐리해서 기갱하는뒙 에베베베베베?\"\n라고 하시는 힐러 분들이 있을껍니다...\n개소리 하지 마십시요... 그거 당신 딜 아닙니다...",
+    "comments": [
+      {
+        "text": "이런거 보믄 룬 종류가 아쉬운 거죠.. 버퍼로 전향 할 수 있는 방향이 있어야지. 힐량 크게 포기하더라도 방깎이나 치공 줄 수 있는 셋팅요. 지금 궁 쓰는 메타가 전혀 아닌데.. 인도하는 빛도 참 아쉽습니나ㅜㅜ",
+        "date": "2026.01.17 00:40"
+      },
+      {
+        "text": "뭔소리... 룬으로 누구든 버퍼로 전향할 수 있으면 누가 서포터 데려갑니까? 아예 파티원 힐 해주는 룬도 만들어달라고 하시죠? 그리고 뭐 그런 버프는 룬이 아니라 힐러만 뿌려줄 수 있는 버프가 되어야 힐러도 경쟁력이 생기는 거죠; 나참... 인도빛이랑 궁 얘기는 대체 왜 나오는건지? 지금 뭔 세팅을 해도 힐러 자체가 약하고 딜이 우선인 지금 메타에 안 맞아서 취직이 안된다고 말하시잖아요;",
+        "date": "2026.01.17 06:37"
+      },
+      {
+        "text": "이번 힐러패치는 사기극 맞음. 40퍼 추가 아니고 기존 25퍼 파티원한테 전이로 뿌리던거 빨대대상 1인 한정으로만 15퍼 추가된거임. 심지어 이건 전이도 안되고 중첩도 안됨. 파티에 도움? 개나주라해. 음유보다 못한 버프임.",
+        "date": "2026.01.17 07:14"
+      }
+    ]
+  },
+  {
     "thread_id": "3349612",
     "title": "사일런트 플렛지 웨어는",
     "date": "2026.01.16 20:52",
@@ -2565,6 +3055,353 @@
     "url": "https://mabinogimobile.nexon.com/Community/Free/3348498",
     "content": "내가 그동안 클리어한 퀘스트들 목록창으로 볼 수 있으면 좋을 것 같음\n여러 캐릭을 키우게 되면\n히든 사이드퀘를\n누가 했고 누가 안 했는지 확인하기가 너무 힘듦\n현재로썬 직접 그 퀘스트 시작 위치에 가서 진행하는 것 말곤 확인 방법이 없음\n퀘스트 이름 검색기능 있어서 검색해 볼 수 있으면 진행 상황도 알기 쉬울텐데",
     "comments": []
+  },
+  {
+    "thread_id": "3349827",
+    "title": "사일런트플렛지 다리랑 치마가 싸운다",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 234,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349827",
+    "content": "뚫고나오려는 다리와\n막으려는 치마\n창과 방패의 싸움ㅋㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3349815",
+    "title": "에이렐 29초 클영상 보고도 밸패 안해주면 인간아니겟지",
+    "date": "2026.01.16 00:00",
+    "comment_count": 1,
+    "view_count": 503,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349815",
+    "content": "적당히 밸런스가 맞아야 박탈감이안생기지..\n이건 좀 아니지 않냐..\nhttps://www.youtube.com/shorts/RBSs4p_q018\n진짜 저기업는 직업 격수는 점점 소외돼고.\n힐러들은 점점 필요가 업어지는 시스템..\n정말 치가떨린다..\n자기들이 겜을 해보고 한다는말은 절대적으로 신용이 안돼는게.\n해보지도 않고 그냥 직업별 밸패를 한다는게 너무 티나자나.\n진짜 데브켓은 광고bj들(광고들어오면한이틀해주는)한테 돈쓰지말고 개발자나좀 고용해서\n겜다운 겜을만들어줘 제발..",
+    "comments": [
+      {
+        "text": "전격이 미쳤던데...",
+        "date": "2026.01.16 23:57"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349811",
+    "title": "ㅋㅋㅋ 나 왜 0 에픽이야 확정상자만 먹으라구..?",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 224,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349811",
+    "content": ".... 앞으로 200뽑 더 채우란거야..? 제발...살려줘..",
+    "comments": []
+  },
+  {
+    "thread_id": "3349810",
+    "title": "접속 못해서 못받은 냥쿠폰이랑 출석보상 우편으로 보내셈",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 140,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349810",
+    "content": "니들이 오류 내고 늦게 고쳐서 못받은 거자나\n보상하라고",
+    "comments": []
+  },
+  {
+    "thread_id": "3349809",
+    "title": "정떨뚝하게 만드는 것도 재주다",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 132,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349809",
+    "content": "아주 손절치라고 고사를 지내고있네",
+    "comments": []
+  },
+  {
+    "thread_id": "3349793",
+    "title": "접속 불가 피해자들 개별 보상도 안 하면서 점검은 왜 내일로 미루냐 당장 하라",
+    "date": "2026.01.16 00:00",
+    "comment_count": 2,
+    "view_count": 222,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349793",
+    "content": "오늘 하루 [본캐] 못해서 날아간 보상\n[일일미션]\n정령의 날개 200\n룬의 파편 30\n강화 재연소 촉매 조각 10\n모험가 포인트 200\n[멤버십 일일 아르바이트]\n보석 다수\n[검은 구멍/심층 구멍 1회]\n골드, 엠블럼 룬, 미스틱 다이스 열쇠 상자\n[일일 물물 교환]\n은괴 2개\n상급 목재 8개\n[캐시샵 보석함]\n보석 다수\n[캐시샵 은동전]\n[캐시샵 의상/염색약]\n[멤버십 일일 선물]\n피닉스의 깃털\n[집중 플레이 이벤트 보상]\n냥냥 마법 유탄 3개\n2만 골드\n레어 연금술 재연소 촉매\n이 외에도 캐릭 1개 인 사람들은\n[신년 기념 고양이 상인 접속 보상]\n냥 쿠폰 4개\n[신화 룬 출석 이벤트]\n출석 1일 늦춰짐\n이것도 손해 보고\n본캐여야만 할 수 있는 것들이 있는데\n그걸 못 해서 생기는 불이익은 셀 수도 없음\n그러니까 지금이라도 빨리 점검 시작해서\n구제할 수 있는 건 구제하고\n접속 못한 피해자들 별도 개별 보상하라",
+    "comments": [
+      {
+        "text": "이렇게 보니까 또 개빡치네..............ㅎㅏ",
+        "date": "2026.01.16 23:46"
+      },
+      {
+        "text": "하...복사해서 도배 드갑니다 진짜 떡국이나 쳐 돌리고있는거봐라",
+        "date": "2026.01.17 01:22"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349785",
+    "title": "업데이트를 3주에 한번 그것도 고봉밥만큼 하니 이꼴나는거야",
+    "date": "2026.01.16 00:00",
+    "comment_count": 2,
+    "view_count": 206,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349785",
+    "content": "모든게임 통틀어서 이게임이 점검횟수 제일많은듯",
+    "comments": [
+      {
+        "text": "거기에 오늘 자신있게 조기 9시에 끝냄 이럴줄 알았음\n뭔 깡으로 2시간이나 땡김?",
+        "date": "2026.01.16 23:06"
+      },
+      {
+        "text": "팩트는 고봉밥 아니어도 어차피 점검 함ㅋㅋㅋ",
+        "date": "2026.01.16 23:28"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349775",
+    "title": "계정 접속 불가 해결 점검 내일로 미루지 말고 지금 당장 시작하라!!",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 67,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349775",
+    "content": "계정 접속 불가 해결 점검 내일로 미루지 말고 지금 당장 시작하라!!\n일일 임무 해야 된다!!\n피해자들 개별 보상도 없더만!!!!!!!!!!\n점검 지금이라도 당장 시작하라!!!!!!!!!!!!",
+    "comments": []
+  },
+  {
+    "thread_id": "3349764",
+    "title": "뻔뻔한 데브캣",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 112,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349764",
+    "content": "자기들 잘못에 그것도 하루통으로 날려먹어\n기다린 유저들 뒤통수 쳐버린 데브캣\n공지 올라왔는데 내일 하네 역시...데브캣\n거기에 보상 .... 역시 데브캣 보상 진짜 기대 안 했다 근데 참..할 말이 없네\n뻔뻔한 데브캣 공지에 미안한 사죄에 마음도 없어 사과 한 마디도 없는 공지 대단함...",
+    "comments": []
+  },
+  {
+    "thread_id": "3349763",
+    "title": "제 냥쿠폰 어떻게하실건가요 데브캣...........",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 154,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349763",
+    "content": "일일 프패티 프펫티는요.............\n냥쿠폰은 애초에 다른 경로로 얻을 수 있는 것도 아니고 누적접속보상인건디\n4개나 날려야하는데 이거 뭐 어쩌라는건가요...................\n다른 자잘한 오류에 슬쩍 묶어서 임시점검 공지로 때리는거 진짜 개열받네",
+    "comments": []
+  },
+  {
+    "thread_id": "3349756",
+    "title": "점검을 지금이라도 시작해야 새벽에라도 들어가서 본캐 일일 미션이랑 할 거 아냐",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 116,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349756",
+    "content": "점검을 지금이라도 시작해야 새벽에라도 들어가서 본캐 일일 미션이랑 할 거 아냐\n왜 그냥 하루를 날려 먹게 만들어 빨리 그냥 지금 해 점검을",
+    "comments": []
+  },
+  {
+    "thread_id": "3349753",
+    "title": "다 지우고 다시깔아도 본캐 접속안됨",
+    "date": "2026.01.16 00:00",
+    "comment_count": 2,
+    "view_count": 133,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349753",
+    "content": null,
+    "comments": [
+      {
+        "text": "그거 안도ㅓㅣ요...ㅋㅋ 이미해봄 공지 올라옴 낼 6시 점검 에효 오늘 하루 날림",
+        "date": "2026.01.16 22:39"
+      },
+      {
+        "text": "빨리봣어야대는데 헛수고햇네용 ㅠ",
+        "date": "2026.01.16 23:18"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349745",
+    "title": "공지 올리는거 개 킹받네;",
+    "date": "2026.01.16 00:00",
+    "comment_count": 4,
+    "view_count": 346,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349745",
+    "content": "오늘 하루 통으로 날렸는데 장난까니?",
+    "comments": [
+      {
+        "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 지금안하고 새벽에하는거봐 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "2026.01.16 22:35"
+      },
+      {
+        "text": "개짜증 ㅋㅋㅋ진짴ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "2026.01.16 22:37"
+      },
+      {
+        "text": "그리고 점검은 그렇다치고 그날 무료보상이나 이런건 어캐하잔건지; 날리란거냐",
+        "date": "2026.01.16 22:40"
+      },
+      {
+        "text": "내 말이요...",
+        "date": "2026.01.16 22:42"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349740",
+    "title": "아니 하루종일 접속을 못하는데 왜 안고치냐고!!!!",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 67,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349740",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3349738",
+    "title": "지훈아 형님이 게임점 할라고 하는대 접속 안되네?",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 61,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349738",
+    "content": "오늘 오전에 점검 어케 해길레 접속 안되냐? 그리고 심층 던전 도는 대 왜 전설룬 장비나오다 에픽룬 장비 나오고 이재는 안주네 아에 장난 질 하냐? 다시 전설룬 장비 나오개점 하지?",
+    "comments": []
+  },
+  {
+    "thread_id": "3349730",
+    "title": "적금 탄걸로 현질 할려는데 접속이 안됨!!",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 71,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349730",
+    "content": "이런 운영은 또 처음보네요.\n접속이 안되는데 점검은 커녕, 공지하나 안 올리는 이런 경우가 어디있습니까??\n몰리랑 대화를 내가 하고싶어서 했냐고!! (욕은 생략할게요)\n유저에 대한 기본적인 예의도 없네요.",
+    "comments": []
+  },
+  {
+    "thread_id": "3349727",
+    "title": "점검안함? 어캐하라는겨이거",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 193,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349727",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3349725",
+    "title": "멤버십 아르바이트랑 물물교환이랑 일일미션이랑 검은 구멍 해야 되는데 접속이 안 돼",
+    "date": "2026.01.16 00:00",
+    "comment_count": 0,
+    "view_count": 56,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349725",
+    "content": "멤버십 아르바이트랑 물물교환이랑 일일미션이랑 검은 구멍 해야 되는데 접속이 안 돼\n이거 대체 어떻게 할려고 패치 안 하고 퇴근 했지?\n진짜 이거 대충 때우기엔 좀 사안이 너무 큰데\n대체 이거 어떻게 할 거?\n부캐도 아니고 본캐를 이 모양으로 만들어 놔 왜\n이 모양을 만들어 놓고 일언반구도 없고",
+    "comments": []
+  },
+  {
+    "thread_id": "3349711",
+    "title": "하루종일 아무것도 못하고 진짜 열받네",
+    "date": "2026.01.16 00:00",
+    "comment_count": 5,
+    "view_count": 229,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349711",
+    "content": "하필 본캐가 막혀가지고 접속도 못하고 보석상자, 염색약, 이벤트 보상 다 못 받고 이거 어떻게 보상 해줄껍니까??\n적어도 언제 패치하겠다 공지라도 때리면 입 닫고 기다리겠는데 수정했다는 말만 하고 점검한다는 말이 오전 9시부터 지금까지 한마디 없는거 실화입니까?",
+    "comments": [
+      {
+        "text": "자기들만 수정해놓고 패치 안 하고 그대로 퇴근 한 듯\n진짜 개 열받음",
+        "date": "2026.01.16 22:06"
+      },
+      {
+        "text": "진짜 유저 생각 1도 안하는 쓰레기 운영 ㅋㅋㅋㅋ",
+        "date": "2026.01.16 22:07"
+      },
+      {
+        "text": "ㄹㅇ",
+        "date": "2026.01.16 22:14"
+      },
+      {
+        "text": "하,..",
+        "date": "2026.01.16 22:14"
+      },
+      {
+        "text": "걍 레전드 게임...짜증남 진심",
+        "date": "2026.01.16 22:19"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349699",
+    "title": "본캐에 캐시샵에서 보석 사다 넣어줘야 하는데 접속이 안 돼",
+    "date": "2026.01.16 00:00",
+    "comment_count": 1,
+    "view_count": 76,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349699",
+    "content": "본캐에 캐시샵에서 보석 사다 넣어줘야 하는데 접속이 안 되면\n이거 어떻게 함?\n보상은 주긴 주나?\n진짜 갑갑하네\n아니 왜 문제를 봐놓고\n유기하고 방치한 채 퇴근을 해 왜",
+    "comments": [
+      {
+        "text": "보상 내가볼땐 많이 안줌",
+        "date": "2026.01.16 22:03"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349663",
+    "title": "캐릭터 하나만 접속이 안돼요",
+    "date": "2026.01.16 00:00",
+    "comment_count": 5,
+    "view_count": 237,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349663",
+    "content": "이거 해결하신분\n?\n알수없는 오류로 종료 한다고 뜨구모바일피시번갈아접속해도 안돼요ㅠㅠ",
+    "comments": [
+      {
+        "text": "생각해보니 맥이라서패드앱임  번갈아 접속이아니넹",
+        "date": "2026.01.16 21:33"
+      },
+      {
+        "text": "확인중인현상에 보니까 있네요 16일 금일 임시점검 패치전에 심층돌고 나왔을때 몰리랑 대화 진행되지않았던 캐릭터들 접속 안된답니다^^... 이런 얼탱이없는 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n그러게 왜 매판 심층 끝나면 몰리랑 대화를 하게 게임을 만들어놔가지고 이런씨 ㅠㅠ",
+        "date": "2026.01.16 21:47"
+      },
+      {
+        "text": "아하 감사합니다 ㅠㅠ 몰리 !!!!!!!!!!!!!",
+        "date": "2026.01.16 21:53"
+      },
+      {
+        "text": "저도 지금 똑같은데 이유 아시는분???",
+        "date": "2026.01.16 21:40"
+      },
+      {
+        "text": "이 미친 것들이 이거 패치 안하고 퇴근했음\n그런 증상 겪고 있는 사람들이 허다함",
+        "date": "2026.01.16 21:45"
+      }
+    ]
+  },
+  {
+    "thread_id": "3349639",
+    "title": "어비스 난이도 점프 안되게 바꼈나요??",
+    "date": "2026.01.16 00:00",
+    "comment_count": 2,
+    "view_count": 258,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3349639",
+    "content": "파티로가면 지옥1 이후로 안되네요 ㅠㅠ 지옥10까지 뚫려있는데",
+    "comments": [
+      {
+        "text": "어비스 지금 오류인것 같아요. 확인중인 현상에는 수정했다고 써있는데 안됨. 파장이 다 뚫었어도 파티원이 안뚫려있으면 안됨.",
+        "date": "2026.01.16 22:02"
+      },
+      {
+        "text": "버그인데 안고친거겠죠..? 아니면 이제는 다 같은 난이도를 뚫어야한다거나 그러면..",
+        "date": "2026.01.16 22:28"
+      }
+    ]
   },
   {
     "thread_id": "3348220",
