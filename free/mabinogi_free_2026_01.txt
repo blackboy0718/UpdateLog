@@ -1,5 +1,467 @@
 [
   {
+    "thread_id": "3353442",
+    "title": "10개월 모비노기한거 진짜 후회되네",
+    "date": "2026.01.20 20:55",
+    "comment_count": 0,
+    "view_count": 36,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353442",
+    "content": "갓조나 할걸!\n아....\n모비노기에 쓴돈으로 10개월 동안 갓조나 했으면\n왠만한 캐릭들 다 플돌 풀전무 했을건데\n이런 수박!!!\n아참!\n아이온2는 오늘도 라방 했다지?\n소통 저렇게 하는거란다",
+    "comments": []
+  },
+  {
+    "thread_id": "3353434",
+    "title": "펫 이름 잘 지으세요...",
+    "date": "2026.01.20 20:45",
+    "comment_count": 0,
+    "view_count": 27,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353434",
+    "content": "﻿\n﻿\n닉넴 변경권 뿌린후에\n나쁜사람이 되버림...\n지금은 춘식이로 바꿔어요...",
+    "comments": []
+  },
+  {
+    "thread_id": "3353429",
+    "title": "무능 그잡채",
+    "date": "2026.01.20 20:43",
+    "comment_count": 0,
+    "view_count": 22,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353429",
+    "content": "야 니네 무능해도 너무 능란거 아니냐??\n모바일 게임인데 무한로딩에 접속은 되지도 않네 ㅋㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3353412",
+    "title": "웨카경매장 보상 너무 짜요",
+    "date": "2026.01.20 20:20",
+    "comment_count": 2,
+    "view_count": 55,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353412",
+    "content": "팔 때는 부위당 20만원을 최저로 해두고 보상안은 프패티 10장에 200캐시라는게 수지타산이 안 맞아요\n프패티 10장에 전설 패션 가능하다고 보는건지..???",
+    "comments": [
+      {
+        "text": "옭소 어떤분은 200장에 에픽 하나도 안나왔다고....",
+        "date": "2026.01.20 20:23"
+      },
+      {
+        "text": "젠장 그게 바로 나",
+        "date": "2026.01.20 20:47"
+      }
+    ]
+  },
+  {
+    "thread_id": "3353404",
+    "title": "천둥온",
+    "date": "2026.01.20 20:15",
+    "comment_count": 0,
+    "view_count": 42,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353404",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3353333",
+    "title": "미스턱 던전 보상 받기 버튼 없어지는 버그",
+    "date": "2026.01.20 18:50",
+    "comment_count": 0,
+    "view_count": 38,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353333",
+    "content": "제발 고쳐주세요 무한로딩도 자꾸 걸려서 오늘 재접을 4번이나 함 실화?",
+    "comments": []
+  },
+  {
+    "thread_id": "3353285",
+    "title": "저번주 업데이트 했으니 또 3주 쉬겠네..ㅋㅋ",
+    "date": "2026.01.20 17:34",
+    "comment_count": 0,
+    "view_count": 90,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353285",
+    "content": "데브켓 입사하고 싶습니다...놀고 싶어요!!",
+    "comments": []
+  },
+  {
+    "thread_id": "3353279",
+    "title": "마이홈 진짜 짜증나요",
+    "date": "2026.01.20 17:20",
+    "comment_count": 0,
+    "view_count": 115,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353279",
+    "content": "마이홈 꾸미기 넘 짜증나요\n물품 드레그가 안되고 움직이지도 않고\n집사서 포인트 올리고 집꾸미기 못하면\n이거 왜해여?ㅜ진짜 열받는데 패치하면 괜찮아졌겠지?나만 그런것도 아닌데 왜 안고쳐줘여ㅜ내집ㅜ",
+    "comments": []
+  },
+  {
+    "thread_id": "3353274",
+    "title": "무기 강화 유지 언제 해준다는건 없었죠 .... ?",
+    "date": "2026.01.20 17:13",
+    "comment_count": 1,
+    "view_count": 148,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353274",
+    "content": "듀블인데 ... 진짜 에이렐 이랑 폐시장 하다가 접어 버릴꺼 같아요 ....",
+    "comments": [
+      {
+        "text": "주댕이만 나불거렸지 언제해준다고는 안했습니다",
+        "date": "2026.01.20 19:52"
+      }
+    ]
+  },
+  {
+    "thread_id": "3353204",
+    "title": "내일 오픈",
+    "date": "2026.01.20 16:08",
+    "comment_count": 0,
+    "view_count": 243,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353204",
+    "content": "두뤠곤소올드 오픈\n스토리나 퀘스트들은 원신처럼 혼자 진행하지만 오픈월드 마을이나 레이드에선 유저들과 함께한다는 정보를 입수\n찍먹한번 해볼까나 나 알바 아니다 몰지마라 ㅋㅋㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3353193",
+    "title": "벨런스 패치 이렇게 밖에 못하나 ..",
+    "date": "2026.01.20 15:53",
+    "comment_count": 0,
+    "view_count": 155,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353193",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3353139",
+    "title": "다들 아티팩트? 몇개??",
+    "date": "2026.01.20 15:10",
+    "comment_count": 4,
+    "view_count": 454,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353139",
+    "content": null,
+    "comments": [
+      {
+        "text": "3 운좋게 한판 두개뜸",
+        "date": "2026.01.20 15:38"
+      },
+      {
+        "text": "이번주 타바 레이드에서 2,1,1개씩 주던,\n입문 하나 주고 ,\n어려움에선 2개씩 주는게 아니었구나.\n뭔가 옵션보니 세트로 모아야 하는것 같던데,\n언제쯤 세트 만들런지...",
+        "date": "2026.01.20 16:08"
+      },
+      {
+        "text": "4개있어요",
+        "date": "2026.01.20 17:31"
+      },
+      {
+        "text": "허나씩만 뜨는 거 아니었음?\n난 2갠데",
+        "date": "2026.01.20 20:49"
+      }
+    ]
+  },
+  {
+    "thread_id": "3353125",
+    "title": "나오 몰리 쿠션 쿠폰 문자왔다",
+    "date": "2026.01.20 14:53",
+    "comment_count": 0,
+    "view_count": 210,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353125",
+    "content": "쿠폰 파는애들 싸그리 잡아서 족쳤음 좋겠다",
+    "comments": []
+  },
+  {
+    "thread_id": "3353096",
+    "title": "무한로딩 안고쳐요? 재접만 4번해야되네요 겜접고싶어져요",
+    "date": "2026.01.20 14:26",
+    "comment_count": 0,
+    "view_count": 55,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353096",
+    "content": "안고치냐 겜 하기싫어지네 무한로딩 걸릴때마다",
+    "comments": []
+  },
+  {
+    "thread_id": "3353093",
+    "title": "파티게시판도 수정좀 해라",
+    "date": "2026.01.20 14:23",
+    "comment_count": 0,
+    "view_count": 86,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353093",
+    "content": "파티게시판 던전이든 사냥터든 한번 출발하면 목록에서 지워지게 하면 안되나\n게시판에 어비스 다 돌고 한놈 잠수탄거 목록에 남아서 죄다 빈방밖에 없으니까 사람들이 쓰질 않잖아\n왜 잠수탄놈들때문에 우리가 지역채팅에서 사람 구해야되는데",
+    "comments": []
+  },
+  {
+    "thread_id": "3353088",
+    "title": "하루이틀 기다려줄수는 있습니다",
+    "date": "2026.01.20 14:11",
+    "comment_count": 0,
+    "view_count": 181,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353088",
+    "content": "모비노기 개발진분들은 패치를 하고나서 게임을 돌려보시긴 하나요?\n아님 유저가 버그를 알아서 찾아서 제보해주실 바라나요?\n전체적인 캐릭 발란스, 서버안정화 이런거 까지 바라진 않습니다\n프로필 검은색 (다른 유저는 보임)\n생활시 게이지 안보임 또는 게이지이상\n미스틱던전 거꾸로 때리기\n검은구멍 입장시 멈춤(기회 날아감)\n타맵 이동시 멈춤 무한로딩\n마이홈 가구배치 이동안됨\n캐릭터 왔다갔다 순간이동\n몰리 내맘 내키는대로 파편주기\n오늘 본거만 이겁니다 언제까지 이럴건가요?\n하루이틀 날잡고 버그를 고치겠다하면 기다려줄수 있습니다",
+    "comments": []
+  },
+  {
+    "thread_id": "3353087",
+    "title": "패션 '스노우 트래커'는 왜 에픽 세트효과가 없는거죠?",
+    "date": "2026.01.20 14:11",
+    "comment_count": 0,
+    "view_count": 132,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353087",
+    "content": "없으면 이유라도 써주던가",
+    "comments": []
+  },
+  {
+    "thread_id": "3353045",
+    "title": "모비노기팀은 파쿠르동아리임?",
+    "date": "2026.01.20 13:22",
+    "comment_count": 0,
+    "view_count": 181,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3353045",
+    "content": "인스타에서 뭐 파쿠르동아리밈이랍시고 제자리 점프하고 다같이 박수쳐주는 밈있더만 딱 그짝인거같은데ㅋㅋㅋ\n주말 채집던전 입싹닫고 스킵하고 무한로딩 한참전부터있었는데 못고치고 그래도 일하는 척은 해야되니까 버그들도 못고친상태로 컨텐츠 쑤셔넣고ㅋㅋㅋ\n이러다가 월급날되면 아 이번달도 찢었다 하면서 두쫀쿠 사먹으러갈꺼아님ㅋㅋㅋ 딱 인스타에 뜨는 파쿠르 동아리고만\nㅋㅋㅋ작은 버그들도 어디서 꼬인지 모른채로 이것저것 쑤셔넣으니까 계속 꼬이는거아님? 차라리 컨텐츠 미루더라도 확실히 버그들부터 잡고 진행하겠습니다 죄송합니다 하면\n질타는 좀 있을지몰라도 지금같은 기대없는 질타가아니라 이번엔 얘네도 해주지않을까? 하는 기대라도 섞인 질타를 하지 않겠냐 유저들이?\n운영진들은 아직도 본인들만 잘나고 본인들이 정답인줄 알고있는거임 아니면 뭐가 잘못된건지 알면서도 그냥 인정하기 싫어서 이렇게 아득바득 유저들 무시하고 진행하는거임\n뭐라도 하나 제대로 해놓고 어깨 올려요",
+    "comments": []
+  },
+  {
+    "thread_id": "3352997",
+    "title": "검구랑 결계 무슨 패치있었나요?",
+    "date": "2026.01.20 12:30",
+    "comment_count": 2,
+    "view_count": 338,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352997",
+    "content": "본캐 어제 결계 두번 돌고 오늘 접속하니 0개\n부캐는 검구 0개 (참고로 심구나올때만 돌아서 그럴리가없음)",
+    "comments": [
+      {
+        "text": "혹시 에반한테 주인없는 ~~ 이런거 받아서 오픈 했으면 그거 결계/검구 횟수 차감됨\n확인 해보시길",
+        "date": "2026.01.20 13:24"
+      },
+      {
+        "text": "오 맞아요 감사합니다",
+        "date": "2026.01.20 14:09"
+      }
+    ]
+  },
+  {
+    "thread_id": "3352996",
+    "title": "지난주말에 숨겨진 던전 빼놓고 입 싹 닫네",
+    "date": "2026.01.20 12:29",
+    "comment_count": 0,
+    "view_count": 286,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352996",
+    "content": "언급도 안하는건 잘못된거아니냐?\n주단위로 업데이트 된다며?",
+    "comments": []
+  },
+  {
+    "thread_id": "3352993",
+    "title": "지금쯤이면 아티팩트 3개는 먹을 타이밍인데...설마...",
+    "date": "2026.01.20 12:28",
+    "comment_count": 4,
+    "view_count": 427,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352993",
+    "content": "아직도 3개도 못먹은 유저들이 있는 건 아니겠지?\n그런일이 없을 거라 믿어본다\n대부분 3개는 기본적으로 장착하고 있을 듯\n뻥투로 가자 ㄱㄱㄱ",
+    "comments": [
+      {
+        "text": "어디 다른게임 하세요?",
+        "date": "2026.01.20 12:39"
+      },
+      {
+        "text": "본인 3개 먹은거 자랑하고싶었나보네??",
+        "date": "2026.01.20 12:41"
+      },
+      {
+        "text": "난 4개있는데? 겨우3개...?",
+        "date": "2026.01.20 14:37"
+      },
+      {
+        "text": "관종 제이나 어서오고\n요즘 월챗 아재개그 많이 하더라\n뿔피리 덕분에 잘팔려서 고맙",
+        "date": "2026.01.20 16:07"
+      }
+    ]
+  },
+  {
+    "thread_id": "3352982",
+    "title": "마이홈 데코이동 안되는데 왜 안고침?",
+    "date": "2026.01.20 12:09",
+    "comment_count": 0,
+    "view_count": 53,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352982",
+    "content": "며칠째 이러는데 왜 안고쳐줘요 ㅇㅅㅇ",
+    "comments": []
+  },
+  {
+    "thread_id": "3352980",
+    "title": "오...150골드 정도 쓰고 대박 터졌네",
+    "date": "2026.01.20 12:04",
+    "comment_count": 0,
+    "view_count": 401,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352980",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3352978",
+    "title": "쏟아지는별 2개 퉤",
+    "date": "2026.01.20 12:00",
+    "comment_count": 2,
+    "view_count": 274,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352978",
+    "content": "하나면 그려러니 하는데 2개 검색해보니까 쓰지도 않는룬 카악 퉤",
+    "comments": [
+      {
+        "text": "신화는 중복 걸리면 어찌함? 그냥 자리 차지?",
+        "date": "2026.01.20 12:29"
+      },
+      {
+        "text": "분해해도 아무것도 안주긴하는데 자리차지라고생각하면 분해 하시면되요",
+        "date": "2026.01.20 13:06"
+      }
+    ]
+  },
+  {
+    "thread_id": "3352954",
+    "title": "어비스 빙결 음유 고정 시대",
+    "date": "2026.01.20 11:27",
+    "comment_count": 0,
+    "view_count": 253,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352954",
+    "content": "딜러 두 자리 빼고는 애매한 직업들은 다 뒤져라",
+    "comments": []
+  },
+  {
+    "thread_id": "3352952",
+    "title": "대검 vs 석꿍 열쇠 결과",
+    "date": "2026.01.20 11:25",
+    "comment_count": 0,
+    "view_count": 186,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352952",
+    "content": "석꿍 열쇠 200개 신화 0 전설 0\n대검 열쇠 100 신화1 전설2\n석궁은 그냥 연타로 떄려버리니까 골렘이 변신하기전에 그냥 죽어버리는 느낌인데 대검은 느리게 때리니까 변신을 잘하는 느낌임",
+    "comments": []
+  },
+  {
+    "thread_id": "3352951",
+    "title": "어비스같은 건 5인으로가야할거같은데",
+    "date": "2026.01.20 11:24",
+    "comment_count": 1,
+    "view_count": 248,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352951",
+    "content": "모바일게임에서 와우클래식 시절마냥 조합짜기 시키면 우짜차는거임.\n정하고싶으면 5인으로 해야 좀 조합이 숨통틀거같인데\n난이도는 그에 맞추면 될거고\n조합부터가 너무 빠듯함\n빙결 음유는 고정인데 나머지 두자리를 딜러들이 비집고들어갈려니",
+    "comments": [
+      {
+        "text": "어허 예로부터 5명중에 1명은 꼭.....",
+        "date": "2026.01.20 20:52"
+      }
+    ]
+  },
+  {
+    "thread_id": "3352949",
+    "title": "두바이 쫀득치마만 고치지말고 전압도 수정해주세요",
+    "date": "2026.01.20 11:22",
+    "comment_count": 0,
+    "view_count": 182,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352949",
+    "content": "소매 드럼통 쳐놓은거보고 2셋 뽑아놓은거 꼴보기싫어서 다른 프리셋으로만 다닙니다\n특히 빙결 남캐 클리어모션 보고나면 낄 마음이 싹사라지는데 제발 가차보존은 이런데서나 해주세요",
+    "comments": []
+  },
+  {
+    "thread_id": "3352914",
+    "title": "모바일 마이홈 데코 개선 언제해주실거죠?",
+    "date": "2026.01.20 10:33",
+    "comment_count": 0,
+    "view_count": 53,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352914",
+    "content": "하긴 모바일 유저는 유저 취급도 안하시니깐…ㅎㅎ",
+    "comments": []
+  },
+  {
+    "thread_id": "3352908",
+    "title": "조언좀..) 복귀 후 캘터 구해서 하는데요 부캐들 어케하시나요?",
+    "date": "2026.01.20 10:22",
+    "comment_count": 4,
+    "view_count": 192,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352908",
+    "content": "지금 부캐 5개 하는데 너므 빡쎄요....\n다들 이렇게 키우나요??? 부캐는 키워야 좋다고해서요ㅜㅠㅠ\n숙제도 그랗지만 레이드 이런것도 주1회씩이라 그나마..이지만..힘들고 결계, 심구는 다하나요? 이러다 다시 접겠음...\n부캐하시는분들 조언 좀 ㅠㅠ",
+    "comments": [
+      {
+        "text": "접을것 같으면 안하시는게..\n부캐 전부5.6 넘는데 주는거 없습니다.\n키워봤자 시간과 돈의 가성비가 개쓰레기라",
+        "date": "2026.01.20 10:28"
+      },
+      {
+        "text": "부캐는 줄이고 쉬엄쉬엄 하는게 맞습니다\n전 5개 하다 시즌 1오고 2개 유기했습니다\n지금 운영하는 꼬라지 보면 하나 더 줄이고싶은데\n주간 레이드에서 나오는 초월 완제가 걸려서 잡고있습니다",
+        "date": "2026.01.20 10:33"
+      },
+      {
+        "text": "어느정도강해지면 부캐는 본캐에계 전해줄게있는것만 하세요 어비스입문, 주말요일던전, 레이드입문, 젖소캐서빵사서성수사서팔기등",
+        "date": "2026.01.20 12:26"
+      },
+      {
+        "text": "부캐는 부캐답게 키우세요 바쁘면 유기시키는거구 본캐처럼 다 키우실려면 스트레스 받아요",
+        "date": "2026.01.20 16:45"
+      }
+    ]
+  },
+  {
+    "thread_id": "3352903",
+    "title": "나오는 릴리의 환생이다",
+    "date": "2026.01.20 10:18",
+    "comment_count": 0,
+    "view_count": 213,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352903",
+    "content": "Always ..... 오랜만에 겜하니 잼나네 ㅎ",
+    "comments": []
+  },
+  {
+    "thread_id": "3352890",
+    "title": "멤버십 보상 안줌??",
+    "date": "2026.01.20 09:54",
+    "comment_count": 0,
+    "view_count": 118,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352890",
+    "content": "몇번이나 임시점검을 하면서\n까먹은 멤버십 시간은 왜 보상을 안하냐",
+    "comments": []
+  },
+  {
+    "thread_id": "3352869",
+    "title": "무한로딩 안고쳐????????????",
+    "date": "2026.01.20 09:10",
+    "comment_count": 0,
+    "view_count": 81,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352869",
+    "content": "이렇게 무능력해?????? 왜 서비스함???????",
+    "comments": []
+  },
+  {
+    "thread_id": "3352868",
+    "title": "이래도",
+    "date": "2026.01.20 09:10",
+    "comment_count": 0,
+    "view_count": 99,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3352868",
+    "content": "해주자나\n맨날 지갑닫는대~~\n얘넨 바뀌지도않는데 왜자꾸 바뀌길 바라는거임?",
+    "comments": []
+  },
+  {
     "thread_id": "3352850",
     "title": "무능도 죄다",
     "date": "2026.01.20 08:45",
