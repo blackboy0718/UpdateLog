@@ -1,5 +1,279 @@
 [
   {
+    "thread_id": "3364396",
+    "title": "2026-01-31",
+    "date": "2026.01.31 20:12",
+    "comment_count": 1,
+    "view_count": 54,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364396",
+    "content": null,
+    "comments": [
+      {
+        "text": "2026-01-31",
+        "date": "2026.01.31 20:12"
+      }
+    ]
+  },
+  {
+    "thread_id": "3364380",
+    "title": "마비노기모바일도 확률 조사한답니다.",
+    "date": "2026.01.31 19:53",
+    "comment_count": 0,
+    "view_count": 180,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364380",
+    "content": "펫 옵션부터해서 세공기 옵션등등 다 털면 나올듯",
+    "comments": []
+  },
+  {
+    "thread_id": "3364362",
+    "title": "제발 정신차려줘요 데브캣 제발좀",
+    "date": "2026.01.31 19:33",
+    "comment_count": 1,
+    "view_count": 84,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364362",
+    "content": "게임에 애정 갖고 말하는\n아직 남은 사람들의 말들을 경청하지않는거에요\n제발좀",
+    "comments": [
+      {
+        "text": "그러니까요 제발 !",
+        "date": "2026.01.31 19:50"
+      }
+    ]
+  },
+  {
+    "thread_id": "3364336",
+    "title": "메이플키우기 환불 다음 마비노기 모바일이다",
+    "date": "2026.01.31 18:52",
+    "comment_count": 0,
+    "view_count": 120,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364336",
+    "content": "이유는 니들이 잘알거다",
+    "comments": []
+  },
+  {
+    "thread_id": "3364329",
+    "title": "몰리 버그 ..",
+    "date": "2026.01.31 18:47",
+    "comment_count": 0,
+    "view_count": 66,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364329",
+    "content": "이거 안고치나여 ;; 이전부터 있던 버그인듯한데\n대충 들어가자마자 말걸기 전에  긴급탈출 박고 대화 스킵갈기니까 탈출은했는데 ;",
+    "comments": []
+  },
+  {
+    "thread_id": "3364324",
+    "title": "심매 완료후 몰리말걸어서 렉건다",
+    "date": "2026.01.31 18:38",
+    "comment_count": 0,
+    "view_count": 37,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364324",
+    "content": "심매끝나고 나온후 몰리가 말걸어서 렉이 안풀려\n지금5번째 리접해도 안풀린다  ㄱ.ㅐ  판이네",
+    "comments": []
+  },
+  {
+    "thread_id": "3364323",
+    "title": "액션이나 핵슬로 갈지 이대로 역할게임으로 갈지 제대로 결정해야됨.",
+    "date": "2026.01.31 18:36",
+    "comment_count": 1,
+    "view_count": 94,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364323",
+    "content": "지금 이 게임 베이스에 와우처럼 역할게임에 안맞는데 밀어부치니까 사람들이 다 터져나가는거임.\n이 게임이 왜 떴는가?\n모바일+PC 크로스플랫폼\n마비노기 특유의 10살 캐릭터 모션과 디자인.\nmmorpg에 대한 갈증은 있지만 PC는 너무 딥해서 간단하게 즐길만한 걸 찾는 사람들\n이 세가지가 모여서 사람들이 폭증했던 게임임.\n근데 그 위대했던 와우마저 라이트하게 바뀌고 인던도 솔플로 돌게 만드는 시점에 이 게임에서 역할론 강조하다가 나락가는 거임.\n역할를 강조하면서 즐기려면 이런 조건이 필요함.\n1.애초에 타임어택이 조건이면 안됨.\n2. 세공 강화같은 스펙으로 찍어누를 요소가 있으면 안됨.\n3. 요즘 시대에 즐길만한 간편하게 느낄 수 있어야됨.\n4. 개발자가 밸런스에 대해서 게이머보다 훨씬 높은 수준이어야됨.\n3번은 시대의 흐름이라 어쩔 수 없다고 치지만\n1,2번을 버려야되는데 버릴 수 있음?\n저게 다 돈이고 매출1위 만든 메인인데? 과연 버릴 수 있을까?\n버릴 수 있으면 그제서야역할론 강조할 수 있는  기본조건이 되는거임.\n그게 아닌이상 절대 역할강조 게임으로 사람 붙잡을 수 없음. 탱이나 힐 구하려고 사람 모집하는거부터가 벽임.\n처음에도 말했지만 근본게임인 와우에서도 그게 진입장벽이라서 캐쥬얼화하는데 모바일 게임에서 뭔 파티모집하느라 마을에 죽치고 있음?\n생각해보센. 오토를 왜 도입했음? 어쩔 수 없는 세계의 흐름이고 모바일게임을 사람들이 즐기는 이유 중 하나이기 때문임. 제대로 할 수 있으면 PC게임하지 뭐하러 모바일게임을 하겠음?\n오토를 도입하는 게임인거부터가 역할강조 게임이랑 안맞는거임.\n이런 게임에 브익+빙결 필수로 만들어버리니까 제대로 전투컨텐츠가 망해버린 거임.",
+    "comments": [
+      {
+        "text": "이제 브익도 안통하더라",
+        "date": "2026.01.31 18:53"
+      }
+    ]
+  },
+  {
+    "thread_id": "3364312",
+    "title": "유저 줄어든거봐라.. 개발비 뽑고 게임대상까지 탔다고 게임을 이렇게 쉽게 버릴수있냐",
+    "date": "2026.01.31 18:24",
+    "comment_count": 1,
+    "view_count": 153,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364312",
+    "content": "유저 엄청나게 빠진게 체감 확 되네 너무 썰렁해..\n전투 좋아하는 유저들은 아이온2 하러 가고 생활 좋아하는 유저들은 요즘 두근두근타워 하러 많이 가더만\n메키 전체 환불 사태까지 자업자득이다 뿌린대로 거두는거지..",
+    "comments": [
+      {
+        "text": "너무 줄었음.. 이런데도 침묵으로 일관 하는것보세요.. 에린노트도 안올리고 답이 없어요 유저 다 떠나도 정신 못차릴듯..이러고 담주 없데이트하면 쭉빠질듯..",
+        "date": "2026.01.31 18:39"
+      }
+    ]
+  },
+  {
+    "thread_id": "3364310",
+    "title": "게임 뜬 게 지들 능력이 좋아서 뜬 거라 착각하니까 이 모양.",
+    "date": "2026.01.31 18:22",
+    "comment_count": 1,
+    "view_count": 72,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364310",
+    "content": "게임은 허술한데 귀엽고 가볍게 즐기면서 어느정도 mmorpg 갈증해소되는 게임이 없었기 때문에 몰렸던건데\n운영이나 컨텐츠가 뭐 대단해서 사람들이 게임하는 줄\n결국 밑바닥 보인거지.\n지들 편한대로 운영할 생각만함.\n초기화도 점검에 맞춰서 하던가 맨날 초기화 날이 꼬여서 문제 여러번 생긴적있지않나?\n지들 편한대로 일정짜지 좀 말고.\n어비스 기갱도 그냥 하드유저랑 캐쥬얼 유저 만족시킬 방법없으니까 그냥 빡세게 하는 사람들은 기갱이라도 하라고 선긋고 구분지어서 운영편할려고 던져놓은거 아냐.\n그 어떤 게임에서 레이드가 숙제가 돼고 기갱 랭킹같은게 메인이 되냐? 그런건 아무리 잘만들어도 그들만의 리그인건데\n그냥 모든 게 자기들 편할려고 게임 쳐만드니까 문제인거임.",
+    "comments": [
+      {
+        "text": "ㄹㅇ",
+        "date": "2026.01.31 18:33"
+      }
+    ]
+  },
+  {
+    "thread_id": "3364291",
+    "title": "이야.. 너네도 사기 쳤으면 전액 환불 해줘야 하는 거 아니냐?",
+    "date": "2026.01.31 17:52",
+    "comment_count": 0,
+    "view_count": 113,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364291",
+    "content": "최소 1차, 2차 전설압 합성 기간에 지른 돈 전액 환불 해줘야 하는 거 아니냐? 옆집은 사기 쳤다고 환불 해주겠다고 하는데.... 얘넨 뭐...",
+    "comments": []
+  },
+  {
+    "thread_id": "3364249",
+    "title": "드래곤소드에 엔드필드 출시해서 지금 타게임들은 유저 잡을려고 퍼주는데",
+    "date": "2026.01.31 16:36",
+    "comment_count": 0,
+    "view_count": 181,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364249",
+    "content": "모비노기는 자신감이 넘치네\n아주 보기좋아~",
+    "comments": []
+  },
+  {
+    "thread_id": "3364227",
+    "title": "왜 맨날 패션템 허리춤에 벨트 치렁치렁이냐",
+    "date": "2026.01.31 16:03",
+    "comment_count": 0,
+    "view_count": 92,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364227",
+    "content": "패션템 대부분 저게 꼭 들어가네\n안그런걸 찾기가 힘드노",
+    "comments": []
+  },
+  {
+    "thread_id": "3364214",
+    "title": "펫이랑 깔맞춤",
+    "date": "2026.01.31 15:44",
+    "comment_count": 1,
+    "view_count": 162,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364214",
+    "content": null,
+    "comments": [
+      {
+        "text": "오 염색 굿~",
+        "date": "2026.01.31 18:29"
+      }
+    ]
+  },
+  {
+    "thread_id": "3364167",
+    "title": "이 ㄸ바운영진들은 머리에 우동만 들어있는거?",
+    "date": "2026.01.31 14:47",
+    "comment_count": 1,
+    "view_count": 187,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364167",
+    "content": "게임 운영꼬라지 곱창나서 민심 바닥치고 유저 급감하고 난리났는데\n전설패션 보상으론 10패티 200캐샵포인트 처 주면서\n유튜버들한테 조공처하고 있는 현 사태가 난 대체 누구머리에서 나오고 있는건지 도통 알수가없다\n대체 누구아이디어임?\n전설패션이슈던 연속점검이슈건\n유저들 피해보는건 이악물고 안주려고 하면서\n유튜버들한테 선물은 왜돌림?\n너네들 좋은 영상 많이 찍어내서 세탁기좀 돌려달라고?\n난 진짜 니네가 사람머리로 생각을하고 있는건지 진심으로 궁금해",
+    "comments": [
+      {
+        "text": "뇌가 없는데 생각이란걸 하겠습니까?..ㅎㅎ",
+        "date": "2026.01.31 16:38"
+      }
+    ]
+  },
+  {
+    "thread_id": "3364158",
+    "title": "아무나 관리급 인사가 와서 봐주세요",
+    "date": "2026.01.31 14:32",
+    "comment_count": 4,
+    "view_count": 451,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364158",
+    "content": "이딴 사람이랑 같은 서버인 것도 수치스럽고\n이딴 사람이랑 같은 게임을 하는 것도 수치스러워요\n닉네임 뜻이야 직관적이긴 하나 해석하기에 따라 달렸고\n본인이 굳이 언급하지 않으면 문제없다곤 생각합니다\n근데 임1신 시켜드립니다?\n그것도 전체 서버 단위로 올라가는 뿔피리로 저딴 소리를 하는게 정상인일리는 없다고 생각하고요\n일단 신고했고 제재먹여주시길 바랍니다\n웨카 때문인지 아니면 다른 문제인지 정확히 아는건 아닌데\n등급이 올라갔어도 성인 게임아니에요\n심지어 불쾌감을 줄 수 있는 단어를 저렇게 내뱉는다는건 배째라는 식이니 당당하게 제재해주세요",
+    "comments": [
+      {
+        "text": "이 글 보고 월창 올려서 신고했어요",
+        "date": "2026.01.31 15:01"
+      },
+      {
+        "text": "와... 진심 정신병자인듯...",
+        "date": "2026.01.31 15:11"
+      },
+      {
+        "text": "팔코니언 레깅스 살색염색 냅두는거 보면 지들게임에 그냥 관심이 없음",
+        "date": "2026.01.31 16:38"
+      },
+      {
+        "text": "인게임 ㅡ 친구추가 ㅡ질4 ㅡ 신고 눌러주세요",
+        "date": "2026.01.31 20:58"
+      }
+    ]
+  },
+  {
+    "thread_id": "3364137",
+    "title": "유저수 저하에 따른 데브캣 마케팅 부서 품의",
+    "date": "2026.01.31 14:01",
+    "comment_count": 0,
+    "view_count": 157,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364137",
+    "content": "n명 이상 구독자  크리에이터즈들한테 선물 뿌리자.",
+    "comments": []
+  },
+  {
+    "thread_id": "3364119",
+    "title": "에린노트 왜 안올라옴?",
+    "date": "2026.01.31 13:38",
+    "comment_count": 3,
+    "view_count": 284,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364119",
+    "content": null,
+    "comments": [
+      {
+        "text": "없데이트라서",
+        "date": "2026.01.31 13:44"
+      },
+      {
+        "text": "이미 라방때 지른게 다임. 갑자기 위기감 느꼈다고 가정해서 열심히 한다한들 갑자기 커다란 무언가를 만든 능력 절대없음 ㅋㅋㅋ",
+        "date": "2026.01.31 17:55"
+      },
+      {
+        "text": "에린노트 올릴 내용이 있어야 올리지.. 얼마전에 라방 했을때 보여줬던 3월까지의 허접한 로드맵 그게 전부잖아 ㅋㅋㅋ",
+        "date": "2026.01.31 18:26"
+      }
+    ]
+  },
+  {
+    "thread_id": "3364054",
+    "title": "님들 화법 또 고장낫는데 나만이상함?",
+    "date": "2026.01.31 11:57",
+    "comment_count": 0,
+    "view_count": 180,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364054",
+    "content": "화법 분출쓰고 자원소모하면 시간 안늘어나는데 나만 그럼??\n내손가락이 놀고잇는건가요??\n아무도 글을 안올렸네 이젠 이런거 올리는거도 다들 귀찮아질만큼 정이 떨어진건가...\n금방 건의 하고왔다고 글 등록 안되는거도 열받네\n얼마나 기다렸다가 올려야되는거지\n시간이라도 좀 알려주든가\n올라갈때까지 글쓰고있네\n주말에 뭘 또 처 손대셔서 고장이 났을까\n잠수패치같은건가\n뭔 확률조작이나 요런거는 아니었으면 좋겟다\n메플 키우기는 난리 낫든데\n넥슨 왜케 조작 좋아하냐 ?",
+    "comments": []
+  },
+  {
+    "thread_id": "3363964",
+    "title": "글 리젠 속도 고장남?",
+    "date": "2026.01.31 09:34",
+    "comment_count": 0,
+    "view_count": 177,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3363964",
+    "content": null,
+    "comments": []
+  },
+  {
     "thread_id": "3363942",
     "title": "정신차려 데브캣",
     "date": "2026.01.31 08:49",
