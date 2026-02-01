@@ -375,6 +375,39 @@
     "comments": []
   },
   {
+    "thread_id": "3364547",
+    "title": "직업밸런스 어비스랭킹",
+    "date": "2026.01.31 00:00",
+    "comment_count": 0,
+    "view_count": 259,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364547",
+    "content": "어비스 랭킹 고점\n탱커\n빙결\n170494\n딜러\n전격\n170474\n검술\n170315\n격투가\n170315\n석궁\n170291\n화법\n170278\n서폿\n음유\n170483\n힐러\n170307\n이럴거면 직업 왜 나눠놨나요 ? 1년 내내 변하는게 없어요\n힐러는 뭐 만능인가요? 이럴거면 음유는 왜 만들엇어요? 혼자 버프 힐 딜 다하는데?????????\n탱커 = 빙결\n딜러 = 전격 검술 화법 석궁\n힐계열 = 힐러\n음유계열 = 음유\n이거말고 직업 다 취미반인건가요????????????",
+    "comments": []
+  },
+  {
+    "thread_id": "3364518",
+    "title": "겜욕이 난무한 가운데 알리사섭 1월 마지막날 두락페 기념스샷",
+    "date": "2026.01.31 00:00",
+    "comment_count": 0,
+    "view_count": 156,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364518",
+    "content": "두갈드아일에서 9:00~10:30 까지 진행된 락 페스티발 성황리 종료 !",
+    "comments": []
+  },
+  {
+    "thread_id": "3364479",
+    "title": "넥슨팩이랑 모비노기팩 이렇게 있었음",
+    "date": "2026.01.31 00:00",
+    "comment_count": 0,
+    "view_count": 238,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3364479",
+    "content": "이걸 몰랐네 바보처럼\n넥현카 에디션2 2개 있는 거 지금 알음\n그리고 모비노기팩으로 만들었음\n모비노기에서 월 20 정도 지르니까\n배달앱 이런 것도 실적으로 들어간다니까\n나쁘지 않은 거 같긴 함\n그래도 넥슨겜 중에서 모비노기 이렇게 챙겨주는 거는 난 좋다고 봄",
+    "comments": []
+  },
+  {
     "thread_id": "3363539",
     "title": "데브켓 꼭 봐라 게임 꼬라지다",
     "date": "2026.01.30 20:25",
