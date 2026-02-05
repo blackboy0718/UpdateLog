@@ -1,5 +1,465 @@
 [
   {
+    "thread_id": "3368751",
+    "title": "진훈이 스트레스 많이 받을거야 도움 많이 된다.",
+    "date": "2026.02.05 08:48",
+    "comment_count": 0,
+    "view_count": 50,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368751",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3368747",
+    "title": "몰리대화 다시보기 만들어주세요",
+    "date": "2026.02.05 08:39",
+    "comment_count": 0,
+    "view_count": 31,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368747",
+    "content": "그저께 피닉스깃털의 출처 이야기할때부터 솔깃했는데\n오늘 일반던전고 심층던전은 겹쳐진 상태라는 설정 이야기나오는거 재미있네요\n근데 다시보기를 내주거나 몰리대화 갈무리한 책 좀 내주세요\n그리고 패치할거 없으면 최소한 패치 없습니다\n라고 이야기나 좀 쳐해주고!",
+    "comments": []
+  },
+  {
+    "thread_id": "3368744",
+    "title": "제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐",
+    "date": "2026.02.05 08:35",
+    "comment_count": 0,
+    "view_count": 20,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368744",
+    "content": "제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐제발 로딩렉좀 고쳐",
+    "comments": []
+  },
+  {
+    "thread_id": "3368737",
+    "title": "이거 챙피해서 슬슬내릴때안됫나?",
+    "date": "2026.02.05 08:21",
+    "comment_count": 2,
+    "view_count": 401,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368737",
+    "content": "운영이나 겜성으로는 아직도 의문이긴한데",
+    "comments": [
+      {
+        "text": "옆에 자랑스럽게 박아놨네 ㅏ ㅋㅋㅋㅋ",
+        "date": "2026.02.05 08:27"
+      },
+      {
+        "text": "나크랑 롤롤 유일한 인생업적 타이틀인데 게임을 버려도 저건 절대 포기 안할듯 ㅋㅋ",
+        "date": "2026.02.05 08:30"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368734",
+    "title": "‘이세계에서는내가‘ 34명 전원 리니지클래식 갑니다",
+    "date": "2026.02.05 08:12",
+    "comment_count": 2,
+    "view_count": 377,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368734",
+    "content": "재미있게 하고있는 길드입니다\n모비노기 업데이트 똑바로해주세요\n길마 리니지클래식 다운로드하기전에",
+    "comments": [
+      {
+        "text": "가든지 말든지\n관종들",
+        "date": "2026.02.05 08:18"
+      },
+      {
+        "text": "ㅋㅋㅋㅋㅋㅋ 리니지 아이도루 ? 호오",
+        "date": "2026.02.05 08:26"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368723",
+    "title": "무슨 공지도 없냐",
+    "date": "2026.02.05 07:44",
+    "comment_count": 0,
+    "view_count": 265,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368723",
+    "content": "차주 점검이라고 공지하면\n안기다릴거 아녀..\n얼척 없어서 뻘하게 웃기네 ㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3368722",
+    "title": "유저들을 호구로보는구나 그냥 ㅎㅎㅎ이제 담주하면되지 이런생각인가 대단하다 진심 ㅎㅎ",
+    "date": "2026.02.05 07:38",
+    "comment_count": 0,
+    "view_count": 252,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368722",
+    "content": "ㅎㅎㅎ 이런겜은 또처음보내 역대 최악인듯",
+    "comments": []
+  },
+  {
+    "thread_id": "3368721",
+    "title": "다음주에 크게 업뎃하면 괜찮겠지? 라는 착각 하지마요.. 제발 정신차리세요",
+    "date": "2026.02.05 07:18",
+    "comment_count": 0,
+    "view_count": 365,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368721",
+    "content": "사람들이 지금까지 게임하는건\n서로 정든건데\n항상 느끼는게\n민심 파악 1도 못하고있고\n나름 사료라는걸 줄때는 제대로 줘야하면서 생색 내야하는건데 꾸역꾸역 뭔가 줘놓고 옛다 사료! 느낌이면서 민심달래지도못하면서 생색내려하고\n자잘한 버그 조금씩 고치기라도하는 노력이라도 보이면 조금이라도 괜찮을텐데\n한번에 큰 업뎃이면(그것마저 큰 업뎃인척 보이는) 모든게 무마될거라는 생각을 하는거같아보여서 무능하다고하는거에요\n제발 본인들 생각만 하지말고\n그래도 이 게임에 정붙이고 하는 사람들을 위하는 이타적인 생각을 조금이라도 해봐요\n사실 이타적인 생각까지 바라지도않더라도\n돈받고 일하는 사람이라면\n적어도 할일은하세요..",
+    "comments": []
+  },
+  {
+    "thread_id": "3368714",
+    "title": "너네도 회사원이면 퇴근시간 지켜줘야지",
+    "date": "2026.02.05 07:01",
+    "comment_count": 8,
+    "view_count": 518,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368714",
+    "content": "자게 쓰는애들 80%가 직장인이잖어\n너네 무슨 회사 다니는지는  모르겠지만\n비상나면 다같이 야근하는것도 아니면서\n왜케 징징대냐\n데브켓이 하루이틀 하던 것도아니고\n너넨 너네 회사에 월급받을때 월급값은\n제대로 하고 받는거겠지??\n너네 윗대가리도 너네 이런글 쓰는게 정상인지 확인하고싶다.\n난 자고로 사업하니깐 윗대가리없음 내가 제일 윗대가리임",
+    "comments": [
+      {
+        "text": "그저 징징거리는 사람들의 말에 하는 말이라면 맞는말일수도있는데 대다수의 사람들이 하는말의 핀트를 못잡고 착한척하는 말 처럼 보여요",
+        "date": "2026.02.05 07:21"
+      },
+      {
+        "text": "대다수 사람들이 자게 똥싼글을 다 읽고 오세요",
+        "date": "2026.02.05 07:35"
+      },
+      {
+        "text": "원래 수요일 18시 공지 목요일 업뎃 정해져있는걸 안하고 퇴근을 했는데요? 본래 업무를 안한것도 이해를 해줘야해요? 못하면 무슨 사정으로 못했는지는 말해줘야 하는거 아닌가요? 사업하신다 하셨는데 밑에 직원이 사정이 생겨서 못나오게되었는데 원래 출근시간에 말도 없이 출근도 안하고 연락도 안하면 아무렇지 않으신가 보네요ㅎㅎㅎ 해야할 업무를 안했기때문에 자게에 사람들이 뭐라하는겁니다 핀트 제대로 잡고 실드칠걸 치세요",
+        "date": "2026.02.05 07:49"
+      },
+      {
+        "text": "서비스 하던걸 안하고 도망갔는데\n자기할일도 안하고 튀는걸 커버치네\n자기 윗대가리가 있건없건 자기 업무 내팽개치고 가는사람 아무지적도 안할건가봄",
+        "date": "2026.02.05 07:58"
+      },
+      {
+        "text": "직원이 할 일도 안하고 퇴근해도 다 이해해주는 사장님. 지금 회사가 위기에 있는데도 일빠노 시전하는 직원까지 이해해주시는 착한 사장님. 번창하셔요~",
+        "date": "2026.02.05 08:07"
+      },
+      {
+        "text": "아, 무단 결근도 이해해주시는거죠? 서류를 뭐하러 내고 결제 받고 쉬어요? 알릴 필요 없이 몸 안좋아 쉬겠다는데, 이해해 주시는거죠? 사장님은 그냥 얘가 왜 안오지? 라고 궁금해 하세요. 연락도 안받고 잠수탈거니까. 이해해주실거죠?",
+        "date": "2026.02.05 08:09"
+      },
+      {
+        "text": "아이고... 작성자의 부하 직원들이 고생이 많겠어 ;;; 임금 체불 그런건 없겠지 ? ㅜㅠ\n게시판 분위기 파악 0.1도 못하고...\n직원 회식 때 낑끼시진 않죠...?\nㅇㄴ 해주긴 하려나 ㄷ\n눈이 사시는 아니실테고 애내가 할 일을 제때 안하는 건 당연히 아실텐데 ㄹㅇ 뭔 혼자 Dog 소리를 ㅋㅋㅋㅋㅋㅋ\n데브가 사업장 하나 꽂아 줬나",
+        "date": "2026.02.05 08:21"
+      },
+      {
+        "text": "뚝배기 깨진 사랑단이 니섰네 ㅋㅋ 나중에는 이런 애들만 남아있겠지",
+        "date": "2026.02.05 08:27"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368711",
+    "title": "궁수 못해먹겠어서 힐러무기 새로만듬",
+    "date": "2026.02.05 06:32",
+    "comment_count": 5,
+    "view_count": 343,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368711",
+    "content": "평방끼던 방어구 대체할거 하나 더만들고 무기 만들어서 힐러하고있음\n아직 세공까진 안갈아엎어서 투력 좀 낮을뿐 속은 편함\n폴짝대다 장판밟을일 없어서 좋고\n전사고 궁수고 벨런스 개같은거 픽스바라다가 늙어 죽겠어\n전사에 이어 직변 두번째 해봄",
+    "comments": [
+      {
+        "text": "궁수가 약하다고 하는건 그냥 님 스펙이 안좋거나 세팅이 문제있어서 약한거에요\n궁수 광역딜 빼고는 최상위권인데 광역딜이야 광역딜러 껴서 조합맞추면 되는거고...\n시비걸려고 댓다는거 아니라 할말 많지만 여기까지 할게요",
+        "date": "2026.02.05 06:47"
+      },
+      {
+        "text": "다시 읽어보니까 약해서 직변한다는건 아니군요\n강함보다 그냥 편하기만하면 된다하면 힐러하시는것도 맞고\n장궁도 추천드려요..^^",
+        "date": "2026.02.05 06:54"
+      },
+      {
+        "text": "최상위권이래 ㅋㅋ 그저 반박 한번 해보고싶어서 안달이 났구나",
+        "date": "2026.02.05 07:15"
+      },
+      {
+        "text": "궁수 광역 에바고 브익타임 에바고\n그래도\n보스전은 강한데요?",
+        "date": "2026.02.05 07:19"
+      },
+      {
+        "text": "검술노기니깐",
+        "date": "2026.02.05 08:04"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368707",
+    "title": "진짜 뭐하냐?",
+    "date": "2026.02.05 06:14",
+    "comment_count": 1,
+    "view_count": 572,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368707",
+    "content": "뭐 진짜 없뎃이네....;;\n아니 진짜 무슨 거기 점검 인원들 다 줄퇴사를 한 건지 아니면은 본부 불타올라라 중이어서 거기로 다 간건지 뭐 그건 모르겠는데 진짜 좀 게임에 신경 좀 쓰자...\n이 때 까지 뭐 본인들이 업데이트를 빠르게 공지한다니 또 소통을 원활히 하겠다니 온갖 소리란 소리는 다 떠들어놓고 지키지도 않는 약속은 뭐하려고 한 건지 모르겠다 진짜로\n좀 신경쓰자. 뭐 이 정도는 할 수 있는 거 아님? 이 정도도 못하면 뭐 월급 반납해야지 그냥 월급루팡이나 다름없는 셈인데",
+    "comments": [
+      {
+        "text": "어이X",
+        "date": "2026.02.05 06:26"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368692",
+    "title": "겜 망한거같은데 섭종 언제해여?",
+    "date": "2026.02.05 04:06",
+    "comment_count": 0,
+    "view_count": 418,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368692",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3368685",
+    "title": "뭔 버그냐고",
+    "date": "2026.02.05 03:21",
+    "comment_count": 2,
+    "view_count": 473,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368685",
+    "content": "장비 경갑으로 싹다바꿨는데\n다음날되면 중갑으로 다시 쳐바껴있고\n심지어 강화도 10강으로 다시 쳐발려있네\n기껏 갈아서 경갑바꾸고 다시 10강찍어놨더만\n재료는 왜 다시 안돌려놓냐? 돈도 다날아가고 거지같은 데브캣",
+    "comments": [
+      {
+        "text": "방어구는 주입하면 되는데 그걸 다 바꿨다고?",
+        "date": "2026.02.05 06:00"
+      },
+      {
+        "text": "주작좀 작작",
+        "date": "2026.02.05 06:53"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368682",
+    "title": "부캐랑 본캐랑 왜 보석은 공유를 못함?",
+    "date": "2026.02.05 03:12",
+    "comment_count": 2,
+    "view_count": 462,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368682",
+    "content": "은동전소모나 심층누적같은 이벤트나 클래스 메달 수급은\n본캐랑 부캐가 상부상조 가능하면서\n상위 보석 풀셋 과정은 빡세게 해놓고 이건 왜 못하게 하는지 모르겠음",
+    "comments": [
+      {
+        "text": "아시네요 왜 아시면서 그러세요\n빡세게 해놨으니 공유를 못 하게하죠\n그게 다 돈인데",
+        "date": "2026.02.05 03:26"
+      },
+      {
+        "text": "쉽게 해놨으면 공유해놨겠죠",
+        "date": "2026.02.05 03:26"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368672",
+    "title": "반호르에서 노가리나 까세요. 그게 컨텐츠임.",
+    "date": "2026.02.05 02:08",
+    "comment_count": 0,
+    "view_count": 190,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368672",
+    "content": "모닥불에 앉아서 시간이나 때우세요\n님들 친구없자나요",
+    "comments": []
+  },
+  {
+    "thread_id": "3368670",
+    "title": "모비노기 문 닫을려고 공지 없는 거임?",
+    "date": "2026.02.05 02:00",
+    "comment_count": 2,
+    "view_count": 864,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368670",
+    "content": "애들 그냥 문 닫으려고 작정 했나? 와 대단하네 공지 하나도 없다니",
+    "comments": [
+      {
+        "text": "설에 팔아 먹을 패키지 포장 하느라 정신 없나 봄.",
+        "date": "2026.02.05 03:15"
+      },
+      {
+        "text": "에린노트 1/29 일자 보면\n2/4 힌트 1줄 추가 있음",
+        "date": "2026.02.05 06:34"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368664",
+    "title": "갓겜은 보법부터 다르구나",
+    "date": "2026.02.05 01:28",
+    "comment_count": 3,
+    "view_count": 1265,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368664",
+    "content": null,
+    "comments": [
+      {
+        "text": "롤롤 입만 벌리면 구라가 co2 배출하듯 나와",
+        "date": "2026.02.05 04:04"
+      },
+      {
+        "text": "에휴 데브캣 지친다 이제",
+        "date": "2026.02.05 05:08"
+      },
+      {
+        "text": "유저 11퍼 줄었으니 이젠 13.2퍼 가야겠지?",
+        "date": "2026.02.05 06:35"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368660",
+    "title": "[악보신청] Rad Wamps - Sparkle",
+    "date": "2026.02.05 01:22",
+    "comment_count": 3,
+    "view_count": 91,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368660",
+    "content": null,
+    "comments": [
+      {
+        "text": "멜로디\nT186V13B>F+C+C-F+C+C-F+C+C-F+C+C-F+C+V15<D+1L2RE1RF+.F+.F+1RD+1RE1RF+.F+.F+.R4.L8>D+D+D+D+C+C+C+<BBB1RR2.>D+D+D+D+C+C+C+C+C-D+2D+F+C+4C+C-2.D+D+D+D+C+C+C+<BBB1RR2.>D+D+D+D+C+C+C+<BBB4.RV13C+4C-C+F+V15C-4V13F+R4.V15>D+D+D+D+4ED+C+C+C-1RR2.D+D+D+D+C+C+C+<BB>D+4.D+4F+C+4.C-2.D+D+D+D+C+C+C+<BBL4.BBBBRL8>C+C+C+C+C+D+C+<BBB1R2L2.<D+N51E>EN42F+L4.F+R5.R9>>C+2&C+8&C+16.O2F+N42G+2.BN40F+N42F+N42G+2.E2.D+4>D+2D+G+C-EF+BC+F+L2.<G+EBF+A>A4.E8A8E8<A>AN30F+L2F+&F+8>>F+L4.N30B2&B8B8B2<B4N66G+4>D+8C+2.<BC+4B8A+2.G+2&G+8G+8B2.BC-BC-BC+BF+4>C+8D+N56C+N56F+F+F+G+D+2&D+8D+8E<F+N66F+4>F+8G+<G+N63A+N70A+4>A+8BB>C+4<B4F+4B2&B8B8<BC-B2.>BC-D+2.C+N56L2.F+F+<F+BN70N70<F+BBBG+BBB>B4L8>C+D+4E4.D+C+<BB1R4F+4F+B4>C+D+4E4.D+C+<BB1R4F+4F+B4>C+D+4D+E4D+C+<BB2B4BBN61L4.BB8N66B4BL8G+B4>C+C+1R4.G+F+4<BB4B>E4D+C+C-C+R1.V10L4C-V11F+V12C+V13C-V14F+V15C+C-F+C+C-F+C+L8C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+BC+F+BC+F+BC+F+BC+F+A+F+C+A+F+C+A+F+C+A+F+C+R16>F+2.&F+16R4<<B4.B2&B>F+F+4.<B4BB4.B4>G+F+2<BB>C+2C+D+E2D+C+L4.<BR4B8BD+BE4>C+8<BF+B4BL8N61B2&BF+>C+2C+D+E2D+C+<B2A+BL4.N61F+BF+4L8>F+F+4<BB4BB4.E4>G+F+2&F+C-C+C-C+4.D+E2D+C+<B2&BA+B2.B2&BBB4F+F+4BB2BN61L4.BN66B2&B8G+8BN66B2&B8G+8BR4F+8N63B8B8B8B>E4D+8C+<C+N61B4A+8",
+        "date": "2026.02.05 05:12"
+      },
+      {
+        "text": "화음1\nL1R.R.V15<D+R2ER2F+RRD+R2ER2F+RRV13B8>C+8L4F+C+C-F+C+C-8C+8F+C+C-F+C+C-8C+8F+C+C-F+C+C-8C+8F+C+C-L8F+C-C+F+C-C+L4F+C+C-F+C+C-8C+8F+C+C-F+C+C-8C+8F+C+C-F+C+C-F+8V15<C-2.R8V13N49B8>C+8F+C+C-F+C+C-8C+8F+C+C-F+C+C-8C+8F+C+C-F+C+C-8C+8F+C+C-L8F+C-C+F+C-C+L4F+C+C-F+C+C-8C+8F+C+C-F+C+C-8C+8F+C+C-F+C+C-F+C+C-8C+8F+V15C+B>F+C+N73BF+EF+C+N54F+C+BBN54EC+<BB>F+C+R16>F+2L8&F+.<F+F+F+F+4F+F+4ED+4C+<B4BB4>C+D+C+C+C+4.F+F+F+F+4F+F+4ED+4C+D+2C+C-C+2.C-4C+D+4D+E4D+C+<BB4.N63B4>C+&C+2.C-4C+D+4E4.D+E4F+4.ED+C+C+4.D+C+4C-E4<AN64AN64AN64AN64AN64AN64AN64AN64AN64A>F+4.C-C+F+C-C+F+C-C+F+C-C+F+N58C+F+N58C+R.>F+2&F+.O1B2&BBL4.>D+D+E2.N40EF+N42GN43G+2&G+8G+8F+D+E2.N40ED+L2.N39D+4.FC+F+F+4.<F+4.B2&B8B8>D+EN40F+L4.GN43G+G+F+D+E2&E8E8>E2.N27D+2.<D+E1L2RE&E8N40E4.F+.>F+L8&F+C+<F+4.N42F+N42F+N42F+N42F+>F+>B4>C+D+4E4.D+C+<BB1R2D+B4>C+D+4E4.D+C+C-C+L2.D+R<<EF+F+F+C-F+F+F+EF+F+F+F+BBBF+A+A+A+R8V10L4N61V11>BV12>F+V13C+V14C-V15F+C+C-F+C+C-L8F+O2F+2.F+2.F+4.N42F+N42F+4.N42F+N42L4.F+N42F+F+F+F+F+F+R32O6C+2&C+8&C+16.O2F+<F+B2.>D+D+E2&E8B8N40EF+N42GN43<G+N39F+N39EN28N40EB>>D+BD+<FN37C+N37<F+N42F+N42B>BN39D+<EN28N40E>F+N42GN43<G+N39F+N42EN28N40EBN39N47N39E>E>E2.N16E2.EN18<F+8F+8F+8F+N42N18F+>F+N18>B1",
+        "date": "2026.02.05 05:12"
+      },
+      {
+        "text": "화음2\nR8V13N61B>F+C+C-F+C+C-F+C+C-F+C+C-L8F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+C-C+F+V15L4<<D+.V13B>F+C+C-F+8V15<E.V13B>F+C+C-F+8V15<F+.V13B>F+C+C-F+8V15<G+.V13BN54N49V15F+.D+.V13B>F+C+C-F+8V15<E.V13B>F+C+C-F+8V15<F+.V13B>F+C+C-F+C+C-F+8V15<F+2.D+.V13B>F+C+C-F+8V15<E.V13B>F+C+C-F+8V15<F+.V13B>F+C+C-F+8V15<G+.V13BN54N49V15F+.D+.V13B>F+C+C-F+8V15<E.V13B>F+C+C-F+8V15<F+.V13B>F+C+C-F+C+C-F+8V15<F+.BV13>F+8R8V15>C+BF+C+C+C+C+<BN66G+BN66BN66G+B>F+C+C+C-F+8B2.L4.N42<A+4A+8<G+G+<E2.>C+R4C+8C+>A+4A+8<D+G+C-ER8<A+4N43L2.G+EBF+L4.>D+G+C-EF+BC+F+EL4>BBBBBBBBBL4.N71N42F+F+F+F+F+R32>B4&B16.N42<B2&B8B8B<D+4>>G+8<BR8B4G+<E>C+R8F+4<A+2.B2&B8B8BD+BRBRN49RBD+8>B4G+<F>FN37F+F+BG+F+2&F+8F+8F+N39F+R8B4G+N28F+N42A+R8>D+4<BB>E4<B8<D+8>F+4B2&B8B8C-N28C+2.BR8.>C+8.<G+G+G+<EL2.>BBC-C+A+A+F+F+F+F+F+F+F+F+<BBBBBBBBBBBB>F+F+F+F+C+C+C+C+R1R4<F+8<F+8>F+1&F+8F+4.F+F+L4.F+RF+RF+N54F+F+F+F+F+F+>>B2.N42N30<D+2&D+8R8F+<D+E2&E8R8>B2R4F+2R4G2R4N32<F+N30B<EN40N52EB>>D+F+D+<FG+C+G+<F+N51F+N49BN42N42BEN40N52E>F+N54GN51<G+N42F+N51EN40N52EBN51N54N51E>EB2.<E>B2.BN30>D+8D+8D+8D+F+<<F+N42N54F+<B1",
+        "date": "2026.02.05 05:13"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368656",
+    "title": "우리 길드가 좋아",
+    "date": "2026.02.05 01:14",
+    "comment_count": 0,
+    "view_count": 250,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368656",
+    "content": "((o(^∇^)o))",
+    "comments": []
+  },
+  {
+    "thread_id": "3368655",
+    "title": "이딴게 대상겜?",
+    "date": "2026.02.05 01:08",
+    "comment_count": 2,
+    "view_count": 365,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368655",
+    "content": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "comments": [
+      {
+        "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "2026.02.05 03:12"
+      },
+      {
+        "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "2026.02.05 06:36"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368643",
+    "title": "그냥 몇시부터 몇시까지 서버점검이 있을 예정 입니다.",
+    "date": "2026.02.05 00:51",
+    "comment_count": 0,
+    "view_count": 877,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368643",
+    "content": "이 한줄이라도 쓰라고..",
+    "comments": []
+  },
+  {
+    "thread_id": "3368639",
+    "title": "이렇게 일안하고 못하는 겜회사 첨봤어요",
+    "date": "2026.02.05 00:42",
+    "comment_count": 2,
+    "view_count": 751,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368639",
+    "content": "모비노기 잘만들었다고 생각해요\n근데 초창기에 진짜 뭐 스토리나 컨텐츠 준비 제대로된것도없던거 생각하면 8년이나 개발해서 나올겜이었나하는 생각을 지울수가없구요\n이후에 보여준 운영들은 그냥 말도안되는 수준입니다\n겜 진짜 많이해봤는데 진짜 거의 반년넘는기간을 유저들 민심과 반대로만 가고있다는게 대단한거같아요\n그러면서 아무런 위기감도 못느끼는건지 여전히 이딴식으로 일처리... 분명 정기점검있는 날일탠데 과연 점검을 진행할지 안할지 궁금하네요? 아무런 공지도 안쳐올렸으니까\n진짜 너무합니다 너무해",
+    "comments": [
+      {
+        "text": "응 절이 싫으면 중이 떠나라 그래도 사줄꺼잖아 ^^ \" 빅토리\"\n진짜 사주는 사람들이 문제라고 생각함 이따구로 하는데. 나만 안산다고 해결되지도 않더라.\n뒤에서 유저 통수만 치고, 솔직히 웨카 문제랑 뒤에서 통수친거 너무 심각한 문제였는데\n보상 줬으니깐 됬잖아로 법적으로 문제 없게만 기본만 딱 해놓는것도 진짜 사악함의 끝판임 중국겜보다 더심함 이렇게 보면",
+        "date": "2026.02.05 00:50"
+      },
+      {
+        "text": "라고 하기엔 이미 게임의 매출이나 접속 인구수는 오픈 초기 매우 성공적에 매출 및 접속자가 그렇게 많았던 게임치고\n엄청 가파르게 하락하고 있는건 팩트임.\n'그래도 사줄꺼잖아' 라고 하기엔 매우 빠른 속도로 안사는 사람들이 많아짐.",
+        "date": "2026.02.05 03:06"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368638",
+    "title": "글삭목록 추가인가",
+    "date": "2026.02.05 00:40",
+    "comment_count": 0,
+    "view_count": 493,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368638",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3368636",
+    "title": "이런식으로 하실거면 전액환불해주세요",
+    "date": "2026.02.05 00:38",
+    "comment_count": 1,
+    "view_count": 490,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368636",
+    "content": "이게 메키사태랑 뭐가 다른가요?\n하겠다는걸 안하고 정기 점검일에 자정이넘어서도 공지하나없고..\n아니 안할거면 안한다고 말이라도 하라구요..\n패키지 돈벌건 꾸역꾸역 내면서 아무고토 발전이 없고 순수하게 남은유저들이 멱살잡고 게임 끌고가는데데안쪽팔리십니까?\n지나가는 유저 하나 디렉터자리 앉혀놔도 이렇겐 안하겠어요..\n그 수백명 직원중에 공지하나 쓰자고 말하는 사람이 없나요 단 한명도????",
+    "comments": [
+      {
+        "text": "ㄹㅇ 얘네들도 검수 한 번 제대로 들어가야 할 듯",
+        "date": "2026.02.05 06:38"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368623",
+    "title": "음.. 역시 없뎃 날은 재미가 없네요.",
+    "date": "2026.02.05 00:23",
+    "comment_count": 1,
+    "view_count": 514,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368623",
+    "content": "재미가 없으니, 분탕이들은 싹 사라지고\n아마 평소에 보기만 하시던 분들이\n답답한 마음을 토로 하시는 거겠죠.\n이거 올리면 바로 몰려올 것 같기는 같은데..\n역시 제 글이 기대되시죠?\n제가 봐도, 다른거 보다가 제가 쓴 걸 보면 재밌거든요.\n뻔한 내용도 논리가 담겨져 있으면\n그게 또 신선하게 다가오는 거라.\n아마.. 다음 패치 뜨면,\n데브캣의 앞으로의 개발 의도가\n보이지 않을까? 싶네요.\n현재까지는 \"직변권\" 외에는,\n앞으로의 마모의 미래를 알 수 있는\n핵심 키워드가 나오질 않았거든요.\n만약, 오로지 \"직변권\" 만 나온다면\n인게임에는 절대로 좋은 결과는 없고,\n여기에 무언가 \"직변권\"을\n유저들이 적극적으로 사용 하게끔\n+가 더 붙어야 합니다.\n그냥 나오면 장점보다, 단점이 더 많거든요.\n다음주나, 다음달에 나올지 모르지만,\n이 \"직변권\" 이라는, 게임 생태계를 변화 시킬\n크리틱컬한 요소가 언떤 요소와 +되어 나올지\n기다려 보시는게 좋습니다.\n얼마든지 게임의 육성방향 까지 바꿀 수 있거든요.",
+    "comments": [
+      {
+        "text": "아무내용 없다고 생각하셔도..\n없데이트 잖아요?\n네.. 뭐 없어요.",
+        "date": "2026.02.05 00:25"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368614",
+    "title": "왼쪽하단 업뎃 설레발은 뭔데",
+    "date": "2026.02.05 00:12",
+    "comment_count": 1,
+    "view_count": 669,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368614",
+    "content": "저거 떠있길래 다음주라도 오픈하는줄알았더니 없뎃임?ㅋㅋ 줫나어이없네",
+    "comments": [
+      {
+        "text": "그러게 어이가 있어야지 왜 없어서 이 사단을 만들어!",
+        "date": "2026.02.05 06:38"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368612",
+    "title": "민심 나락갓는데 솔직히 그냥 일하기 싫고 월급은 받고 싶다고 하자",
+    "date": "2026.02.05 00:12",
+    "comment_count": 0,
+    "view_count": 285,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368612",
+    "content": "일하기도 싫고 능력도 없어서 더 이상 컨텐츠 못 만들겟고 월급 루팡은 해야겠고 ㅋㅋㅋ\n그냥 유저들한테 우리 대단하신 데브켓 임직원은 더 이상 게임을 운영할 능력과 컨텐츠 개발 능력이 딸리니까\n접으라고 솔직하게 말하쟈 ㅋㅋㅋ\n그럼 사람들이 ㅋㅋ 아 역시 무능충이구나 하고 이해라도 하지 않겟니? ㅋㅋㅋ\n하긴 무능한거 티나면 쪽팔려서 게임 제작 업계 이직도 못해서 그런가 ㅋㅋㅋ\n부럽다 워라벨 빵빵하고 월급 루팡할 수 있는 회사 취직해서 ㅋㅋㅋ",
+    "comments": []
+  },
+  {
     "thread_id": "3368377",
     "title": "아 오랜만에 템창 정리하다가 또 빡^오^치네 ㅋ",
     "date": "2026.02.04 20:58",
@@ -2053,6 +2513,747 @@
     "like_count": 0,
     "url": "https://mabinogimobile.nexon.com/Community/Free/3367474",
     "content": "일본어로 시이가 발이라더라",
+    "comments": []
+  },
+  {
+    "thread_id": "3368595",
+    "title": "말뿐인 약속",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 639,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368595",
+    "content": "아 그래도 살거잖아~",
+    "comments": []
+  },
+  {
+    "thread_id": "3368592",
+    "title": "와.. 1년 좀 안된거같은데 운영 뭐이럼",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 406,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368592",
+    "content": "아니? 정기점검같은것도 안해?\n완전 그냥 날로먹네?ㅋㅋ\n이야.. 회사에 그 많은 직원들은 다 보너스받고 휴가감?ㅋㅋㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3368584",
+    "title": "니들 덕에 조선게임 이제 쳐다도 안본다",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 238,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368584",
+    "content": "이쯤 되면 많이 속았다",
+    "comments": []
+  },
+  {
+    "thread_id": "3368580",
+    "title": "귀여운것들 당신들은 속은거야.",
+    "date": "2026.02.04 00:00",
+    "comment_count": 1,
+    "view_count": 469,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368580",
+    "content": null,
+    "comments": [
+      {
+        "text": "나귀야움",
+        "date": "2026.02.04 23:56"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368578",
+    "title": "소통? 라이브때도 느꼈는데 소통 뜻 모르지?",
+    "date": "2026.02.04 00:00",
+    "comment_count": 1,
+    "view_count": 324,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368578",
+    "content": "소통한답시고 라이브때도 기존에 올라와있는 글 몇줄따다가\n읽고 퉁치더니 정기점검 하루전날 무슨 업데이트가있는지\n어떤 오류를 수정하는지 인언 반구도 없는게 소통?\n그럴거면 애초에 말을 끄내지 말던가 지키지도 못할말은\n왜해서 유저들 빡치게 만드는지 이해가 안되내\n마비노기라는 황금 IP 따다가 이렇게 말아 먹는것도\n재능이고 게임 공개해서 8년이라는 시간과 돈을 이렇게\n버리는것도 능력이내",
+    "comments": [
+      {
+        "text": "소똥..",
+        "date": "2026.02.05 00:48"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368569",
+    "title": "쪽팔린거야 어~ 너네 쪽팔려야해",
+    "date": "2026.02.04 00:00",
+    "comment_count": 2,
+    "view_count": 1113,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368569",
+    "content": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 예~~??\n여기 유저들 돈받고 먹고 사는 직장인인데 지들이 올린 공지도 못지키는 무능한 회사가 있다구요??\n에이~~ 설마요~~\n또 지워봐~~~~~~",
+    "comments": [
+      {
+        "text": "무능회사의 공지체계 고도화=없데이트에 무공지~ 때리기~ 8년 굴속에서 자기들끼리 희희덕거려서 메타인지 망가져서 뭐가 문제인지 모름~ ㅋㅋ 또 지워라 응~?",
+        "date": "2026.02.04 23:27"
+      },
+      {
+        "text": "무능하긴해",
+        "date": "2026.02.04 23:29"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368559",
+    "title": "그냥 섭종했으면 좋겠으면 개추ㅋㅋㅋㅋ",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 309,
+    "like_count": 4,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368559",
+    "content": "그냥 섭종하자 점검을 안할거면 안할거라고 공지를 띄우던가 소통한다더니 기초적인 소통도 안해?",
+    "comments": []
+  },
+  {
+    "thread_id": "3368549",
+    "title": ".. 점검 하는거에여 안하는거에여 ?",
+    "date": "2026.02.04 00:00",
+    "comment_count": 2,
+    "view_count": 1590,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368549",
+    "content": null,
+    "comments": [
+      {
+        "text": "안해요 다음주에 하는듯요",
+        "date": "2026.02.04 23:09"
+      },
+      {
+        "text": "없데이트..",
+        "date": "2026.02.04 23:10"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368547",
+    "title": "팩트글은 개뿔",
+    "date": "2026.02.04 00:00",
+    "comment_count": 4,
+    "view_count": 1244,
+    "like_count": 4,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368547",
+    "content": "그 글 쓴놈 그냥 유명한 어그로꾼에 관종이잖아\n어그로 끌려고 지가 자삭한거를 뭐 삭제당했느니 뭐니\n지금 정권이 뭐니\n정신차리고 데브나 욕해",
+    "comments": [
+      {
+        "text": "맞긴해",
+        "date": "2026.02.04 23:07"
+      },
+      {
+        "text": "그 어그로꾼이 올린 글 말고 또있단다 아니면 정화작업중이냐?",
+        "date": "2026.02.04 23:07"
+      },
+      {
+        "text": "혹시 음모론같은거 좋아하세요?",
+        "date": "2026.02.04 23:08"
+      },
+      {
+        "text": "양털 깎는 거? 트리밍이 생각보다 쉽진 않더라",
+        "date": "2026.02.05 06:40"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368544",
+    "title": "양털깎는거",
+    "date": "2026.02.04 00:00",
+    "comment_count": 2,
+    "view_count": 271,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368544",
+    "content": "21렙인데 한벅 깎을때 4씩밖에 안들어오고 게이지는 미동조차 안해요. 먹구름양 캘려면 4렙이나 더 해야하는데 다른 꼼수가 있을까요?",
+    "comments": [
+      {
+        "text": "곱슬양이 4씩 주던가요? 기억이 안나넹. 황금양털로 깎고 계시져?",
+        "date": "2026.02.04 23:24"
+      },
+      {
+        "text": "양털 생각보다 수요가 엄청커서 어느순간 오르실겁니다.",
+        "date": "2026.02.05 06:41"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368543",
+    "title": "왜 유저가 빠지는지 모르겠는 데브캣님들 봐주세요.",
+    "date": "2026.02.04 00:00",
+    "comment_count": 7,
+    "view_count": 929,
+    "like_count": 6,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368543",
+    "content": "에이렐도 내고 신규 컨텐츠 뱅가드도 냈고 팔라딘 아티팩트도 냈는데 왜 유저가 빠지는지 모르겠지?\n너네 하는 꼬라지를 봐 불통에 소통은 통보식의 라이브방송 공지도 패싱하고 옆에 아이온처럼 민심 안좋을때 바로 나와서 죄송합니다 한마디만했어도 상황많이 달랐을거다.\n지15 내기보다 먼저 대규모 밸런스패치 먼저 해줬으면 달랐을거고 에이렐나올때도 노래그딴거 자랑하지말고 팔라딘아티팩트나 이런거 왜 늦어졌는지 솔직하게 말했으면 달랐을거라고\nPD 나와서 굿즈자랑할시간에 앞으로 나올 인게임 아바타들 일러나 구상한거라도 보여줬음 달랐을거임.\n에이렐 재밌게 즐겼고 지옥도 재밌게했음 근데 게임하는시간이 점점 줄어드는건 유저들이 빠져서임. 활기가없음 같이하던유저들이 나가고 길드원이 나가고 점점 지인들이 사라지는거보면  의욕이 점점 사라짐.\n솔직히 운영진들 게임하는사람있습니까?\n니들 시즌 파밍설계가 얼마나 망가졌는지 생각은 해봤냐고 본캐야 이벤트재화도 몰아주고 이것저것 몰아주니까 많이 맞췄지 부캐는 키울엄두도 안나게만들어놓으니까 부캐까지 6개키우던사람들도 본캐만키우다가 할거없어서 결국 접어버리더라\n올라운더나왔을때 빤짝 부캐키우고 이게 맞는거냐고 전 시즌때는 부캐들도 시간지나면 본캐급으로 성장이 되니까 부캐돌면서 뉴비들 품앗이도하고 키우고싶은직업 새로만들고했었는데 이번시즌엔 부캐를 오히려 줄이고있어.\n오히려 키우고싶은직업이 생겨도 장신구룬파밍땜에 맘껏해보지도못하고 파밍이 막혀버리니까 답답해서 접게되더라 파밍의 재미? 그렇게 하려면 적어도 전시즌보다 전설드랍률이나 합성확률을 3배이상 높혔어야했다고 생각함.\n그리고 경솔하게 새시즌 6월이라고 그렇게 말해버리니까 고투력유저들도 허탈하기만하더라 오래가는것도 아니고 또 1년도 못가서 시즌초기화? 그소리듣고나서 겜에 돈쓸마음도 열심히하고싶은 마음도 다사라지더라\n니들은 겜을 해봐야해 진짜 어떤놈이 이딴식으로 설계했는지는 모르겠지만 파밍의재미? 니들이 겜을 해보고 재밌는지 판단을 해봐 도파민나오는것도 첨 한두번이지 몇달동안 나오지도않을걸로 기대하면 그게 절망이야\n제발 정신차리고 기획자들 싹다 정리하고 제대로 좀 하자",
+    "comments": [
+      {
+        "text": "딱 내생각",
+        "date": "2026.02.04 23:32"
+      },
+      {
+        "text": "옳소",
+        "date": "2026.02.04 23:45"
+      },
+      {
+        "text": "차피 이게임 6월에 하드리셋 또 한다면 다 접어요 ㅎㅎ",
+        "date": "2026.02.04 23:53"
+      },
+      {
+        "text": "이게 맞다",
+        "date": "2026.02.05 00:05"
+      },
+      {
+        "text": "ㄹㅇ",
+        "date": "2026.02.05 00:36"
+      },
+      {
+        "text": "전부 공감. 시즌도 짧은데 파밍확률이 구리니까 할 맛이 안남 + 운영 개판",
+        "date": "2026.02.05 06:26"
+      },
+      {
+        "text": "이런 사태가 날까봐 그렇게 시즌 갈아치우면서 운빨 드랍겜 만들면 안된다고 했는데\n기어코 드랍의 재미가 없다는 소리 하고 자빠졌더라.",
+        "date": "2026.02.05 06:43"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368540",
+    "title": "팩트글 올라왔다가 지워진거 봤으면 운영진들 욕할게 아니라",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 844,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368540",
+    "content": "지금 정권을 욕해야 하는거 아님? 뭐지 여기에도 세력 투입됐냐?",
+    "comments": []
+  },
+  {
+    "thread_id": "3368539",
+    "title": "지웠다는 글 요약점",
+    "date": "2026.02.04 00:00",
+    "comment_count": 2,
+    "view_count": 1856,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368539",
+    "content": null,
+    "comments": [
+      {
+        "text": "정권이 한국 게임업계 개입시작 '그' 나라 기업 텐ㅅㅌ를 위하여",
+        "date": "2026.02.04 23:03"
+      },
+      {
+        "text": "에반갤에서 봤는데 글쓴 닉이  나쁜놈 이래\n그냥 관종 어그로였다",
+        "date": "2026.02.04 23:07"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368538",
+    "title": "근데저귀야운거갔아요",
+    "date": "2026.02.04 00:00",
+    "comment_count": 4,
+    "view_count": 449,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368538",
+    "content": null,
+    "comments": [
+      {
+        "text": "지금 상황에 이런거 올리시면 멍꿀 인증하시는거에요.. 운영개판인데..",
+        "date": "2026.02.04 23:03"
+      },
+      {
+        "text": "현실",
+        "date": "2026.02.04 23:06"
+      },
+      {
+        "text": "ㅋㅋㅋㅋㅋㅋ 이런애들때문에 배째라 운영하지 ㅋㅋ",
+        "date": "2026.02.04 23:33"
+      },
+      {
+        "text": "귀엽긴해",
+        "date": "2026.02.05 06:44"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368537",
+    "title": "여기 힘들다며 무기변경권 서버이전권 내줘 우리가 살게 빨리",
+    "date": "2026.02.04 00:00",
+    "comment_count": 3,
+    "view_count": 313,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368537",
+    "content": "캐릭별로 살게 빨리빨리",
+    "comments": [
+      {
+        "text": "밸런스를 마춰야지 무기 변경권 나오면 밸런스 안맞출텐데?.. 데브켓이 쉽게 돈 빨수 있는 수단도 되고?",
+        "date": "2026.02.04 23:04"
+      },
+      {
+        "text": "서버이전권이 왜 필요함? 섭통하게 생겼는데",
+        "date": "2026.02.05 07:01"
+      },
+      {
+        "text": "무기변경권출시 - 인구수 몰리는 직업찾아 하향패치 - 무기변경권 판매 - 인구 많이 몰리는 직업 하향패치 이순서대로 할듯합니다.",
+        "date": "2026.02.04 23:38"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368533",
+    "title": "또 지워봐라 ㅋ",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 937,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368533",
+    "content": "회사의 직장인의 기본도 없는 무능한 집단아 ㅋㅋ\n없데이트 사유도 미리 설명 못하는 사회성도 떨어지는 무능한 집단아~\n또 긁혀서 삭제해봐~ ㅉㅉ\n8년동안 자기끼리 마라탕이나 먹으면서 세상과 단절하더니 유저와의 기본 예의도 잊어버린 무능한 회사야~~\n맨날 캠파로 소통 잘하겠다 모험가님들의 목소리에 귀를 기울이겠다 ㅋㅋㅋㅋㅋㅋ 아효~~\n안 쪽팔리니~~~",
+    "comments": []
+  },
+  {
+    "thread_id": "3368531",
+    "title": "진짜심하다 운영진너네",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 476,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368531",
+    "content": "진짜 글안쓰는데 심해너네",
+    "comments": []
+  },
+  {
+    "thread_id": "3368530",
+    "title": "넥겜으로 운영이관 기원",
+    "date": "2026.02.04 00:00",
+    "comment_count": 1,
+    "view_count": 585,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368530",
+    "content": "오픈부터 그것만을 원해왔습니다.\n그거나 그거나 똑같다?\n일랜시아도 10분 서버 안정화 점검하는데에 미리라도 공지써둡니다.\n이곳이 최하맞아요",
+    "comments": [
+      {
+        "text": "이관해도 기다리는건 지옥뿐임.\n서비스야 안정적일 수 있는데 업데이트 내용이 본가보기 보고있으면,\n데브캣에 남으면 서비스 퀄리티 지옥\n넥슨으로 가면 업데이트 퀄리티 지옥\n결국 둘 다 지옥뿐",
+        "date": "2026.02.05 03:11"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368529",
+    "title": "텐ㅅㅌ 루머가 루머가 아니었나보네",
+    "date": "2026.02.04 00:00",
+    "comment_count": 1,
+    "view_count": 1343,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368529",
+    "content": "'그' 나라  대자본 기업 텐ㅅㅌ가 한국 게임업계 엔터업계 다 흡수 할려고 지금 정권이 밑밥 깔아준다는게 루머가 아니었네",
+    "comments": [
+      {
+        "text": "신천지세요?",
+        "date": "2026.02.04 23:12"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368527",
+    "title": "방금 올라왔던 팩트가 사실인가보내",
+    "date": "2026.02.04 00:00",
+    "comment_count": 2,
+    "view_count": 2068,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368527",
+    "content": "딱 그것만 재깍재깍 지우내?\n글 보고있다는건데 진짜 양아치들이내",
+    "comments": [
+      {
+        "text": "ㄹㅇ 팩트인가보네 넥슨에 빨리 이관해라\n너네가 운영하는것 보다는 나을듯",
+        "date": "2026.02.04 22:56"
+      },
+      {
+        "text": "글을 제대로 안 읽은거냐 아니면 이해력이 딸리는거냐? 아니면 못본 사람들도 많으니까 논점 바꿔서 선동하는거냐?",
+        "date": "2026.02.04 22:58"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368517",
+    "title": "약속을지키겠습니다.",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 418,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368517",
+    "content": "이런 홈페이지도 정상이 이니야",
+    "comments": []
+  },
+  {
+    "thread_id": "3368511",
+    "title": "공지를 지옥에 계신 그분이 작성하시나 ㅎㅎ",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 391,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368511",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3368508",
+    "title": "오류제보를 해도 답도없고 패치는 하는건지 안하는건지",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 105,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368508",
+    "content": "무한 로딩 , 컴퓨터 플레이시 버튼 UI 안눌림 버그등\n건의 를 하고 문의를 해도 씹고 답도없고 패치는\n돈벌어먹는것만 재깍재깍 하고 내일이 점검날인데\n뭘점검하는지 패치하는지 아에 올라오지도않내",
+    "comments": []
+  },
+  {
+    "thread_id": "3368500",
+    "title": "실력이 부족한건지. 컨펌이 늦는건지..",
+    "date": "2026.02.04 00:00",
+    "comment_count": 1,
+    "view_count": 418,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368500",
+    "content": "컨텐츠는 나왔는데 개발 실력이 부족해서 늦어지는건가요?\n제가 가서 대신 개발해드릴까요?\n그게 아니면 다 만드셨는데 컨펌을 안해주시는건가요?\n제가 가서 대신 팀장해드릴까요?\n위에 두개가 다 아니면 정기인데 한글을 못배우신건가요?\n제가 가서 한국어 교육해드릴까요?\n지우면 복사해두고 그대로 다시 올림",
+    "comments": [
+      {
+        "text": "해주셔야 할듯 이넘들 밥처묵고 조작질 하느라 바빠요",
+        "date": "2026.02.04 22:43"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368495",
+    "title": "??뇌피셜인지 오피셜인지 모르는글이 내려갔네?",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 1216,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368495",
+    "content": "뭐냐 데브켓 짓이냐 작성자 짓이냐?",
+    "comments": []
+  },
+  {
+    "thread_id": "3368484",
+    "title": "이번주 처음으로 숙제 다 안함. 슬슬 질림.",
+    "date": "2026.02.04 00:00",
+    "comment_count": 3,
+    "view_count": 462,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368484",
+    "content": "그만큼 이제는 재미가 없고 귀찮다고 해야하나?\n딱히 게임에 새로운 컨텐츠 같은것도 안나오고\n그나마 월요일에는 어비스 레이드 싹 돌고, 검구랑 결계까지 돌았었는데\n이번주 처음으로 아직까지 안돌았음.\n어차피 주말에는 레이드랑 주말에는 어비스 퀘 있잖?\n그때 한번에 몰아버리려고.\n가공도 이제 돌리기 귀찮아서 안돌리고.\n지금까지는 옛날 그 추억맛으로 계속 게임 돌렸는데\n뭔가 새로운맛이 없으니까 게임이 점점 질리는 느낌.\n남편도 지금 나랑 같은 상태고, 이러다가 점점 접속횟수 줄면서 접을거같음.",
+    "comments": [
+      {
+        "text": "저도...",
+        "date": "2026.02.04 22:39"
+      },
+      {
+        "text": "뭐 업데이트 될때까지 잠시 쉬엄쉬엄\n할수밖에 없겠네요 할것들이 있는사람은\n하구요ㅜㅜ",
+        "date": "2026.02.04 22:48"
+      },
+      {
+        "text": "저도 점점 숙제하는 주기가 밀리고 있음.\n2~3일 동전 모이면 좀 돌았다가, 레이드나 어비스도 귀찮아서 주말에 몰아하고..",
+        "date": "2026.02.05 03:12"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368478",
+    "title": "점검 없음 없다고 말해주기로 한거 아니였나..?",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 422,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368478",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3368467",
+    "title": "\" 이래도 안 접잖아?\" \" 이래도 사주잖아?\" !!!",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 222,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368467",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3368466",
+    "title": "형들 정기점검 몰라??",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 509,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368466",
+    "content": "지들 기력딸려서 올릴힘 없다잖아\n기력점검 받으러가서 안올리는거야 ㅇㅋ?\n그샛기들 그런거 모른다구 몰?루\n사람이길 포기했다규\n이래도 사주자나~~~~~~~~~",
+    "comments": []
+  },
+  {
+    "thread_id": "3368464",
+    "title": "아니 사람들이 접힌다구요",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 317,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368464",
+    "content": "접는 사람은 접고 하는 사람은 어차피 하니깐?\n그게 아니라 그 하던 사람들도 접는 다구요...",
+    "comments": []
+  },
+  {
+    "thread_id": "3368462",
+    "title": "헤어 좀 만들어줘!",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 86,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368462",
+    "content": "헤어 이쁜것 좀 내줘!",
+    "comments": []
+  },
+  {
+    "thread_id": "3368455",
+    "title": "정기가 무슨 뜻인줄 모르는 건가...",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 391,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368455",
+    "content": "거창하게 뭘 하라는 것도 아니고 정기 점검인데 정기적이지 않은거면 그냥 서비스를 접어\n하다 못해 일정이 틀어지게 되면 사정을 이야기 하고 공지를 올리는 것이 정상이지 정기적인 일도 정기적이지 못하게 하는거면 그건 이용자들이 너무나 심각하게 받아들일수 밖에 없는걸 정녕 모르는건가?",
+    "comments": []
+  },
+  {
+    "thread_id": "3368454",
+    "title": "약속을 지키지 않았다는 것을 잊지 않겠습니다.",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 335,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368454",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3368453",
+    "title": "이쯤 되면 데브켓이 이별선언 했는데 구질구질한건 유저아님?",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 328,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368453",
+    "content": "그냥 알아서 떨어져라하는데 눈치없이 겜하네",
+    "comments": []
+  },
+  {
+    "thread_id": "3368449",
+    "title": "걍 섭종하자",
+    "date": "2026.02.04 00:00",
+    "comment_count": 1,
+    "view_count": 368,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368449",
+    "content": null,
+    "comments": [
+      {
+        "text": "섭종하면 내가 지른거 다 돌려줘??",
+        "date": "2026.02.04 22:05"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368444",
+    "title": "모험가 여러분들이 징징된다면, 저희는 더 악랄하게 되갚을것입니다.",
+    "date": "2026.02.04 00:00",
+    "comment_count": 1,
+    "view_count": 468,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368444",
+    "content": null,
+    "comments": [
+      {
+        "text": "징징된다라는 말은 없어요",
+        "date": "2026.02.04 21:57"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368442",
+    "title": "다음주에 대규모업데이트후 설명절연휴내내 버그있고 연휴 끝나고 임시점검 일주일 예상한다",
+    "date": "2026.02.04 00:00",
+    "comment_count": 1,
+    "view_count": 551,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368442",
+    "content": null,
+    "comments": [
+      {
+        "text": "설 업뎃 별 거 있나요.  한탕 해서 성과급 챙겨 먹을 생각에 싱글벙글이지.",
+        "date": "2026.02.04 22:29"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368437",
+    "title": "없데이트 실화예요?",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 309,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368437",
+    "content": "이제는 정기정검도 없어요??",
+    "comments": []
+  },
+  {
+    "thread_id": "3368424",
+    "title": "어차피 다음주 되면 민심 회복함",
+    "date": "2026.02.04 00:00",
+    "comment_count": 6,
+    "view_count": 1238,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368424",
+    "content": "추석맞이 발도장 이벤트\n추석맞이 온타임 이벤트\n추석맞이 로그인 이벤트\n★타르 ㅈ~~~~온나 어려움 출시\n★타르 ㅈ~~~~온나 어려움 출시 이벤트\n추석맞이 아바타 출시!\n추석맞이 패키지 출시!\n밸패? 놉!",
+    "comments": [
+      {
+        "text": "추석?",
+        "date": "2026.02.04 21:36"
+      },
+      {
+        "text": "설날 추석도 구분못하는 ...................",
+        "date": "2026.02.04 21:44"
+      },
+      {
+        "text": "응 임점",
+        "date": "2026.02.04 21:39"
+      },
+      {
+        "text": "설날어디감?",
+        "date": "2026.02.04 21:39"
+      },
+      {
+        "text": "미래에서 왔니?",
+        "date": "2026.02.04 21:44"
+      },
+      {
+        "text": "귀엽네 넌 세뱃 돈 압수다",
+        "date": "2026.02.04 22:03"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368418",
+    "title": "데브캣 선넘네",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 617,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368418",
+    "content": "업뎃도 없고\n밸런스 패치도 안해주고\n문의한거 답변도없고\n하는일이 먼지..\n이러다 진짜 다 망하겠네",
+    "comments": []
+  },
+  {
+    "thread_id": "3368416",
+    "title": "1주년이벤트",
+    "date": "2026.02.04 00:00",
+    "comment_count": 1,
+    "view_count": 834,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368416",
+    "content": "신화뿌리기 시즌2 예고 신규직업 신규던전 나올려나",
+    "comments": [
+      {
+        "text": "그런거 하면 뭐 함 유저도 점점 줄어들고 의미없음\n할라면 진즉에 했어야 됨 어짜피 곧 시즌 바뀌는데\n글고 오늘 bj 한명도 접음 진짜 이딴 겜 첨 봄\n넥슨한테 이관하면 이 정도로 쳐망하지는 않을텐데",
+        "date": "2026.02.04 21:32"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368415",
+    "title": "ㄹㅇ 중국 보다 운영 개못함 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 230,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368415",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3368414",
+    "title": "출시 1년도 안되서 처망한 쓰레기 게임 ㅋㅋㅋ",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 279,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368414",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3368411",
+    "title": "데브캣 니네들은 소통이라는걸 뭐라고 생각하는거냐",
+    "date": "2026.02.04 00:00",
+    "comment_count": 2,
+    "view_count": 361,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368411",
+    "content": "소통이라는게 무슨 거추장한 라이브를 키라는게 아니잖아\n업데이트가 없으면 업데이트 없습니다 죄송합니다\n업데이트가 있으면 이러이러한 업데이트 있습니다\n이런걸 유저가 물어보기 전에 미리미리 말해주는게 소통 아니냐?\n아니 무슨 환경에서 일을 하길래 이런 단순한 소통도 못하고  그렇게 비밀스럽게 일을 하세요\n자기 업무 PR 도 이딴 식으로 하지는 않을꺼잖아\n연봉 올려달라고 온갖 있는일 없는일 다 가져와서 허풍떠는 사람들이 유저한테는 아주 꿀먹는 벙어리들이여\n서로 커뮤니케이션은 어떻게 하세요\n니들끼리도 서로 아무말 안하면서 눈치 게임으로만 소통하냐 짜식들아",
+    "comments": [
+      {
+        "text": "??? : 캠파라이브 QnA 시간때만",
+        "date": "2026.02.04 21:30"
+      },
+      {
+        "text": "놀랍게도 데브캣 블라인드 평가보면 사실임",
+        "date": "2026.02.04 22:13"
+      }
+    ]
+  },
+  {
+    "thread_id": "3368404",
+    "title": "스윗영포티업체 데브캣 화이팅^^",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 141,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368404",
+    "content": "여직원들 워라밸 다 챙겨주느라 바쁘신 영포티 남직원분들 힘내세여^^",
+    "comments": []
+  },
+  {
+    "thread_id": "3368400",
+    "title": "인간 관계도 이렇게 맺으면 손절 당합니다",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 361,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368400",
+    "content": "너무한 거 아닙니까?\n없뎃이어도 없뎃이라고 시간 맞춰서 공지하세요 좀\n혹시 모르고 운영하고 있을까봐 알려드림",
+    "comments": []
+  },
+  {
+    "thread_id": "3368399",
+    "title": "데브켓 들은 죄가없다.",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 270,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368399",
+    "content": "그래도 사주는 유저들이 멍꿀일뿐",
+    "comments": []
+  },
+  {
+    "thread_id": "3368398",
+    "title": "운영꼬라지봐라 ㅋㅋㅋㅋ",
+    "date": "2026.02.04 00:00",
+    "comment_count": 0,
+    "view_count": 215,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3368398",
+    "content": "이딴게 대상게임이라고 ㅋㅋㅋㅋㅋ",
     "comments": []
   },
   {
@@ -6168,517 +7369,5 @@
         "date": "2026.01.29 09:30"
       }
     ]
-  },
-  {
-    "thread_id": "3361061",
-    "title": "그래서 1월중에 준다는 웨카 쥰내짠보상은 언제 주는데 ?",
-    "date": "2026.01.29 09:02",
-    "comment_count": 7,
-    "view_count": 422,
-    "like_count": 1,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361061",
-    "content": "1월이라고 말일 맞춰서 주는거야 ?",
-    "comments": [
-      {
-        "text": "넥슨의 가치 보상은 늦었지만 늦은 게 아닙니다.",
-        "date": "2026.01.29 09:06"
-      },
-      {
-        "text": "거지놈ㅋㅋㅋ 무과금6.0유저한테 백수라고 이빨 까더니 보상드립치네ㅋㅋㅋ",
-        "date": "2026.01.29 09:11"
-      },
-      {
-        "text": "아니 ㅋㅋ 거지거지 하지말고 ㅋㅋㅋ 무과금하는 게 거지아닌가 ㅋㅋㅋㅋ 개웃기네 ㅋㅋㅋ\n1차2차 전압 지를돈도 없어서 웨카보상 언급도 못하는 놈이 ㅋㅋㅋㅋㅋㅋㅋ",
-        "date": "2026.01.29 09:59"
-      },
-      {
-        "text": "무과금 6.0 달쉉해쩌염 칭찬 해주떼염 제이름은 \"바보노기모바일\" 이에염 집이가난 해서 무과금으로 시작해때염",
-        "date": "2026.01.29 10:00"
-      },
-      {
-        "text": "미안한대 니 댓글 다시정독 하고와 ㅋㅋ 백수 드립은 ㅋㅋ니가 먼저 햇어 ㅋㅋ이정도면 니머리에 우동사리 포멧 한거아님 ? ㅋㅋㅋㅋ",
-        "date": "2026.01.29 10:05"
-      },
-      {
-        "text": "자 이제 누가 멍청이지 .?",
-        "date": "2026.01.29 10:06"
-      },
-      {
-        "text": "500만원 쓰고 6.1 인데 수우발 이게 게임이냐?",
-        "date": "2026.01.29 09:23"
-      }
-    ]
-  },
-  {
-    "thread_id": "3361058",
-    "title": "얘네는 업데이트를",
-    "date": "2026.01.29 09:01",
-    "comment_count": 4,
-    "view_count": 481,
-    "like_count": 2,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361058",
-    "content": "매번 패키지말고 제대로 하는게없네;; 밸패는 도대체 언제 맞춘다는거임??",
-    "comments": [
-      {
-        "text": "밸패요?\n이미 너무 멀리 왔습니다.\nA를 건들면 저~~~~ 끝에 Z가 뒤집히거든요.",
-        "date": "2026.01.29 09:03"
-      },
-      {
-        "text": "진짜 일안하네요...",
-        "date": "2026.01.29 09:12"
-      },
-      {
-        "text": "아니~ 오픈 초기부터 수도사 수호진스킬 타격범위 밖에서 지혼자 휙휙 돌리는거좀 고쳐달라고 그렇게 얘기를해도 10개월째 놔두는게 말이되냐고",
-        "date": "2026.01.29 09:05"
-      },
-      {
-        "text": "진짜 그냥 돈만 빨려고 하나봐요",
-        "date": "2026.01.29 09:11"
-      }
-    ]
-  },
-  {
-    "thread_id": "3361055",
-    "title": "솔직히 이멘마하는",
-    "date": "2026.01.29 08:55",
-    "comment_count": 0,
-    "view_count": 22,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361055",
-    "content": "인구 소멸 직전의 도시 아닌가요?\n길거리에 사람이 안 보이던데\n다들 더 큰 도시로 이주를 했나 봐요.\n사람이 없으니 머지않아 가게들도 문 닫을 거고\n유명한 식당이 있으면 뭐 하나요.\n손님은 없고 종업원은 맨날 밖에서 농땡이나 피우고",
-    "comments": []
-  },
-  {
-    "thread_id": "3361050",
-    "title": "무과금 6.0으로서 무과금 직업 추천 드림",
-    "date": "2026.01.29 08:38",
-    "comment_count": 13,
-    "view_count": 224,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361050",
-    "content": "대검전사 하세요\n이유1 - 모비노기 모든 직업 통틀어 탱킹력 0순위\n안 죽고 안 죽어서 오토가 가능하다\n장신구 회반탄 끼고 방어구 불사 끼면 그냥 좀비다\n그렇기 때문에 게임 난이도가 많이 내려간다\n운영진에게 바라는 건 도발 좀 줬으면 좋겠다\n그러면 진짜 탱의 정점에 오를 것이라 봄.\n그리고 불굴과 슈퍼아머는 진짜 대검의 매력임\n난 그래서 첨에 광전사 쓰다가 별로여서 안 씀\n모바일게임에 스트레스 받아가면서 손컨하기 싫음\n(물론 모든 기믹 수행하고 빡겜은 손컨함)\n광전사 끼면 던전돌 때도 혼자 피 앵꼬나서 걍 죽음\n이유2 - 무과금과 과금 차이가 적다\n현실적으로 이게 진짜 중요한데,\n실전 딜을 볼 때 가장 영향이 있는 건 보석 세공이다.\n3줄작을 해야 하지만 섭 초창기 제외하고\n현재 3줄작하려면 진심 어마어마하게 돈이 든다.\n(확률 주작. 섭초기와 명확히 다름.)\n그런데 대검전사는 모든 직업중에 스킬태그가 가장 간편하게 되어있다.\n그냥 강타/보조 이 두개가 핵심이기 때문에\n2줄작만 해도 크게 차이가 없다는 점이다.\n이 두가지가 진짜 무과금 유저이자 모바일 오토유저한테 가장 중요하다고 생각함.\n실제로 필자는 0원 무과금이면서\n투력 6.0 돌파하였음\n보석 세공은 1.5줄 정도 되는데\n이것도 시간 가면 충분히 2줄 만들 수 있음\n한달에 0.1줄만 하면 시즌1  끝날 때 2줄됨;;\n보석세공은 현질의 영역이라 현재까지 업뎃을 보면\n앞으로도 상위보석 나와도 2줄 3줄 유지가 가능하게 해줄거기 때문에 사실상 2줄하면 종결임.\n고로 스트레스 안 받고 최상의 컨디션으로 무과금으로 즐길 수 있기에\n대검전사를 무과금유저가 하기 좋은 직업으로 추천함.\n반박 가능하고 타직업 더 괜찮은 게 있다면 추천 좀",
-    "comments": [
-      {
-        "text": "아까부터 디게 무과금무과금 하네\n결제 내역 까고 상점 구매내역 까고 이야기 시작 하시고 .\n맴버십 여부 까보세요",
-        "date": "2026.01.29 08:40"
-      },
-      {
-        "text": "결제내역 어디서 깜? 알려주면 까드림\n결제한 적이 없어서 어디서 보는지 모름",
-        "date": "2026.01.29 08:40"
-      },
-      {
-        "text": "거지면 ㅇㅈ이지",
-        "date": "2026.01.29 08:44"
-      },
-      {
-        "text": "거지는 아니지만 난 돈 써서 하는 거보다 만들어서 하는 것에 성취감 느껴서 안 지르는 것뿐이야",
-        "date": "2026.01.29 08:45"
-      },
-      {
-        "text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ쥰내웃기네",
-        "date": "2026.01.29 08:46"
-      },
-      {
-        "text": "무과금 을하던 핵과금을하던이게임 기록갱신 이외에 다른거 하나도 없어요 .\n직업은그냥 개똥쓰레기 직업빼고 아무거나 하면 되고\n핵과 해도 신화 한개 없는사람 잇고 무과금 해도 신화 여러개 먹은사람잇는 그런 운빨게임임\n그리고 출시 당시 부터 게임잘즐긴 무과금들 이번아티팩트 나오시전 에 6만 넘은 사람 많으니까\n디게 칭찬에 목마른 얼라처럼 무과금이 어쩌구 저쩌구",
-        "date": "2026.01.29 08:45"
-      },
-      {
-        "text": "그건 님 생각이고ㅋㅋ\n님 생각을 왜 남에게 강요함ㅋㅋ\n무과금 직업추천하는데 뭔 칭찬에 목 말라ㅋㅋㅋ 오히려 이런 글에 긁힌 님이 돈 지르고 투력도 못 올려서 빡친 거 같고만ㅋㅋ",
-        "date": "2026.01.29 08:48"
-      },
-      {
-        "text": "네 다음 무과금호소인",
-        "date": "2026.01.29 08:55"
-      },
-      {
-        "text": "무과금에 5.5면 믿는다 6.0은 애바지 구라 적당히 치세요 뭔 말같지도 않는 구라를 ㅋㅋ",
-        "date": "2026.01.29 08:47"
-      },
-      {
-        "text": "전 글 보면 알겠지만\n무기 16강\n나머지 14강(방어구 하나15강 / 방어구 신화1개)\n초월2는 1부위\n초월1은 전체\n에픽펫/에픽패션(모든부위)\n이런 세팅이네요",
-        "date": "2026.01.29 08:50"
-      }
-    ]
-  },
-  {
-    "thread_id": "3361049",
-    "title": "네네 다음신규의상",
-    "date": "2026.01.29 08:37",
-    "comment_count": 1,
-    "view_count": 135,
-    "like_count": 1,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361049",
-    "content": null,
-    "comments": [
-      {
-        "text": "디자인 참..ㅋㅋㅋㅋㅋ",
-        "date": "2026.01.29 08:59"
-      }
-    ]
-  },
-  {
-    "thread_id": "3361039",
-    "title": "이놈들은 이제 망할때가 온거 같다",
-    "date": "2026.01.29 08:24",
-    "comment_count": 1,
-    "view_count": 148,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361039",
-    "content": "슬슬 상위권 유저들 떠나고\n사람도 적어지는데 이렇게 귀닫고 아웅 하면서 없뎃 밀어 붙히는거 보면\n우리도 놔줄때가 된 모양이다 나도 게임에 돈 안지는지 1달이 되어간다\n아무리 생각해봐도 오늘이 골든 타임 마지막이었는데 이놈들에겐 그것조차 사치인 모양이다\n처 망해라 그냥",
-    "comments": [
-      {
-        "text": "상위 유저들은 월요일에만 옵니다ㅎㅎ 월요일에 기갱 조금 만 해도 유지 대니깐\n내 캐릭 중에 비주류 캐릭 4등에 있는데 나도 그거 월요일 말곤 지옥15 안돌려서 접속을 안합니다..\n너처럼 버스 탈 기사가 없어서 이런소리하는 건지 모르겠지만\n그거 아니면 그냥 접으시면 됩니다 뭘 미련 가져서 징징징 거립니까 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n밥값하면서 글쓰기 바랍니다.",
-        "date": "2026.01.29 08:35"
-      }
-    ]
-  },
-  {
-    "thread_id": "3361037",
-    "title": "직변 좀 빨리내라... 하는 캘터 질려서 못하겟음",
-    "date": "2026.01.29 08:20",
-    "comment_count": 1,
-    "view_count": 79,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361037",
-    "content": "안해본 캘터들 해보고 싶음.... 차피 컨텐츠 늦게 내고 재미없고 못만들가니까.... 직변이라도 좀 자유롭게 내놔서 이캐릭 저캐릭하게라도 해줘요.....",
-    "comments": [
-      {
-        "text": "그래서 니가 안해본 캐릭이 뭔데요?\n딱봐도 지금 지옥15 팟 가는 캐릭으로 닉변할게\n뻔한 글 인것같에서 물어보는데요 ㅋ",
-        "date": "2026.01.29 08:25"
-      }
-    ]
-  },
-  {
-    "thread_id": "3361033",
-    "title": "이말하면 정지당할거 알지만 그래도 말해야겟다.",
-    "date": "2026.01.29 08:04",
-    "comment_count": 0,
-    "view_count": 279,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361033",
-    "content": null,
-    "comments": []
-  },
-  {
-    "thread_id": "3361032",
-    "title": "한 2주 쉬었는데 겜을 살릴려는 노력을 않하는군",
-    "date": "2026.01.29 08:03",
-    "comment_count": 1,
-    "view_count": 115,
-    "like_count": 1,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361032",
-    "content": "유저들은 계속 줄어들고 있는데 머 눈에 확 들어오는 패치/업데이트가 없군",
-    "comments": [
-      {
-        "text": "그냥 좀 쉬어 ㅋ 아쉬워서 기어 오는게 더 추해\n2주 안쉬고 노동처럼  재화 파밍이라도 하고 불만을 말하던가",
-        "date": "2026.01.29 08:44"
-      }
-    ]
-  },
-  {
-    "thread_id": "3361022",
-    "title": "공팟페기장 도전할수있는 파티",
-    "date": "2026.01.29 07:29",
-    "comment_count": 1,
-    "view_count": 245,
-    "like_count": 4,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361022",
-    "content": ".아티팩트가 대충 2000이상 뻥투생각하면\n대충 지금투력 60000 밑으론 지옥11이상 안다닌 케릭임\n.지금 대충 60000케릭이 15왔다 하면 위에 말한것처럼\n11이상 트라이도 안해보고 기믹도 모르고 무대포로 온사람\n99%임 눈치것 하는사람들임 절대공팟으로 못깸\nㅡㅡㅡㅡ기믹모르는사람ㅡㅡㅡㅡㅡ\n.풍댕이 시작과 동시에 5시간다?\n.5시가는건 봐줄만하나 파티원이 똥을 못뺀다  ㅡ팟쫑ㅡ\n.파란색 깨고 두번째도 파란색 깬다? ㅡ 팟쫑ㅡ\n.구조물 못깬다? ㅡ두번해보고 못깸 팟쫑ㅡ\n.창던지기 할줄모른다?  두번정도해보고 말귀못알아 듣는다?\n어르신이니 공손하게 ㅡ팟쫑ㅡ\n.가끔 탱커.딜러3명팟 있는데 탱보고 창던져라? ㅡ팟쫑ㅡ\n.기갱팟 구하거나 파티원모집\n외치기하시는분이 기갱점수 140000 미만이다?\nㅡ난아직 타임어택 한군대 안했으니 안한곳 타임어택 깨줘임\nㅡ잔머리굴리는 타임으로 그사람 차단하세요\n.위에글 언급 0이면 페기장 도전하세요",
-    "comments": [
-      {
-        "text": "화가많거나 갑질하는 유저는 무조건  멀리하세요\n친해져도 스트레스 탈모빔임",
-        "date": "2026.01.29 07:31"
-      }
-    ]
-  },
-  {
-    "thread_id": "3361020",
-    "title": "직변권이나 빨리 해결해주세요",
-    "date": "2026.01.29 07:27",
-    "comment_count": 1,
-    "view_count": 118,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361020",
-    "content": "솔직히 검방 장궁 수도사는 약한거 맞음 밸패나 해주고  화법 듀블 궁수 ?? 약하다는건 그냥 그사람들 손이문제거나 어비스에서만 안좋다는 거겠지 절~~~~~대 약한거 아니니까 편의성 개선이나 해주고\n직 업 변 경 권 이나 내달라고 ㅡㅡ 1줄작 이여도 넘어가고 싶으니까 약해서 넘어가는게 아니라 그냥 간단한 조작을 몇달 동안 반복하고 있으니까 물려 재미없어",
-    "comments": [
-      {
-        "text": "그렇게 직변권이 출시되고\n디코에서 사람들은 군장검사를 시작하였는데...\n뻥투: 7.0 검술 어비스가요!!\n사람: 혹시 검술님 직변하셨으면 세공좀 볼 수 있을까요?\n뻥투: 네? 아직 직변한지 얼마안되서 세공2줄좀안되는대요?\n사람: 죄송합니다..",
-        "date": "2026.01.29 07:29"
-      }
-    ]
-  },
-  {
-    "thread_id": "3361011",
-    "title": "지15 파티모집했을때...",
-    "date": "2026.01.29 06:04",
-    "comment_count": 0,
-    "view_count": 263,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361011",
-    "content": "모집을 했어 근데 초행이면 초행이다 기믹 잘 모르는데 설명 부탁합니다... < --- 이말이 어렵나요?\n꼭 대공동 첫번째 방 플레이보고 파티원들이 그사람 빼고 귓와서 ... 뒷담화마냥 이야기가 오고가는데 ....\n투력 되니깐 신청하시는건 알겠는데  팔라딘 응용도 안하시면서 CC기 빼는법도 모르고 장난하시나....\n그렇게 오토로 조지실거면 싹쓸이 끼겠다는 말을 하지마세요\n지옥15 5557 기갱팟인데\n왜 와서 기믹도 모르면서 꼴에 탱커 빙결이라고\n내 부캐중 5.6빙결도 7559인데 최소한 CBar 기믹정돈\n그방그방  플레이정돈 알고 오세요\n지옥10인줄아나 아직 까지",
-    "comments": []
-  },
-  {
-    "thread_id": "3361008",
-    "title": "지1타임어택하시던분들",
-    "date": "2026.01.29 06:01",
-    "comment_count": 0,
-    "view_count": 172,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3361008",
-    "content": "고생하셨어요 30초안엔 역시 무리였지만 재밌었어요",
-    "comments": []
-  },
-  {
-    "thread_id": "3360985",
-    "title": "##### - 어비스 지옥15 랭킹전 티어 정리(주관적) - #####",
-    "date": "2026.01.29 03:08",
-    "comment_count": 5,
-    "view_count": 705,
-    "like_count": 3,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360985",
-    "content": "안녕하세요.\n오늘 도 어김없이 찾아온 삐약입니다.\n오늘은 그간 지옥15를 3분대 겪고나서 여태까지 같이 한 유저들에 대한 티어소식을 알리고자\n다시 켰습니다. 이 티어는 제 주관적인 것임으로 정답은 아니고 개개인의 스펙에 따라 다를 수 있습니다.\n0티어\n전격술사, 빙결술사, 음유시인\n이유:\n전격술사의 높은 고점과 추가타는 생각보다 잘터집니다. 5판중에 한판은 무조건 판수로 박았을때 추가타가 터져서\n고점갱신이 되는경우가 많고 워낙 높은 고점까지 덭붙여서 명실상부 딜러라인에서는 1티어 귀족에 속합니다.\n빙결술사의 경우 대체불가한 탱킹력과 원거리 브익, 그리고 광역딜, 그리고 최근 지옥15에서의 고투력 빙결술사의\nDPS의 중요도가 높아짐에 따라 원래도 좋았지만 고투력 빙결들의 입지가 더 단단해졌습니다.\n음유시인의 가장 큰 장점은 딜러들의 유틸과 뎀증이 다른직업에 비해 월등하게 벨류가 높다는 점입니다.\n특히 우리가 알고있는 쿨감의 경우는 딜러의 사이클을 한번 더 굴린다는 점에서 월등한 밸류차이를 보여주고\n역시나 지옥15에서 고점파티로는 필수적인 선택으로 자리잡혔습니다.\n1티어\n검술사, 격투가, 암흑술사\n이유:\n검술사는 현재 압축딜, 지속딜, 그리고 딜을 넣는 과정에서의 최적화가 굉장히 쉽고 쌘 직업중에 하나로\n고점면에서는 전격에게 밀리더라도 일반적인 파티에서는 전격보다는 검술사가 안정적이고 좋은 점수를 뽑습니다.\n특히 고투력 내실좋은 검술은 전격이 부럽지 않을정도로 강합니다.\n격투가는 궁비약으로 인한 압축딜이 전격, 검술대비 좀 더 빠르게 강하게 들어가는 경우가 많고 역시나\n지속딜도 중상위권측에 속해서 지옥15가 나온시점에서도 1티어직업으로 자리잡혔습니다.\n현재 격투가체급이 상당히 높음으로 몹의 피통과 강함을 불문하고 그냥 여전히 강합니다.\n암흑술사는 의외라고 생각하실지 모르겠으나, 지옥10에서 예열과 압축딜이 부족해 1브익컷이 불가능한측에 속해있었으나, 최근\n몹들의 개체수와 체력이 높아지고 긴 예열시간동안 / 압축딜이 좋은직업과 같이 파티를하면 방마다 서로 시너지가 발휘되어서\n최상위 티어까지 올라왔습니다. 몹을 자동으로 모아주는 강력한 범위공격과 전격에 묻혀서 잊혀진 원거리딜의 강함은\n지옥15에서 한번 파티를 해보면 헤어나올수없다라는 말이 나올정도로 범위딜, 지속딜도 전격에 묻힌 단일딜 탑2직업입니다.\n2티어\n대검전사, 석궁사수, 도적, 악사\n이유:\n대검전사는 모두가 알다시피 폐기장에서의 압도적인 캐리력과 최근 상향으로 인한 엄청난 딜계수폭, 그리고\n사기적인 탱킹능력은 우리가 아는 모든 직업보다 불합리하게 강한느낌을 받습니다. 하지만 2티어인 이유는 애매한 압축딜성능과\n폐기장에서의 캐리력에 비해 다른 방에서 생각보다 조금 떨어져서 2티어로 놨습니다. 하지만 이 직업의 고투력과 같이간다면\n모든케릭중에 최고 든든국밥입니다.\n석궁사수는 우리가 아는 약하다는 직업군이라는 편견에 비해 생각보다 많이 강합니다. 먼저 예열없이 빠른 딜링 그리고\n쉬지않고 딜하는 딜로스자체가 없는직업, 스펙만큼 강함이 정직하게 묻어나는 그런 직업이고 강한석궁사수는 격투가 부럽지않다라는말이\n나올정도로 기대이상으로 강합니다. 하지만 세공의 영향이 매우큰편이라 사람간의 편차가 매우 심한편이기도합니다.\n하지만 세공잘되어있는 석궁사수는 격투가보다 더안정적이고 준수한 성능을 보여줍니다.\n도적은 생각보다 압축딜도 나쁘지않고 지속딜도 좋아서 사실 1브익메타에서 불리함이 다소있었지만 지금 지옥15넘어온 시점에서\n엄청나게 예열이 있는 케릭도 아니고 그렇다고 지속딜이나 순간폭딜이 약한 케릭도 아닙니다. 다만, 격투가, 검술사의 벽을 넘지못해서\n이자리에 있을뿐. 저 두 캐릭이 자리를 비웠을때 곧바로 들어가도 손색없는 직업중에 하나입니다.\n악사는 원거리딜러중 범위딜이 가장좋은측에 속하고 단일딜도 쌘편이라 사실상 원거리계의 올라운더라 생각이듭니다.\n전격과 암흑술사 대비 고점이 다소낮은 대신, 안정적인 딜링능력은 한수위이고 좀 더 쾌적하고 빠른 플레이가 가능합니다.\n오히려 애매모호한 전격과 암흑술사보다 강한 악사가 딜도쌔고 더 안정적이라는 평이 지배적이긴합니다.\n3티어\n화염술사,  전사, 힐러\n이유:\n화염술사는 최근 던전 입장시 열기가 채워져있는 상향패치와 열기수급 상향, 궁으로인한 강하고 딜로스없는 안정적인 딜링과 우리가 아는\n명실상부 범위딜 1등 직업중에 하나입니다. 악사와 마찬가지로 두 직업이 원거리 딜러중 가장많이 선호되는 직업중에 하나입니다.\n일단 범위면에서 쾌적한 느낌을 받고 단일딜측면에서도 강하신분들은 단일고점이 결코 밀리는축은 아닙니다.\n전사는 빙결술사에게 모든면에서 다소 아쉬운 모습은 있습니다만, 그래도 데려간다해서 엄청나게 밀리거나 하는 느낌이라기보다\n범위딜에서의 약점이 그대로 느껴져서 전사와 같이가려면 범위딜직업군이 무조건 들어가야한다는 조건부가 생겨버립니다.\n이자체만으로 상당한 부담감을 주긴합니다. 다만 브익도 있고 딜적인면에서도 나쁘지않아 대체로 가능하다는점이 3티어에 있기 충분합니다.\n힐러는 최근 상향으로 음유시인보다는 아직까지는 안좋다는 평이많지만 그래도 안정성면에서는 훨씬 좋습니다.\n그리고 특정 직업에 따른 시너지가 많이 좋은편이고 특히 고투력파티보다 저투력파티에서의 힘이 좀 더 강하게 느껴지는 케릭입니다.\n음유시인에 비해 고점능력이나 유틸적인면은 역시나.. 많이 밀리지만 그나마 이번패치로인해 음유시인이 대체가 가능하다는점이 3티어로 있기 충분합니다.\n4티어\n댄서, 듀블, 마법사, 장궁병, 사제, 수도사, 궁수\n이유:\n댄서는 현재 단일패시브로인해 결코 0~3티어 직업보다 밀린다기보다 고점을 바라보는 인원이 많이없기도하고 그만큼 투자한 유저가 없다는게\n4티어 이유입니다. 석궁사수와 더불어 딜로스가 없고 고점이 많이 높은 직업이지만, 그만한 애정과 그만한 유저를 찾아보는게 더힘들정도로\n과금력투자유저들이 없다는게 4티어 이유입니다. 하지만 고점이 높은 캐릭이고 예열이 없는케릭임으로 투자할경우 1티어까지 올라가는 직업임은 분명합니다.\n듀블도 마찬가지로 근거리 캐릭중에 순간폭딜이 많이 밀리고 그렇지만 고점이 높고 지속딜이 좋아서 그만큼 투자를 한유저가 있을경우\n엄청나게 밀리거나 하지는 않습니다. 다만 아무래도 게임 특성상 과금러들의 비중이 적은편이기도하고 압축딜이 다소 애매해다는점이 많은 감점요인이긴합니다.\n하지만 지옥20까지 뚫릴경우에는 지속딜이 댄서와 더불어 굉장히 좋은직업임으로 티어가 올라갈 수 있습니다. 하지만 현재까지로서는\n압축딜이 좀 별루지만 지속딜이쌔고 무난한 딜러로 생각이됩니다.\n마법사는 현재 지옥10에서의 1브익메타에서 활약을 보여줬지만 최근 지옥15로 넘어오면서 티어가 많이 내려갔습니다.\n그리고 강력한 메테오가 적을 밀쳐냄이 상당히 근거리딜러 입장에서 좀 불편하다는 평이 많고 딜자체가 약한편은 절대 아니고 일단 예열자체가 없음으로\n순간폭딜, 지속딜, 안정성에서 전부 좋은평을 받는 마법사입니다. 확실히 투자를 많이 한 고투력일수록 안정적이고 쌔다는느낌은 이직업이 진짜\n과장안하고 제일 쉽고 강해보이는 원툴입니다.\n장궁병은 현재 지옥10에서 압축딜이 다소 불리하다는점이 크게 다가왔고 궁기반의 지속딜러라 생각보다 지옥10에서는 안좋은축에 속해있는 직업입니다.\n지옥15에서는 폐기장, 대공동에서 안정적으로 예열/딜로스없이 딜하는 저격수같은 딜러컨셉은 맞습니다. 하지만 신단이나 신전에서 좁고 불편한 구조는\n이 직업들을 괴롭게 만듭니다. 장궁의 이점이 15m거리에서 안정적으로 딜을넣고 범위딜까지 갖춘 만능딜러다라는 컨셉에 무색하게,\n신전, 신단의 기믹이나 좁은 보스방 구조는 장궁의 메리트가 상당히 떨어지고 그나마 폐기장에서 원거리딜러중 제일 안정적으로 딜넣는구도가 보여서\n이것저것 판단했을때 애매모하하다는 평이 많고 실제로 제가느끼기에도 그렇습니다.(그리고 생각보다 장궁 개개인의 강함차이가 많이납니다.)\n다만 지옥20이 뚫렸을때, 몹의 피통과 체력이 높아지고 좀 더 난이도가 올라갔을때는 장궁의 장점이 최대한 보여줄것 같다는 가능성이있고,\n그리고 어비스가 새롭게 개편되거나 했을때 맵이 상대적으로 넓거나 몹이 쌔졌을때의 이점이 있을것이라 생각합니다.\n현재로서는 4티어를 준이유가 맵의 구조랑 장궁의이점(장거리) 그리고 안정성이 폐기장같은곳이 아니고서야 보여지지않는건 사실입니다.\n사제는 현재 유틸계열 (음유시인과 힐러)에 비하면 벨류가 너무낮습니다. 그리하여 이케릭은 딜러라고 보는게 맞다고 판단이 되기도합니다.\n딜러만큼의 강한딜과 소소한 힐은 어찌보면 애매한 딜러보다 훨씬좋다라는 평이 많습니다. 하지만 고점을 바라보기에는 음유시인에 비해\n벨류가 너무 낮고 특히 음유시인의 유틸과 딜링이 사제보다 엄청나게 밀린다는 느낌도 들지않아 애매한위치에 있는건 사실입니다.\n다만, 저투력파티에서만큼은 어중간한 원거리딜러보다는 100배는 나은 안정감과 딜링능력을 보여집니다.\n수도사는 최근 상향으로 인한 캐스팅속도증가가 생각보다 별로일것같았지만 유의미하게 딜사이클이 빨라지고 압축딜에서도 유리한 이점을 만들어줍니다.\n그리고 탱킹능력도 매우좋고 솔직히 말하면 제 주관적인 생각이지만 음>힐>수라고 생각할 정도로 수도사가 그렇게 안좋거나 그런느낌은 절대 못받았고\n특히 힐링능력도 엄청나게 좋습니다. 다만 고점에서 시간단축이 음유시인과 힐러에비해 조금 부족한 상태이고 그걸 커버쳐줄 딜링이 강한 수도사가 아니고서야\n조금 힘든것도 사실입니다.\n궁수는 현재 단일딜로보면 암흑술사와 더불어 2인자를 노리는 우리가 생각하는것보다 단일딜이 엄청나게 강한 딜러입니다.\n그렇다고 전격, 암흑술사처럼 예열이 딱히 있는편도아니고 단일딜만큼은 쉽고 강하고 안정적으로 넣는 직업입니다.\n우측 강제이동이 조금 신경쓰여서 이동을 강제로하면서 딜링을 하는 불편함만 감수한다면 단일딜이 부족한 파티에서 엄청나게 강합니다.\n다만 범위딜이 다소 애매한부분이 있고, 궁수랑 파티를 조합할때 범위딜러와 같이 가야한다는 조건부가 조금 빡세집니다.\n+추가로\n4티어 직업들은 현재 어비스랭킹점수를 보면 결코 낮은편은 아니고\n불리한 환경과 입지에 있다고 생각하며,\n지옥20에서는 오히려 반등할 수있는 기회가 있는 직업들이라 생각합니다.\n현재로서는 지옥15까지의 티어는 이렇고\n지옥20에서는 반드시 티어가 바뀔것이라 생각합니다. 왜냐하면 지옥10티어와 지옥15티어는 생각보다 많이 바뀌었기때문입니다.\n이상 제 주관적 경험으로 쓴 글이고 틀린부분이 많을수도 있습니다.\n저도 사람이라 그 직업에서 약한사람과 갔을수도 있기때문입니다.\n서버는 아이라서버입니다.",
-    "comments": [
-      {
-        "text": "0티어에 전격은 아닌것 같에요\n음유랑 시너지가 좋다보니 전격이 등급업한 느낌이군요\n음유 없을시 제가 느끼기엔 동비슷한 스펙으로 보면\n전격 < 화법  같습니다.",
-        "date": "2026.01.29 06:11"
-      },
-      {
-        "text": "누가 음유없이 기갱팟을갑니까...",
-        "date": "2026.01.29 07:55"
-      },
-      {
-        "text": "몰라님도 ㅋㅋ 버스충이시군요 ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎ",
-        "date": "2026.01.29 08:23"
-      },
-      {
-        "text": "기갱팟에 음유가 필수가 아닙니다 아저씨!! ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-        "date": "2026.01.29 08:23"
-      },
-      {
-        "text": "대검 약코보니 글쓴이님 대검임",
-        "date": "2026.01.29 07:59"
-      }
-    ]
-  },
-  {
-    "thread_id": "3360979",
-    "title": "8성룬 분해 왜 하향함?",
-    "date": "2026.01.29 02:52",
-    "comment_count": 3,
-    "view_count": 762,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360979",
-    "content": "가뜩이나 중복합성에 억가 당해서 유효옵 D지게 안드는데 조각마저 줄여버리면 걍 접으란건가",
-    "comments": [
-      {
-        "text": "뭔소리야?? 분해 하향 한다는 업뎃내용이 어디있음??? 멤버쉽 안하고 분해한거 아님?",
-        "date": "2026.01.29 03:20"
-      },
-      {
-        "text": "맴버쉽 없으면 17개 입니다.",
-        "date": "2026.01.29 05:10"
-      },
-      {
-        "text": "분해 갯수 하양 패치한적도 없는데 혼자 이상한세계 사시나보네",
-        "date": "2026.01.29 06:20"
-      }
-    ]
-  },
-  {
-    "thread_id": "3360969",
-    "title": "8년동안",
-    "date": "2026.01.29 02:17",
-    "comment_count": 1,
-    "view_count": 251,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360969",
-    "content": "8년동안\n8인레이드\n글라하나 만들어났고\n1년도 인되서\n타바 하나만들고\n업뎃빠르시다\n역시갓겜",
-    "comments": [
-      {
-        "text": "그럼 접어 안잡으니깐",
-        "date": "2026.01.29 06:23"
-      }
-    ]
-  },
-  {
-    "thread_id": "3360966",
-    "title": "겜 뒤지길 원하는건가요?",
-    "date": "2026.01.29 02:06",
-    "comment_count": 3,
-    "view_count": 435,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360966",
-    "content": "뭐 이것저것 비교 해봐야 의미 없는거 알기때문에 말은 더 안할게요ㅋ\n근데 할게없어요 이 겜이ㅋㅋ 뭐라도 만들어봐요\n운영진이건 개발팀이건 월급 모기처럼 빨아먹을 궁리 그만하고요ㅋㅋ\n처음에 너무 재미있어서 주변 지인도 초대하고 했는데 지금은 욕먹어요 왜 하라고 했냐고요\n이번주도 역겨운 패치노트인데 다음 패치 마지막으로 기대해볼게요\n부디 유저의 말좀 귀기울여 주시길",
-    "comments": [
-      {
-        "text": "제발좀..이넘들 유저 빠져나가길 유도 하는거같아요. 빨아먹을만큼 먹었으니 문닫아도 미련없다 사람좀 빠져라 그래야 우리도 다른게임 만들지 라는 마인드 같은데.",
-        "date": "2026.01.29 02:17"
-      },
-      {
-        "text": "앞으로 데브켓 겜은 네버 절대로 않함",
-        "date": "2026.01.29 07:59"
-      },
-      {
-        "text": "차라리 리니지를 하지",
-        "date": "2026.01.29 07:59"
-      }
-    ]
-  },
-  {
-    "thread_id": "3360965",
-    "title": "망령의탑좀..",
-    "date": "2026.01.29 02:01",
-    "comment_count": 0,
-    "view_count": 145,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360965",
-    "content": "버티기도 재밌게 할게요 다시 좀..",
-    "comments": []
-  },
-  {
-    "thread_id": "3360957",
-    "title": "서버이전 때문에 유니크닉,닉변 나온거 아닌가요?",
-    "date": "2026.01.29 01:39",
-    "comment_count": 1,
-    "view_count": 292,
-    "like_count": 3,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360957",
-    "content": "언제 진행한다고 좀 알려주지 아직도 개발 중인 거에요?\n크로스서버매칭 어짜피 나오니까 그전에 서버이전 좀 열어주면 좋겠다\n친구 서버로 이사 좀 가고 싶다",
-    "comments": [
-      {
-        "text": "얘들 그정도 능력이나 기술없음 ㅋㅋㅋ서버이전?? 해줄꺼 처럼 시간 끌려고 중복아뒤 안되게 한거고 ㅋㅋㅋ 공지 사항 하루 한번만 뜨게 하는거도 한달 넘게 걸린 무능한 애들인뎈ㅋㅋㅋㅋㅋㅋㅋ",
-        "date": "2026.01.29 01:50"
-      }
-    ]
-  },
-  {
-    "thread_id": "3360956",
-    "title": "맞음 ㅋㅋ회사 자체가 그냥 가망이 없음 ㅋㅋㅋ",
-    "date": "2026.01.29 01:38",
-    "comment_count": 0,
-    "view_count": 193,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360956",
-    "content": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-    "comments": []
-  },
-  {
-    "thread_id": "3360947",
-    "title": "역대급 개쓰레기 게임 ㅋㅋㅋ",
-    "date": "2026.01.29 01:26",
-    "comment_count": 0,
-    "view_count": 297,
-    "like_count": 1,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360947",
-    "content": null,
-    "comments": []
-  },
-  {
-    "thread_id": "3360929",
-    "title": "화면설정 고정으로 못하나?",
-    "date": "2026.01.29 00:53",
-    "comment_count": 0,
-    "view_count": 121,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360929",
-    "content": "화면좀 3단계로 줄일수있게좀 하자\n화면 바뀔때마다 크기 방향 다 다르고\nPC로해도 휠마우스계속 돌려야한다\n그리고 로링 속도가 너무느리다\n답답하다 수정 못하니? 고정으로 못해?",
-    "comments": []
-  },
-  {
-    "thread_id": "3360925",
-    "title": "실망스러운점",
-    "date": "2026.01.29 00:49",
-    "comment_count": 1,
-    "view_count": 209,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360925",
-    "content": "1.지옥 15컨텐츠\n2. 헤어 의상등 끼워팔기(게다가 비쌈)\n3. 마이홈 모바일에서 바닥 터치하고\n움직이라 하는데  엄청 불편한데 수정언제함??????\n그렇게된지 오래됬는데...\n우르르 업데이트함 이해불가\n4ㆍ전체적인 컨텐츠 부실  미니게임은 특성상\n자주내야함  시즌 던전 1~2개로 시즌 내내 돌아야됨\n어비스 레이드말고 다른 던전 컨텐츠 개발도 시급함",
-    "comments": [
-      {
-        "text": "12세 이용가 게임인데... 옷한벌 풀셋으로 입히려면 최소 15만원이상...\n옆집 개고기집도 5만원이면 옷 한벌 준다... 이러니 쁘띠리니지 소리나 듣지",
-        "date": "2026.01.29 06:08"
-      }
-    ]
-  },
-  {
-    "thread_id": "3360921",
-    "title": "3월까지 업데이트 기다립니다.",
-    "date": "2026.01.29 00:46",
-    "comment_count": 1,
-    "view_count": 253,
-    "like_count": 2,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360921",
-    "content": "타게임이랑 비교하기 싫지만 젠존제도 망해가다가 시스템 갈아 엎고 고집버리고 다시 올라갔습니다.\n스타레일도 나부편에서 추락하다가 페나코니 이후로 고점을 찍기 시작했고요\n개발자입장에서 하고싶은 것 도전하고싶은게 있지만 고집을 버렸기에 가능한 일이었습니다.\n시스템이나 놀거리 없는 건 뭐 항상 있었으니 괜찮아요 근데 이제는 그 앞으로 나온설정세계관 숨기고 나중에 보여줘야지 ~~ 이런 것 좀 버리고 풀어주세요 사람다 나가고 풀면 그게 무슨 소용인가요\n서큐버스 레이드 나올 때 사람들이 서큐버스 스토리 그렇게 보고싶다 했는데 뭐 대단한 이야기를 기대했겠습니까 같이 놀고 떠들이야기가 있었으면 좋겠다 정도지\n만약 3월에 서큐 이야기가 나온다고 하더라도 뭐 없는것 보단 좋지만 이제는 같이 떠들 사람도 없습니다.\n소과금 입장에서 꾸미기가 재미있어서 하게되는 게임이기도 한데 거기에 좀 스토리 녹여주면 안될까요\n옷 설명에 세계관 설명하다가 마는게 보이는데 그거 다시 살려서\n서큐레이드 옷 다 모아 입고 댕기면 새로운 퀘스트가 떠서 서큐버스 스토리를 보여준다 이러면 엠블렘 먼저 까고 옷이 취향에 안 맞아도 풀셋맞추려고 또 열심히 돌겠죠 스토리는 유저가 원하고 눈에 보이는 보상이기도 하고요\n예전처럼 목요일마다 캐릭터 퀘스트도 살려주시면 안될까요? 마을 사람들사람들 사이드 스토리나 서로의 관계성 으로 세계관을 확장 시키지 않아도 확장되는게 그런 부분이잖아요\n뭐든지 길드원들이 하나 둘 나가는데 3월 에 꼭 새로운 업데이트로 사람들이 돌아오길",
-    "comments": [
-      {
-        "text": "기대하지마세요~ 앞으로 실망만 있을테니.. 여태 실망만 있었으니까요",
-        "date": "2026.01.29 02:06"
-      }
-    ]
-  },
-  {
-    "thread_id": "3360914",
-    "title": "큼...",
-    "date": "2026.01.29 00:35",
-    "comment_count": 0,
-    "view_count": 94,
-    "like_count": 1,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360914",
-    "content": "헤어 끼워팔때 실망했는데 옷끼워팔기..\n모비노기 특성상 사람빠지면 답 없는게임인데\n정신차려요 모비노기!!\n난 오래하고 싶은데 음스럽네???",
-    "comments": []
-  },
-  {
-    "thread_id": "3360908",
-    "title": "도대체 일을 하긴 하는건가요? 패스의상 하나 말고는 새로운게 없는데",
-    "date": "2026.01.29 00:28",
-    "comment_count": 0,
-    "view_count": 269,
-    "like_count": 3,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3360908",
-    "content": "지난주 없데이트하고 2주만에 업뎃하는거면서 2주동안 뭘 준비한거죠?\n신규이벤트?\n매번 내놓던 이제는 몇번째인지도 모를 재탕재탕재탕 이벤트에\n그 이벤트로 얻을 수 있는 보상도 이미 한번 뿌렸던 황금 고블린 의상.\n몇번째인지도 모를 생활 이벤트.\n20만원짜리 연속패키지 사면 준다는 옷은\n웨카 경매장 때 항아리코인 상점에서 팔려고 했던 이미 만들어둔 옷.\n직업간 밸런스는 개나 준지 오래고...\n2주동안 뭐하셨는지 모르겠는데\n패스의상 하나말고는 일을 했다는 느낌이 하나도 안들어요\n개선사항? 전부다 너네가 업데이트하다가 제대로 못해서 만들어놓은 버그들이잖아 ㅋㅋㅋ\n가공 제작 퀘스트할 때 ui겹치는것 같은 사소한 짜치는것들은 언제 고칠건데? 고칠 수는 있나?\n팔라딘 아티팩트 물음표로 뜰땐 정말 감탄했다. 그런것도 검수가 안되나요?\n이번 업데이트 쯤엔 적어도 지난번 라이브에서 적용하겠다고 약속했던 것들 중에 하나라도 갖고왔어야하는거 아닐까요?\n라이브 방송한지 2주가 지났어요\n2주면 그 많던 내용중에 적어도 한 두가지는 결정해서 적용하기 충분한 시간이라고 생각하는데요?\n일을...이제 좀 합시다...\n지금까지 워라밸 챙기면서 잘 쉬었잖아요?",
-    "comments": []
-  },
-  {
-    "thread_id": "3362474",
-    "title": "패스 의상 염색 완료!",
-    "date": "2026.01.29 00:00",
-    "comment_count": 0,
-    "view_count": 228,
-    "like_count": 2,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3362474",
-    "content": "염색 잘 된거같아서 해삐",
-    "comments": []
-  },
-  {
-    "thread_id": "3362436",
-    "title": "장궁 밸런스좀 어케해봐라 진짜.",
-    "date": "2026.01.29 00:00",
-    "comment_count": 2,
-    "view_count": 188,
-    "like_count": 3,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3362436",
-    "content": "6.15장궁인데, 3신기 아빛+기타 극딜룬 끼고, 자기 점검겸 타려움가서 용병 뛰고 옴.\n결과는 투력 600더 낮은 음유한테 딜 밀렸음.ㅋㅋ\n음유는 아군버프도 있으면서, 장궁보다 딜까지 더잘나오네? ㅋㅋ 결과표보고 진짜 기분 잡치더라.\n장궁 메리트는 뭐쥬? 데브켓?\n밸런스 안잡을 거면 빨리, 무기엠블 직변권이나 뿌리세요. 검술사나 하게.\n장궁 밸런스 안잡고, 직변권부터 나온다면, 장궁 인구수 전체의 1%도 안남을 듯..ㅋㅋ\n투력 올리면 뭐해.. 겜할 맛 안난다 진짜.\n솔직히 사람키만한 화살 쏴대는데, 악기들고 딩가딩가하는 직업, 부채들고 훌라춤 추는 애들한테 딜밀리는게 컨셉이 맞음?\n음악가들은 뭐 쿵푸허슬마냥, 가야금에서 칼이라도 날라감?\n이 직업들 너프하란 소리가 아니라, 어줍잖은 역할군 좀 어케 해보란 거임.\n밸런스 이야기 몇달째나오는데, 잡고 있긴한건지.\n포켓몬처럼 개체값으로\n대미지/공격템포/공격범위/생존력/지원력/디버프\n뭐 이런식으로 육각형 그래프라도 만들어서, 지금 현재 직업 밸런스 파악해보고, 각 직업 개성에 특화된 특성을 살려서, 직업개체값 총합은 비등비등하게 밸런스 잡아보면 될 거 아님?\n개답답하네 진짜.\n그리고, 팔라딘은 좀.. 그냥 궁극기랑 아에 분리좀 시켜라.. 팔라딘 변신한 동안 궁극기는 왜 못쓰게 만든건 지 당최 이해가 안됨. 버튼하나 더 만드는게 그리 힘들어?",
-    "comments": [
-      {
-        "text": "ㅋㅋ그건.프리즘작이인되서임. 개가 너보다 3줄작 2줄작이 많있던거임",
-        "date": "2026.01.30 03:35"
-      },
-      {
-        "text": "온전프리즘1, 나머지 핑스타프리즘s 평균 2.5줄작임. 이 투력에 세공작업 안되어있을리가.. 애초에 프리즘작에서 약간 차이가 난들, 애매한 딜만 있는 장궁vs장궁 이상의 딜+핵좋은버프달고 있는 음유. 밸런스 개망인디",
-        "date": "2026.01.30 04:00"
-      }
-    ]
-  },
-  {
-    "thread_id": "3362354",
-    "title": "여신 헤어 만들어주세요!!!",
-    "date": "2026.01.29 00:00",
-    "comment_count": 0,
-    "view_count": 249,
-    "like_count": 1,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3362354",
-    "content": "모리안, 네반, 마하 만들껀데.\n헤어가 없엉...\n완전 빨간머리랑, 완전 까만 머리랑, 백안도 만들어줘요!!!\n이왕이면 날개도....\n몰라...\n난 재밌어...",
-    "comments": []
   }
 ]
