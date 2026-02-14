@@ -1,5 +1,536 @@
 [
   {
+    "thread_id": "3378163",
+    "title": "댄서는 왜 수정안함?",
+    "date": "2026.02.14 08:55",
+    "comment_count": 0,
+    "view_count": 8,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378163",
+    "content": "롤백안할거면 최소한 짐 찐빠난 1스 오류 수정이라도해야지 다른 직업은 다 하고",
+    "comments": []
+  },
+  {
+    "thread_id": "3378132",
+    "title": "문열면 신난다고 게임할거면서 징얼거려",
+    "date": "2026.02.14 07:26",
+    "comment_count": 0,
+    "view_count": 61,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378132",
+    "content": "에베베베베베베\n개돼지드라",
+    "comments": []
+  },
+  {
+    "thread_id": "3378129",
+    "title": "아 점검 진짜",
+    "date": "2026.02.14 07:10",
+    "comment_count": 1,
+    "view_count": 97,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378129",
+    "content": "데브캣님들, 저는 주로 아침 일찍 게임을 하는 편인데 점검을 매번 오전 6시에 해서 그날 숙제를 제대로 다 못하고 넘어가는 경우가 많은데\n매번 정기점검은 그냥 그러려니 하면서 넘어갔지만 업데이트 할 때마다 이렇게 임시점검을 오전 6시에 여러번 해버리면 정말 짜증스럽네요\n업데이트 할 때마다 임시점검을 이렇게 해대는 것도 이해가 안되고, 임시점검 할꺼면 모두가 잘 시간에 하던가 해주세요\n매번 내 사이클이랑 겹쳐서 정말 스트레스네",
+    "comments": [
+      {
+        "text": "영자랑 운영진이 무능력해서 그럽니다. 말해도 무시만 하는데 전 포기했어요",
+        "date": "2026.02.14 07:31"
+      },
+      {
+        "text": "저도 그냥 반포기중,,, 자연스럽게 포기가 됨.. 지침 걍 반복되면 떠날 예정",
+        "date": "2026.02.14 09:00"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378126",
+    "title": "아니 무슨 점검을 이렇게 자주해???",
+    "date": "2026.02.14 07:04",
+    "comment_count": 0,
+    "view_count": 54,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378126",
+    "content": "아니 뭐하는 짓거리야 주말에",
+    "comments": []
+  },
+  {
+    "thread_id": "3378124",
+    "title": "사지않습니다 충전하지않습니다",
+    "date": "2026.02.14 07:03",
+    "comment_count": 2,
+    "view_count": 106,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378124",
+    "content": "자꾸 사주고 충전하니까\n이렇게 해도 되나보다 하고 계속하는거다\n접으라는얘기같은건 안한다\n돈을 못벌어야 자기들이 뭘 잘못하고있는지 생각이라도 한다\n생각좀 하고 그만좀 써라\n나도 지갑 닫았다",
+    "comments": [
+      {
+        "text": "너만 닫았다.",
+        "date": "2026.02.14 07:24"
+      },
+      {
+        "text": "모지리 게임에 돈 지르는건 호구죠\n돈 한푼 안지른 사람만 좋게 된 게임",
+        "date": "2026.02.14 07:33"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378123",
+    "title": "윷놀이 기획한놈 퇴사해라",
+    "date": "2026.02.14 06:50",
+    "comment_count": 0,
+    "view_count": 182,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378123",
+    "content": "친구랑 윷놀이 잘하고있는데 중간에 어떤놈이 난입해서 말 다 들고감ㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n이게 맞냐 진훈아",
+    "comments": []
+  },
+  {
+    "thread_id": "3378122",
+    "title": "문열어!! 쾅쾅쾅쾅",
+    "date": "2026.02.14 06:48",
+    "comment_count": 0,
+    "view_count": 48,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378122",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3378118",
+    "title": "이게임은 왜 게시판에 똘+I가 많나요?",
+    "date": "2026.02.14 06:28",
+    "comment_count": 2,
+    "view_count": 141,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378118",
+    "content": null,
+    "comments": [
+      {
+        "text": "다른겜 게시판 가보면 전쟁난줄알듯 ㅋㅋㅋ",
+        "date": "2026.02.14 07:06"
+      },
+      {
+        "text": "데브켓 녀석들이 유저를 악바리로 만듬",
+        "date": "2026.02.14 07:11"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378116",
+    "title": "데이안 곰돌이 악기 치는분들",
+    "date": "2026.02.14 06:14",
+    "comment_count": 0,
+    "view_count": 111,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378116",
+    "content": "데이안 곰돌이닝들 적당히 하세요\n님들 좋은 노래 들려주시는건 감사한데\n모바일 유저도 생각하셔야죠.\n님 노래좋은거 알아요\nPC일땐 저도 좋은데  저도 80%가 모바일이라\n적당히 해주세요\n반호르 말고 던바튼 광장에서 하세요\n홍보도 하시고\n반호르 앞마당에 친목도모 하고\n기갱 탐택팟인원으로도 각채널 풀차는데\n거기와서  왜그러시는지?",
+    "comments": []
+  },
+  {
+    "thread_id": "3378115",
+    "title": "주말까지 일을 잘하신다. 역시 개발자",
+    "date": "2026.02.14 06:14",
+    "comment_count": 0,
+    "view_count": 251,
+    "like_count": 4,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378115",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3378114",
+    "title": "점검 이 정도로 많이 하면 치매에요",
+    "date": "2026.02.14 06:13",
+    "comment_count": 0,
+    "view_count": 109,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378114",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3378113",
+    "title": "점검 보상은 짜고 점검도 많이 해서 뉴비는 겜 어케하나요",
+    "date": "2026.02.14 06:04",
+    "comment_count": 1,
+    "view_count": 142,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378113",
+    "content": null,
+    "comments": [
+      {
+        "text": "??? : 매일매일 동전 10개씩 드립니다.",
+        "date": "2026.02.14 06:54"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378112",
+    "title": "ㅡㅡ06:00 에린세계 섭종 ㅡㅡㅡ",
+    "date": "2026.02.14 06:01",
+    "comment_count": 0,
+    "view_count": 355,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378112",
+    "content": "에린 섭종\n..우린 이세카이에서 현실세계로 돌아왔다.\n현재 시각. 6:01분 나는 침대 위였다.\n아주 달콤한 꿈을 꾸웠다. 사람들과 춤을추고 한복을입고 대화를하고..\n여긴 어디..\n나는 누구,,\n아..\n..\n현실 이구나..\n내뱃살을 꼬집어본다..\n아얏..",
+    "comments": []
+  },
+  {
+    "thread_id": "3378110",
+    "title": "댄서 전환룬 롤백좀",
+    "date": "2026.02.14 05:52",
+    "comment_count": 0,
+    "view_count": 59,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378110",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3378105",
+    "title": "내 댄서 다시 돌려줘요..",
+    "date": "2026.02.14 05:38",
+    "comment_count": 0,
+    "view_count": 75,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378105",
+    "content": "내 댄서 다시 돌려줘요..\n아오.... 이제 댄서 유저까지 접길 바랍니까\n기록갱신? 그런거 직업상 힘든거 아니까 가지도 않는데\n바닥이 힘들니까 이동기를 없앤다고?\n아니 그런거 관심없다니까 랭킹 쌘곳 갈일도없어\n다시 내 스킬이나 롤백해줘",
+    "comments": []
+  },
+  {
+    "thread_id": "3378104",
+    "title": "이래도 사주잖아?",
+    "date": "2026.02.14 05:35",
+    "comment_count": 0,
+    "view_count": 146,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378104",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3378103",
+    "title": "달팽이",
+    "date": "2026.02.14 05:33",
+    "comment_count": 1,
+    "view_count": 120,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378103",
+    "content": null,
+    "comments": [
+      {
+        "text": "좋아요~",
+        "date": "2026.02.14 05:38"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378102",
+    "title": "겜 좀 할까 하니 점검이냐 ㅡㅡ",
+    "date": "2026.02.14 05:31",
+    "comment_count": 1,
+    "view_count": 105,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378102",
+    "content": null,
+    "comments": [
+      {
+        "text": "왜이러긴 검술은 황제다",
+        "date": "2026.02.14 05:35"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378100",
+    "title": "댄서 롤백해라",
+    "date": "2026.02.14 05:26",
+    "comment_count": 0,
+    "view_count": 36,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378100",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3378098",
+    "title": "또 점검이야?",
+    "date": "2026.02.14 05:13",
+    "comment_count": 2,
+    "view_count": 105,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378098",
+    "content": "이제 집와서 겜할려고 햇는데 못하게하네",
+    "comments": [
+      {
+        "text": "검술사는 황제다 인정해라",
+        "date": "2026.02.14 05:35"
+      },
+      {
+        "text": "검술사는 황제다 인정해라",
+        "date": "2026.02.14 05:35"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378096",
+    "title": "가져올게 없어서 본가 점검까지 가져오냐.",
+    "date": "2026.02.14 05:07",
+    "comment_count": 1,
+    "view_count": 100,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378096",
+    "content": "3일 연속 점검? 돈 엄청나게 벌어 놓고 직원은 다 자른 거야? 아님 본섭에 태섭이야.\n본가도 허구한날 점검 해댔었는데, 가져올게 없어서 이걸 가져와서 복붙해?",
+    "comments": [
+      {
+        "text": "똑같은 애들이 만든건데 똑같은짓 하는거죠..",
+        "date": "2026.02.14 05:21"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378095",
+    "title": "📌 검술사는 황제다 알겠냐 GEARmaster어딨냐? 불쌍 ㅎㅇㅌ",
+    "date": "2026.02.14 05:07",
+    "comment_count": 0,
+    "view_count": 87,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378095",
+    "content": "그것이 권위로다^^^",
+    "comments": []
+  },
+  {
+    "thread_id": "3378089",
+    "title": "수도사도 망각 안끼게 해주세요. 밸런스 건의사항",
+    "date": "2026.02.14 04:34",
+    "comment_count": 2,
+    "view_count": 121,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378089",
+    "content": "언제까지 망각껴서 어비스 브익메타에서 도태 되서 살아야합니까.\n그리고 안정적인 클래스라고 못박았는데 전혀 안정적이지 않아요.\n때려야 힐이 되는 구조 + 근접 딜러인데  슈퍼아머도 없음.  이게 얼마나 불안정한지 아시나요\n같이 패턴피하다가 같이 죽어요\n딜 안들어가거나 못하는 패턴때는 힐 케어가 안돼요.\n(부활의신단보스, 폐기장보스,  타바 무적)\n안정적이라고 했으면 그에 맞는 받는피해감소나 슈퍼아머가 있어야 하지 않을까요 붙어서 때리는 초 근접인데\n개선요청사항\n1. 광휘 버프해주세요.  쿨타임 줄이고 지속시간 대폭 늘려서 거의 상시급으로 쓸수 있게 해주셔야  파괴자든 뭐든 낄수 있지 않겠습니까..\n2. 응보 대폭 버프.  응보가 메인스킬이었는데 완전 버려진거 이거 말이됩니까.   응보 사용시 진언 없어지는거삭제 + 딜 대폭증가\n3. 3스킬 수호진에 슈퍼아머+받는피해감소 넣어주세요. 스킬사용속도 빠르게 해주고 취소 할수 있게 해주세요.\n4. 1스킬 이동거리 증가.  안그래도 근접뚜벅이라서 패턴피할때 딜로스가 너무 많습니다. 짧은거리라도 돌진 할수 있게 해주세요. 이거 이동태그 달린 스킬이잖아요..근데 왜 돌진을 못하는건가요?  실전에서 너무 힘듭니다.\n5. 궁극기 시전시간 대폭감소 + 시너지증가 + 범위증가 + 지속시간증가\n- 말이 궁극기지 딜로스 때문에 제대로 쓰지도 못하고 성능도 너무 안좋습니다.  받는피해감소25퍼? 어따쓰나요.. 남들 스킬보다 못한 받피감..  패턴씹으면서 쓸수도 없고\n너무 느려서 딜로스+ 궁쓰는동안 못때려서 파티 케어 안됨.  이렇게 딜찍누 메타로 갈꺼면 차라리 공격형 버프라도 추가해주고 시전시간 감소좀 해주세요.\n6. 브레이크시 확정 해일이나 응보 딜스킬을 주세요.  수도사도 다른직업 패치처럼 브레이크때 딜을 압축할 수 있는 힘을 주세요. 지금 현재 해일뇌정으로 로또노리다가 한번도 안터지면 딜을 거의 못넣습니다..\n오픈때부터 수도사를 키웠지만 한번도 중위권 이상으로 올라가본적 없는 도태 마비생활 지치고 힘듭니다.. 밸런스패치 느낌 너무 없어요 한번이라도 상위권에서 놀게 해주세요.",
+    "comments": [
+      {
+        "text": "수도사는 음유밑에 깔리세요. 그것이 진리입니다.",
+        "date": "2026.02.14 05:10"
+      },
+      {
+        "text": "라방때 QnA 시간에 도배해야지 자게에 쓰는건 무의미\n수도사는 특유의 후딜 때문에 못움직여서 피할 패턴도 못피하는게 첫 번째 문제",
+        "date": "2026.02.14 06:01"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378084",
+    "title": "📌 GEARmaster 애 너무 불쌍하다ㅋ 댓글이...ㅎㅇㅌ",
+    "date": "2026.02.14 04:20",
+    "comment_count": 0,
+    "view_count": 66,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378084",
+    "content": "옛날 구라치던 GEARmaster 어디갔나ㅋㅋ\n안쓰럽다 구라도 정도껏 하지 너무 티나게\nㅋㅋㅋㅋ  길드 탈퇴하고 혼자 뭐하니??",
+    "comments": []
+  },
+  {
+    "thread_id": "3378072",
+    "title": "토요일까지 버그고치신다고 고생이 많으십니다",
+    "date": "2026.02.14 03:29",
+    "comment_count": 2,
+    "view_count": 200,
+    "like_count": 4,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378072",
+    "content": "주또 잘해 일을 칭찬해 아주 퉤",
+    "comments": [
+      {
+        "text": "속이다시원하네",
+        "date": "2026.02.14 03:31"
+      },
+      {
+        "text": "감사합니다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 속이 시원하네",
+        "date": "2026.02.14 03:56"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378059",
+    "title": "알리사 서커스단",
+    "date": "2026.02.14 02:29",
+    "comment_count": 1,
+    "view_count": 102,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378059",
+    "content": "뭇별 많이 사랑해주세요",
+    "comments": [
+      {
+        "text": "관심업스습니다",
+        "date": "2026.02.14 05:10"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378057",
+    "title": "댄서 롤백해주세요 ㅜㅜㅜ",
+    "date": "2026.02.14 02:23",
+    "comment_count": 0,
+    "view_count": 39,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378057",
+    "content": "댄서 뺑글뺑글 돌게해주세요~~~!!!!!!!!",
+    "comments": []
+  },
+  {
+    "thread_id": "3378033",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 롤백해주세요",
+    "date": "2026.02.14 01:32",
+    "comment_count": 0,
+    "view_count": 48,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378033",
+    "content": "성능보고 겜했으면 진작에 접거나 직변했어요\n지금 남아있는 댄서들 대부분이 댄서 재밌어서 하는 분들인데 그 재미까지 뺏어가시면 더이상 게임 할 이유가 없어요",
+    "comments": []
+  },
+  {
+    "thread_id": "3378032",
+    "title": "반년전에 16, 15강 성공한뒤로 지금까지 그대로인데",
+    "date": "2026.02.14 01:32",
+    "comment_count": 1,
+    "view_count": 279,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378032",
+    "content": null,
+    "comments": [
+      {
+        "text": "개돼지처럼 꿀꿀멍멍 사료만 주워 먹지 말고 과금하면 해결되는 문제긴해",
+        "date": "2026.02.14 02:07"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378023",
+    "title": "야이 너넨 다리아프다고 하는데 팔 자르냐? 댄서 롤백!!",
+    "date": "2026.02.14 01:25",
+    "comment_count": 0,
+    "view_count": 49,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378023",
+    "content": "다리가 아픈데 왜 팔을 잘라 롤백!!!",
+    "comments": []
+  },
+  {
+    "thread_id": "3378020",
+    "title": "댄서롤백댄서롤백댄서롤백",
+    "date": "2026.02.14 01:23",
+    "comment_count": 0,
+    "view_count": 32,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378020",
+    "content": "폐기장 하나가 힘들다고 햇는데 폐기장 매커니즘을 수정하는게 아니라 직업하나를 정체성을 잃게만들면 어쩝니까. 내추럴턴 롤백해주세요",
+    "comments": []
+  },
+  {
+    "thread_id": "3378016",
+    "title": "무과금 6.2입니다",
+    "date": "2026.02.14 01:15",
+    "comment_count": 4,
+    "view_count": 364,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378016",
+    "content": "요즘 뻥투력 많이 나와서 투력이 금방 오르네요\n초월2 작업 다 하고\n팔라딘 10레벨 하고\n어구 타이틀 받고\n강화 몇번 성공하면\n무과금 6.3-6.4도 가능할 것 같네요\n전압 전펫은 불가능\n전압은 불가능하고\n전펫은 어찌됐든 공짜티켓으로 운좋게 성공하면\n될 수 있긴 하겠네요\n투력 올리기 넘 재밋어용ㅎ",
+    "comments": [
+      {
+        "text": "대표 케릭터는 어디다 팔아먹었나..",
+        "date": "2026.02.14 01:26"
+      },
+      {
+        "text": "호오 무과금으로 18강정도 하셨나보네 ㅊㅊㅊ",
+        "date": "2026.02.14 01:42"
+      },
+      {
+        "text": "길드 무과금들 보면 5.6~5.8 정도가 실질적 한계선",
+        "date": "2026.02.14 02:14"
+      },
+      {
+        "text": "와 벌써 다 2초월 가능한 건가 대단하다",
+        "date": "2026.02.14 05:41"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378014",
+    "title": "사냥터 일반은 제발 안들어가지게 해줘",
+    "date": "2026.02.14 01:12",
+    "comment_count": 0,
+    "view_count": 39,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378014",
+    "content": "﻿\n﻿\n일반은 가지도 않은데 왜 자꾸 일반으로 바껴있냐고\n솔직히 쪼렙때 잠깐 쓰고 누가 일반 가냐....\n이전 방문지 고정되게 했다고 해놓고 다시 일반으로 계속 바뀌어 있는건 뭔데\n고양이 상인 항상 지나침, 던전 캠파 항상 지나침 처럼\n게임 설정에서 일반사냥터 선택 안됨 기능 하나 넣어 달라고요",
+    "comments": []
+  },
+  {
+    "thread_id": "3377989",
+    "title": "궁수도 지옥가고 싶어서 안달이 난 상태입니다",
+    "date": "2026.02.14 00:37",
+    "comment_count": 1,
+    "view_count": 136,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377989",
+    "content": "근데 안껴줘 ㅜㅜ 지옥10 타이틀 체력 1200 은 궁수에게 없는 거시였다 그러하다\n그래서 1황이라는 음유를 직변하여 키웠다 내가손만대면 너프먹음 석궁부터 ................. 음유 무기 분해함\n그냥 나에겐 지옥10 타이틀은 없는것이라 생각해야겠다",
+    "comments": [
+      {
+        "text": "궁수는 단일딜 노리스크급 전격 다음 2-3등다투는 개 노리스크 쐅사기직업입니다. 고객님.\n고객님",
+        "date": "2026.02.14 00:47"
+      }
+    ]
+  },
+  {
+    "thread_id": "3377972",
+    "title": "하울 아직도 저러네",
+    "date": "2026.02.14 00:14",
+    "comment_count": 8,
+    "view_count": 251,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377972",
+    "content": "올만에 자게 왔는데 아직도 저러네 지랑 척지면 페미라는거 여전하고\n지가 세상에서 컨 제일 좋다고 댄서 이야기하는데 어비스 순위 보니까 닉이..없어요.. 그냥 없어요..\n이 미안;;; 너 같이갈 기갱팟이 없었지? 지옥10은 깨봤.. 아 미안;;",
+    "comments": [
+      {
+        "text": "왜 혼자흥분함 님은",
+        "date": "2026.02.14 00:31"
+      },
+      {
+        "text": "하울이는 꺼드럭거리지만 dps제대로 안나와서 기갱 가지도못함 차피\n말은 자기는 dps욕심없고 기갱도 욕심없다 하지만 사실 발컨이라 못하는거임",
+        "date": "2026.02.14 00:30"
+      },
+      {
+        "text": "갑자기 흥분해서 자삭했어요 뭐 내가 비주류 선택해 지옥못가는데 아픈데 건들여서 잠깐 흥분했슴 ㅋㅋㅋㅋ",
+        "date": "2026.02.14 00:32"
+      },
+      {
+        "text": "ㅋㅋㅋㅋㅋ",
+        "date": "2026.02.14 00:34"
+      },
+      {
+        "text": "기갱ㅋ 밸런스부터 투명해야 손가락빨인지 템빨인지 클래스빨인지 하지 ㅋ 기갱이 뭔\n대수라고 ㅋㅋㅋ 뭐 와우나 파판하세요?\n기껏 모바일겜이라 실력 입증으로\n우위 나눌 사이즈라도 되는 겜이면\n말도 안하는데 이런애들 진짜 많구나\n기갱해서 의자따고 하는건 본인 만족이지\n실력 우위 따질만큼 겜이 제대로 안되있는거 본인들이 더 잘알텐데 ㅋ\n장궁병 버프 쳐먹인 계수값만봐도\n얼마나 기울어진 운동장으로 운영중인지\n딱봐도 나오는구만 ㅋ",
+        "date": "2026.02.14 01:32"
+      },
+      {
+        "text": "난독 있음? 그 잘난 하울이 공략글 쓰고 아는척 하는 자칭 컨 천재 하울보고 하는 말에\n기갱도 안가는거 비꼬는건데 뭔가 찔림? 진짜 난독인 이런애들 진짜 많구나",
+        "date": "2026.02.14 01:36"
+      },
+      {
+        "text": "접었다 돌아왔는데 자게에서 아직도 보이길래 깜짝 놀람\n늘 한결같은 사람\n전문가인척 뭔가아는척 위에있는척\n현실은 아무것도 증명 못함\n게임을 접는것도 아니고 하는것도 아닌 어중간한 상태인듯",
+        "date": "2026.02.14 02:08"
+      }
+    ]
+  },
+  {
+    "thread_id": "3377970",
+    "title": "테스트 할 때 일반 유저들과 비슷한 환경에서 하시면 안 되나요?",
+    "date": "2026.02.14 00:10",
+    "comment_count": 0,
+    "view_count": 117,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377970",
+    "content": "https://mabinogimobile.nexon.com/News/Update/3373329\n2/12(목) 업데이트 노트에 올라온 테스트 사진에 대해서 말인데요\n일단 전투 테스트를 혹시 모바일 환경이 아니라 컴퓨터 환경에서 하시는 건지 궁금합니다.\n에이렐 레이드 저는 개인적으로 재밌다고 생각하긴 하는데\n다른 몇몇 분들도 얘기하신 것처럼 모바일 환경에서 플레이 하기에는 좀 힘든 면이 있다고 생각합니다.\n실제로 어떻게 전투 테스트를 하시는지 모르겠지만 혹시 컴퓨터 환경에서 하고 계시다면\n\"모바일\" 마비노기인만큼, 모바일 환경에서 테스트를 하시는 게 맞다고 생각되는데요.\n그리고 혹시 테스트 전용 캐릭터가 어떤 스펙으로 설정되어 있는지 모르겠지만,\n왼쪽 상단을 보면 음식도 안 먹었고 골드랑 은동전, 공물이 엄청 쌓여 있는 걸 보니\n캐릭터 스펙을 엄청 높게 설정하시고 플레이 하시는 건가요?\n단순히 전투에서의 특정 상황 테스트만 하는 거라면 상관 없지만,\n실제로 게임을 플레이하는 유저들의 입장에 맞춰서 테스트를 해주셨으면 좋겠습니다.\n폐기장 어비스, 에이렐 레이드 등과 같이,\n이동기가 주력기인 근접 딜러나,\n모바일 환경에서 게임을 플레이하는 유저들의 입장을 전혀 고려하지 않은 듯한 컨텐츠들이 계속 나오는 걸 보면서\n같은 게임을 서로 전혀 다르게 이해하고 있는 건 아닌가 하는 생각이 들어서요.",
+    "comments": []
+  },
+  {
     "thread_id": "3377717",
     "title": "쿨탐 90초 앰블 각성시간20초 만든린간 퇴사해라",
     "date": "2026.02.13 20:42",
@@ -2143,6 +2674,270 @@
     "url": "https://mabinogimobile.nexon.com/Community/Free/3376613",
     "content": null,
     "comments": []
+  },
+  {
+    "thread_id": "3377956",
+    "title": "검술은 제왕이니라",
+    "date": "2026.02.13 00:00",
+    "comment_count": 1,
+    "view_count": 118,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377956",
+    "content": null,
+    "comments": [
+      {
+        "text": "훗.",
+        "date": "2026.02.14 00:23"
+      }
+    ]
+  },
+  {
+    "thread_id": "3377951",
+    "title": "이왕하는거 보상이라도 알차게주자!! 개미똥구멍만하게 주지말고",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 50,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377951",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3377942",
+    "title": "일을 진짜 주또못하네 ㅋㅋㅋㅋㅋ",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 120,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377942",
+    "content": "맨날 점검이야 먼 게임이 ㅋㅋㅋㅋㅋ\n능력은 부족한데 돈은 날로먹고싶고\n도둑이 따로없노 ㅋㅋㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3377924",
+    "title": "알리사 춘향이와 이몽룡",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 153,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377924",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3377921",
+    "title": "목, 금, 토 점검",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 133,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377921",
+    "content": "그럼 멤버쉽 한 사람들은 시간 그냥 까먹는데..\n점검시간만큼 추가로 넣어줘야 하는데 이겜은 그런거 없음.\n게임하다보면 불편한거 나오는데..\n게임사가 테스트 해보고 불편하다 싶은건 고쳐야 하는데 고칠 생각 없음.\n직업 테스트 안해보고 무대포 밸런스 패치\n내부에서 테스트 해보고 이건 아닌거 같다 하면 다른 방법을 찾아야하는데 그런거 없음.\n설날이라고 윷놀이 대충 만들다만거 그냥 가져다 놓음..\n이래놓고 설날인센티브 두둑히 챙기고 연차 즐김\n몇명이 와서 임시점검 돌리고 감..\n반박시 님 말이 맞음~ ㅇㅋ?",
+    "comments": []
+  },
+  {
+    "thread_id": "3377891",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라~!!!!!!!!!",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 63,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377891",
+    "content": "밸패치 담당자야\n나비 착용했다 전환 효과 받지 못해서 생긴  딜 로스 난 거는 이야기 못 들었는데 누가 보상 해주냐?\n빨리 확인 해 나비도 폐기장 가면 회전 하니 빨리 고쳐~!!!\n회전해서  오염 많이 묻어서 회전 못하게 막은거면 왜 전환 룬이냐?\n아예 1번 스킬을 다 뜯어 고치지?",
+    "comments": []
+  },
+  {
+    "thread_id": "3377866",
+    "title": "내 댄서 다시 돌려줘요!!!!!!!!!!",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 43,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377866",
+    "content": "내 댄서 다시 돌려줘요!!!!!!!!!!",
+    "comments": []
+  },
+  {
+    "thread_id": "3377861",
+    "title": "공지 창 계속 뜨는거나 좀 고쳐줘요",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 47,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377861",
+    "content": "뭐 업데이트만 하면 맨날 이러는건지 참..\n심지어 오늘 아침에 점검 할 때 고친다면서\n안고치는건 뭔지..",
+    "comments": []
+  },
+  {
+    "thread_id": "3377848",
+    "title": "댄서 돌려내세요",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 42,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377848",
+    "content": "댄서 on off시켜주세요\n아니면 롤백시키든가\n댄서들 이제싫어서 니들 알아서나가라\n이건가요? 상향바라지도않앗음\n조용히 살고있는 댄서들  왜건드립니까 네?\n재미없어졋어요\n오로지 댄서 하나로 지금까지한건데ㅣ\n애정있는거까지 빼앗아갑니까?\n진짜어이없네ㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3377835",
+    "title": "맨날점검하냐",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 54,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377835",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3377834",
+    "title": "다른건 몰라도 댄서 전환룬 백스탭치는 찐빠라도 어떻게 해 달라고요....",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 90,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377834",
+    "content": "당신들 생각, 의견 다 인정하겠다고요. 마음에 진짜 안들지만 그게 데브캣 의도라면, 그것조차도 받아들이겠습니다.\n근데 돌진이라며!!!\n아니 어떤 돌진기가 거꾸로 백스탭을 쳐서 2번, 평타 쳐야될 순간에 다시 엉금엉금 걸어가야 되요?\n테스트 안해보고 설명도 없이 막 적용하니까 이렇게 되잖아요....",
+    "comments": []
+  },
+  {
+    "thread_id": "3377825",
+    "title": "댄서 롤백해라",
+    "date": "2026.02.13 00:00",
+    "comment_count": 1,
+    "view_count": 82,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377825",
+    "content": null,
+    "comments": [
+      {
+        "text": "되겟냐",
+        "date": "2026.02.13 22:11"
+      }
+    ]
+  },
+  {
+    "thread_id": "3377822",
+    "title": "석궁 사지절단낸거보고 롤백해달라하나?",
+    "date": "2026.02.13 00:00",
+    "comment_count": 1,
+    "view_count": 194,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377822",
+    "content": "ㅋㅋㅋㅋㅋㅋ6개월인가 8개월정도 방치하다가\n쿨타임 쪼금돌려줄게 찍\n끝이던데 뭘그리바래\n석궁화력엄청나게 올렸어도 잠잠했어\n다들 비아냥거리고 남일일땐 신나하던애들\n신경도안쓰던애들\n결국 다 돌아서 너네한테 간거야\n진정하고 이제 그냥 적응해",
+    "comments": [
+      {
+        "text": "인정!!우리 드러누울때때 까대던애들\n꼴좋다!!!!!!!!다너프해라",
+        "date": "2026.02.13 22:13"
+      }
+    ]
+  },
+  {
+    "thread_id": "3377815",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백하라!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 34,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377815",
+    "content": "생각은 한번쯤 해보고 패치를해라 좀",
+    "comments": []
+  },
+  {
+    "thread_id": "3377813",
+    "title": "친구코드 등록 하시고 XWEBWYGP 촉매 받아가세요",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 14,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377813",
+    "content": "친구코드 등록 하시고 XWEBWYGP 촉매 받아가세요",
+    "comments": []
+  },
+  {
+    "thread_id": "3377792",
+    "title": "이전 패치에서 수정한 사항이 다시 돌아오는 게 말이 되냐",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 187,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377792",
+    "content": "화법 버그 부활\n삭제했던 듀블 병신표식 부활\n공지창 계속 뜨는 거 부활\n이게 전부 공지에는 언급도 없음\n이렇게 하고 설 쇠러 가심?",
+    "comments": []
+  },
+  {
+    "thread_id": "3377791",
+    "title": "운영진님들 힘드실텐데 공지로라도 이번업데이트로 힘들었다고 밝히고 다음주에 댄서",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 172,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377791",
+    "content": "저는 댄서 유저가 전혀 아니라 그리 이해는 안가지만\n극딜하기 좋은것보다 댄서에 개성을 원하는건 많이 진심 같아보여요\n댄서에 특이성상\n뉴비들 유입들 고려하면 온오프 기능 추가하시면\n(괴랄한 플레이에 캐릭터라면)\n던파에 엘븐나이트  등이 있는데  그런 캐릭터를 하는 유저들이 있거든요\n애지간히 쓰-기로 방치하는게 아니면(주기적 관리 해주면)\n그 개성에 맛들린 장기 충성 유저들 생기거나 의외로 있어요\n유튜버 등 방송에서 팀원이든 유튜버가 플레이하면  가끔이라도\n유저들이 구경하는데 재미나 오오오!! 신기해하고\n유튜버 청원?\n신기한 게임 자료올리는 유튜버 영상에서도 엘븐나이트가 나오고\n과거에 팬 카툰에서\n개그용으로 나오고 그런게 겜홍보에도 도움되니까요\n실제로 마비노기  모바일에서\n댄서를 유튜버 김도 등이 엄청 어`로 홍보했던\n사례도 있어서 운영진님이 댄서 스킬이동 온오프 해주시면",
+    "comments": []
+  },
+  {
+    "thread_id": "3377787",
+    "title": "공용보관함 추가 탭 캐쉬로 팔가능성???",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 78,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377787",
+    "content": "재료 공유하게 해줬으니 공용보관함 탭 2 3 확장하는거 캐쉬로 팔 확률은 몇퍼일까요??",
+    "comments": []
+  },
+  {
+    "thread_id": "3377785",
+    "title": "포토부스 있잖아..",
+    "date": "2026.02.13 00:00",
+    "comment_count": 1,
+    "view_count": 120,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377785",
+    "content": "다른 서버 사람이랑 파티 맺는 것까진 되는데..포토부스 입장이 안되..\n크로스서버 그거 사서 입장해서 포토부스 이용해야해??\n아.. 제발.. 결제하기 싫어.. 아니라고 해줘.. 버그라고 해줘..\n아니면 그냥 서버이전권 빨리 내놔... 빨리....ㅠㅠ\n이산가족 만들어놨으면서...",
+    "comments": [
+      {
+        "text": "서버이전? 몇개월은 기다려라 훗",
+        "date": "2026.02.13 21:36"
+      }
+    ]
+  },
+  {
+    "thread_id": "3377751",
+    "title": "초콜릿선물 모션..",
+    "date": "2026.02.13 00:00",
+    "comment_count": 0,
+    "view_count": 99,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377751",
+    "content": "커플댄스처럼 초콜릿 받는 모션까지 있어야 완벽한데, 아쉽네\n그리고 남캐 모션 얼굴 왜이럼왼쪽에서 보면 붕어입술이 얼굴에 붙어있잖음...\n차라리 얼굴 바뀌지 말고 본래 얼굴로 얼굴 붉히는것만 해서 내주던가\n여캐만 편애함? 여캐모션이 젤 좋던데 여캐로 바꿔야하나 고민되자나",
+    "comments": []
+  },
+  {
+    "thread_id": "3377746",
+    "title": "이벤트 옷 잘 못 받았는데..ㅜㅠ 옮겨주면 ..",
+    "date": "2026.02.13 00:00",
+    "comment_count": 3,
+    "view_count": 242,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3377746",
+    "content": "안되나요.. 힝..옷만  깜박하고 부케로 받아버림 힝..어뜨케..",
+    "comments": [
+      {
+        "text": "절대 안 옮겨줌ㅜㅜ",
+        "date": "2026.02.13 21:19"
+      },
+      {
+        "text": "힝..ㅠㅠ",
+        "date": "2026.02.13 21:21"
+      },
+      {
+        "text": "한 번 피를 봐야 담부터 조심함",
+        "date": "2026.02.13 22:15"
+      }
+    ]
   },
   {
     "thread_id": "3376361",
