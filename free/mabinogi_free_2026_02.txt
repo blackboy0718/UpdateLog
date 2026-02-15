@@ -1,5 +1,204 @@
 [
   {
+    "thread_id": "3379005",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 전환룬 개선 못할꺼면 롤백이라도 하세요",
+    "date": "2026.02.15 08:56",
+    "comment_count": 0,
+    "view_count": 5,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379005",
+    "content": "갈채 버그는 오픈때 부터 그대로...\n팔라딘 업뎃 이후 계속 유기하다가\n변경 사유 한줄도 없이 이따구로 패치 할꺼면 건드리지나 마시길..",
+    "comments": []
+  },
+  {
+    "thread_id": "3378979",
+    "title": "댄서 어차피 뒤로 빼면서 딜해야는데 전환룬 롤백하자",
+    "date": "2026.02.15 06:40",
+    "comment_count": 0,
+    "view_count": 20,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378979",
+    "content": "발걸음 쓰면 어차피 관통하잖아  뒤로 안갈려고 뒤로 빼면서 딜하는데\n진짜 게임좀 해보고 패치해라\n옆으로 이동하는게 강점인데 그걸 왜 빼냐고\n지하 대공동에서만 편하더라 근대 나머진 최악이야\n폐기장이 편해졌을거라 생각해? 어차피 뒤로 빼면서 딜해야한다니까?\n내추얼턴 옆으로 회전하는거만 생각해? 프론트 스텝도 관통해서 어차피 뒤로 빼면서 해야는데\n그냥 이참에 듀블 궁수 도적 검술 싹다 이동기 빼던가\n댄서 유저수 적다고 마루타 하는것도 아니고",
+    "comments": []
+  },
+  {
+    "thread_id": "3378977",
+    "title": "댄서 1번 스킬 다시 롤백 해주시죠 ! 당장 ! 나우! ㅇㅅㅇ",
+    "date": "2026.02.15 06:19",
+    "comment_count": 0,
+    "view_count": 16,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378977",
+    "content": "댄서 1번 스킬 다시 롤백 해주시죠 ! 당장 ! 나우! ㅇㅅㅇ",
+    "comments": []
+  },
+  {
+    "thread_id": "3378976",
+    "title": "이제 접을때가 됐나 너프가 밸패인가?",
+    "date": "2026.02.15 06:13",
+    "comment_count": 0,
+    "view_count": 33,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378976",
+    "content": "유저많은 직업은 못건드리고 좋아졌다하면 너프 좋아지면 너프 그냥 너프로 밸패할꺼면\n게임 개발 접으세요",
+    "comments": []
+  },
+  {
+    "thread_id": "3378967",
+    "title": "댄서 전환룬 돌려놓던지 좀",
+    "date": "2026.02.15 05:10",
+    "comment_count": 2,
+    "view_count": 50,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378967",
+    "content": "이번시즌 직업엠블로\n강제로 전환룬 쓰게 만들어 놓고 이게 뭔짓거리임 도대체\n백번 양보해서\n좌측이동 회전 없애고 제자리 회전? 그래 좋다 이거야\n근데\n제자리에서 돌게 할거면 제자리에서 돌게하던가\n누가 뒤에서 머리끄댕이 잡아당기는것 마냥\n뒤로 왜 후진을 하냐고\n왜 그 잘난 어비스 한곳 때문에 스킬을 찐빠로 만드냐고",
+    "comments": [
+      {
+        "text": "해줘도 쟐 안해줘도 쟐 적당히 해라",
+        "date": "2026.02.15 05:22"
+      },
+      {
+        "text": "다물어 진짜\n쨔증나니까",
+        "date": "2026.02.15 05:39"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378965",
+    "title": "몰리가사라졌어요",
+    "date": "2026.02.15 05:02",
+    "comment_count": 1,
+    "view_count": 34,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378965",
+    "content": "갑자기안보이고 지도열어서 직접찍어보면 지금은할수없다 라고만나오네요  지도에는 몰리모습나오는데\n직접가보면 없음.. 버그인가요?",
+    "comments": [
+      {
+        "text": "퀘스트 확인해보세요",
+        "date": "2026.02.15 05:54"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378962",
+    "title": "전사 해보고 느낀점",
+    "date": "2026.02.15 04:43",
+    "comment_count": 0,
+    "view_count": 70,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378962",
+    "content": "다 좋은데 기본 이속좀 늘려주자\n검술은 기본이속 빠르지\n빙결은 프필깔면 이속 빨라지고\n탱커인데 어글 끌고 뒤로 빠질때 이속좀 있었으면 하는데",
+    "comments": []
+  },
+  {
+    "thread_id": "3378955",
+    "title": "대체 댄서유저들은 어디까지 참아야되는건데요?",
+    "date": "2026.02.15 04:08",
+    "comment_count": 4,
+    "view_count": 82,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378955",
+    "content": "도적클래스 출시 당시 갈채 추가타 버프 잠수함 패치로 삭제\n이후 공지 표기 X\n정열 룬 사용 시 브레이크 면역 사라지는 버그,\n산뜻함 룬 사용 시 강화된 기본공격 피해가 레벨에 따라 증가하지 않는 버그,\n5스킬 갈채 내부쿨때문에 시간내로 전부 못 쓰는 현상,\n간결함 룬 사용 시 피해증가 버프가 적용 안 되는 버그,\n궁극기 1번째 사용이 버프기 판정이 없어서 근접해야 사용되던 현상,\n1스킬 이동거리가 불안정하게 바뀌는 버그 등등\n패시브부터 스킬 전부 버그가 있던 심각한 상황조차 오랫동안 방치됐어요.\nhttps://mabinogimobile.nexon.com/Community/Class/3073054\n자세한 내용들은 당시에 이미 적어놨을 정로도 심각한 수준이었고\n시즌0내내 반년이상 방치되었던 버그들은\n시즌1 되어서도 전부다 고쳐지지도 않았어요.\n그중 가장 문제가 되는 '갈채'가 공용 버프 취급 받아서 댄서가 2명이상이면 반드시 1명은 갈채 부여를 덮어쓰여진다는\n치명적인 문제가 있음에도 아직까지 고쳐지지 않았어요.\n아직도 댄서는 댄서가 많을수록 서로의 고점을 깎아먹는 경쟁게임을 해야됩니다.\n앵콜 위치판정 버그로 아예 강퇴당하는 직업, 부활횟수 깎아먹는 범인 취급 받았던 때도\n게임 플레이에 치명적인 버그였지만 결국 핫픽스는 커녕 다음주 목요일까지 방치되어서야 고쳐졌고요.\n그리고 시즌1 와서는 단 1번의 버그픽스, 밸런스 패치를 받은 적이 없었습니다.\n근데 이제 와서 잘있던 룬에 기능 추가로\n간접너프에 선택지 삭제, 플레이할 이유 자체를 없애버렸고\n이에 대해 아무리 롤백을 요구해도\n화법 버그가 핫픽스 되는 와중에도\n댄서 유저들의 의견들을 철저히 무시하고 강행하고 있는 모습에\n정말 실망스럽기만 합니다.\n인구수가 적은게 정말 죄다 그쵸?\n무슨 실험쥐도 아니고 도대체 언제까지 참으라는 소립니까\n많은거 안 바랍니다.\n그냥 전환 룬에 넣은 기능 다시 삭제하세요.\n제가 원한건 댄서지\n대검전사가 아닙니다.",
+    "comments": [
+      {
+        "text": "그래도 연예인이잖아요",
+        "date": "2026.02.15 04:11"
+      },
+      {
+        "text": "아뇨 안할게요 스킬 이펙트까지 버려도 되니까 전환 돌려내주세요",
+        "date": "2026.02.15 04:13"
+      },
+      {
+        "text": "석궁 수전증보단 낫네",
+        "date": "2026.02.15 04:27"
+      },
+      {
+        "text": "직업 유저수 적으니까 힘도없음",
+        "date": "2026.02.15 04:45"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378930",
+    "title": "복귀유저인데 다그다 어케 해요.. ㅠ ㅠ",
+    "date": "2026.02.15 02:19",
+    "comment_count": 2,
+    "view_count": 96,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378930",
+    "content": "명절이어서 오랜만에 들어와봤는데... ㅠ ㅠ 진짜 엄청 오랜만에 들어와서 렙도 낮고.. 왕초보 된 기분임...\n다그다 어케해여...\n뭐부터해야대여...\nㅠㅠ\n내향형 인간... 파티원 구하기도 힘들고 친구도 없고... 같이 해주실 분........?",
+    "comments": [
+      {
+        "text": "다그닥 유기하면 됨 기존 고인물도못감 파티도 없고 보상도 구리니 안하는거추천 초창기에나 할거없어 신기해서 갔지 부캐키우면 안가게 됨 귀찮은데보상도 열라구린의상이랑 강화 촉매제 10개도아니고 1.5\n인가 즘  보상 병맛도아니고 그거 받을라고 갈바에 넥탈하고말지",
+        "date": "2026.02.15 03:46"
+      },
+      {
+        "text": "ㅋㅋㅋㅋㅋㅋ 감사해요ㅠㅠ 새해 복 많이 받으세요~",
+        "date": "2026.02.15 05:28"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378916",
+    "title": "염색하고 싶어서 승급 하려는데",
+    "date": "2026.02.15 01:49",
+    "comment_count": 1,
+    "view_count": 131,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378916",
+    "content": "얘는 원래 안되는 앤가요?",
+    "comments": [
+      {
+        "text": "연금하려면 같은 등급이 필요합니다",
+        "date": "2026.02.15 02:46"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378901",
+    "title": "가끔 무한로딩이나 인터페이스가 사라지는 경우가 있는데",
+    "date": "2026.02.15 01:07",
+    "comment_count": 0,
+    "view_count": 29,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378901",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3378897",
+    "title": "댄서 돌게해주세요.. 다른 룬으로 대체해봤지만 데미지 감소 심함...",
+    "date": "2026.02.15 00:47",
+    "comment_count": 0,
+    "view_count": 69,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378897",
+    "content": "댄서의 정체성을 빼앗은것도 모자라...다른 룬으로 대체해서 써보려고했더니..\n데미지가 기존 데미지의 절반도 안나와요ㅜㅜ\n보석 세공도 연타,이동인데.. 제자리에서 돌기만할거면 이동이 소용없잖아요;;\n그간 열심히 맞춘 세공도 다시해야하나요?ㅜㅜㅜ",
+    "comments": []
+  },
+  {
+    "thread_id": "3378866",
+    "title": "유트브 기갱",
+    "date": "2026.02.15 00:18",
+    "comment_count": 0,
+    "view_count": 79,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378866",
+    "content": "돈받고 기갱 해줌\n망겜 ㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3378865",
+    "title": "복귀하려니 문을 안 열어줌",
+    "date": "2026.02.15 00:17",
+    "comment_count": 0,
+    "view_count": 51,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378865",
+    "content": "넥슨 로고에서 응답없음으로 실행이 안 되는데\n차라리 다행인가?",
+    "comments": []
+  },
+  {
     "thread_id": "3378665",
     "title": "과금러 비교",
     "date": "2026.02.14 20:49",
@@ -1275,6 +1474,163 @@
     "url": "https://mabinogimobile.nexon.com/Community/Free/3377970",
     "content": "https://mabinogimobile.nexon.com/News/Update/3373329\n2/12(목) 업데이트 노트에 올라온 테스트 사진에 대해서 말인데요\n일단 전투 테스트를 혹시 모바일 환경이 아니라 컴퓨터 환경에서 하시는 건지 궁금합니다.\n에이렐 레이드 저는 개인적으로 재밌다고 생각하긴 하는데\n다른 몇몇 분들도 얘기하신 것처럼 모바일 환경에서 플레이 하기에는 좀 힘든 면이 있다고 생각합니다.\n실제로 어떻게 전투 테스트를 하시는지 모르겠지만 혹시 컴퓨터 환경에서 하고 계시다면\n\"모바일\" 마비노기인만큼, 모바일 환경에서 테스트를 하시는 게 맞다고 생각되는데요.\n그리고 혹시 테스트 전용 캐릭터가 어떤 스펙으로 설정되어 있는지 모르겠지만,\n왼쪽 상단을 보면 음식도 안 먹었고 골드랑 은동전, 공물이 엄청 쌓여 있는 걸 보니\n캐릭터 스펙을 엄청 높게 설정하시고 플레이 하시는 건가요?\n단순히 전투에서의 특정 상황 테스트만 하는 거라면 상관 없지만,\n실제로 게임을 플레이하는 유저들의 입장에 맞춰서 테스트를 해주셨으면 좋겠습니다.\n폐기장 어비스, 에이렐 레이드 등과 같이,\n이동기가 주력기인 근접 딜러나,\n모바일 환경에서 게임을 플레이하는 유저들의 입장을 전혀 고려하지 않은 듯한 컨텐츠들이 계속 나오는 걸 보면서\n같은 게임을 서로 전혀 다르게 이해하고 있는 건 아닌가 하는 생각이 들어서요.",
     "comments": []
+  },
+  {
+    "thread_id": "3378828",
+    "title": "음란마귀가 찾ㅇㅏ온다!!",
+    "date": "2026.02.14 00:00",
+    "comment_count": 2,
+    "view_count": 202,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378828",
+    "content": "이것은!! 무엇인가!!",
+    "comments": [
+      {
+        "text": "키홀 네 이놈!!!",
+        "date": "2026.02.15 00:14"
+      },
+      {
+        "text": "국회의사당 앞에 있어야 할 돌이 왜 여기에..... ㅋ",
+        "date": "2026.02.15 01:28"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378826",
+    "title": "햄보케요",
+    "date": "2026.02.14 00:00",
+    "comment_count": 1,
+    "view_count": 145,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378826",
+    "content": null,
+    "comments": [
+      {
+        "text": "우와 얼굴이 활짝 피었어요!!",
+        "date": "2026.02.15 00:11"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378798",
+    "title": "댄서를 제자리 돌게 만들어서 너네가 이득보는게 뭐냐?",
+    "date": "2026.02.14 00:00",
+    "comment_count": 0,
+    "view_count": 73,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378798",
+    "content": "가뜩이나 한창 내리막길 게임에 신화펫 내놔라는 유저만봐도 기분나쁜데 댄서는 진짜 그렇게 제자리 돌게 만들어서 딜이라도 버프해줘서 잘나오게 하면 또 몰라 그냥 도는거 궁극기 마냥 방향키로 조정하게하던가... 아오 진짜 갑갑하다 너넨",
+    "comments": []
+  },
+  {
+    "thread_id": "3378779",
+    "title": "길드원분들 새해복 많이받으세요",
+    "date": "2026.02.14 00:00",
+    "comment_count": 6,
+    "view_count": 104,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378779",
+    "content": "길드원분들 새해복 많이 받으세요~",
+    "comments": [
+      {
+        "text": "새해 복 많이 받으세요~",
+        "date": "2026.02.14 22:40"
+      },
+      {
+        "text": "새해 복 많이 받으세요~",
+        "date": "2026.02.14 22:44"
+      },
+      {
+        "text": "다들 새해복많이받고 행복해야되요~~~~~~~~~",
+        "date": "2026.02.14 22:45"
+      },
+      {
+        "text": "새해 복 많이 받으세용",
+        "date": "2026.02.14 22:45"
+      },
+      {
+        "text": "다들 새해복 많이 받으세요 ㅋㅋㅋㅋ",
+        "date": "2026.02.14 22:47"
+      },
+      {
+        "text": "ㅋㅋㅋ너무 귀여워요",
+        "date": "2026.02.14 23:08"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378748",
+    "title": "신규분들 꼭 친구쿠폰 등록하고 업하세요~ 7UZBT8BN",
+    "date": "2026.02.14 00:00",
+    "comment_count": 0,
+    "view_count": 26,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378748",
+    "content": "7UZBT8BN\n친구 메뉴에서 등록할 수 있어요~\n이거 안하고 업하면 아이템 손해 많이 보세요~~",
+    "comments": []
+  },
+  {
+    "thread_id": "3378714",
+    "title": "2026-02-14",
+    "date": "2026.02.14 00:00",
+    "comment_count": 1,
+    "view_count": 36,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378714",
+    "content": null,
+    "comments": [
+      {
+        "text": "2026-02-14",
+        "date": "2026.02.14 21:35"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378705",
+    "title": "인간적으로 룬새김 룬결속 분해 만들어주라",
+    "date": "2026.02.14 00:00",
+    "comment_count": 1,
+    "view_count": 124,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378705",
+    "content": "1차 초월다해서 사용을 할곳이없어요\n룬새김, 룬결속 분해로 하위템 만들고 하위템도 분해도 되도록해서 재료템이라도 뽑아올수있게 만들어주지",
+    "comments": [
+      {
+        "text": "ㅇㅈ..\n차라리 1차 완재 2개든 조합해서 원하는 2차완재 하나로 교환이라도 되게 해주던가 이런 편의는 죽어도 생각 못함",
+        "date": "2026.02.14 23:15"
+      }
+    ]
+  },
+  {
+    "thread_id": "3378697",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!!!!!!!!!!!!!",
+    "date": "2026.02.14 00:00",
+    "comment_count": 0,
+    "view_count": 43,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378697",
+    "content": "●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!!!!!!!!!!!!!●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!!!!!!!!!!!!!",
+    "comments": []
+  },
+  {
+    "thread_id": "3378687",
+    "title": "댄서 도는거 사라짐??",
+    "date": "2026.02.14 00:00",
+    "comment_count": 2,
+    "view_count": 166,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3378687",
+    "content": "댄서 시작이 그 도는 스킬 떄문에 재밌어 보여서 시작한 사람 많을텐데 시그니쳐 스킬을 박살냈다고? ㅋㅋㅋㅋㅋㅋ",
+    "comments": [
+      {
+        "text": "1시즌 발걸음에 필수 룬 전환에만 적용 해둠..나비는 멀쩡하게 턴함.. 돌려까기 당한 듯함 핑계는 이동기고 전환 뺏어서 딜 로스 유도 한듯 함요",
+        "date": "2026.02.14 21:10"
+      },
+      {
+        "text": "아하",
+        "date": "2026.02.14 21:11"
+      }
+    ]
   },
   {
     "thread_id": "3377717",
