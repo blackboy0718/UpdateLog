@@ -1,5 +1,366 @@
 [
   {
+    "thread_id": "3380187",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 롤백해 주세요",
+    "date": "2026.02.16 20:57",
+    "comment_count": 0,
+    "view_count": 2,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380187",
+    "content": "돌려줘요 제발 ㅠㅠ 돌고 돌아 제자리로 오고 싶어요",
+    "comments": []
+  },
+  {
+    "thread_id": "3380160",
+    "title": "2026-02-16",
+    "date": "2026.02.16 20:09",
+    "comment_count": 1,
+    "view_count": 12,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380160",
+    "content": null,
+    "comments": [
+      {
+        "text": "2026-02-16",
+        "date": "2026.02.16 20:09"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380158",
+    "title": "아니 복귀 퀘스트 4일째인데 남쪽 폐허 심층 퀘스트를 깰수가 없네요",
+    "date": "2026.02.16 20:09",
+    "comment_count": 4,
+    "view_count": 52,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380158",
+    "content": "어디 있는 던전인가요? 어떻게 가야하죠?\n이거 뭐 45레벨에서 75레벨까지 올렸는데 만렙 찍어야 열리는 던전인가요?",
+    "comments": [
+      {
+        "text": "콜헨",
+        "date": "2026.02.16 20:14"
+      },
+      {
+        "text": "콜헨이 뭐에요?",
+        "date": "2026.02.16 20:30"
+      },
+      {
+        "text": "콜헨=배타는 마을.\n북쪽폐허심층 - 가능레벨 80\n남쪽폐허심층 - 가능레벨 85\n...렙 부족하셔서 못가시는거 같습니다.",
+        "date": "2026.02.16 20:52"
+      },
+      {
+        "text": "아~ 좋은정보 알려주셔서 너무 감사합니다. 새해 복 많이 받으시고 가정에 평화와 건강이 깃들길 진심으로 바랄께요",
+        "date": "2026.02.16 20:55"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380107",
+    "title": "사일런트 플렛지 웨어 개선 성공되면",
+    "date": "2026.02.16 18:56",
+    "comment_count": 0,
+    "view_count": 51,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380107",
+    "content": "뽑기 재탕 해주시나여?",
+    "comments": []
+  },
+  {
+    "thread_id": "3380101",
+    "title": "나보다 지독한 저주캐 있을까.",
+    "date": "2026.02.16 18:52",
+    "comment_count": 2,
+    "view_count": 128,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380101",
+    "content": "지금까지 미스틱 던전 수백번은 돌았을텐데, 신화 하나 안 나옴.\n전설은 한 5번?\n의욕이 안 남.",
+    "comments": [
+      {
+        "text": "저두 신화없어요ㅜㅜ",
+        "date": "2026.02.16 18:59"
+      },
+      {
+        "text": "전설 5개나 드셨어요?\n전 두세번인거 같은데요.\n골렘이 일어날 생각을 안하네요.",
+        "date": "2026.02.16 19:56"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380096",
+    "title": "진짜 얘들한계인가",
+    "date": "2026.02.16 18:47",
+    "comment_count": 1,
+    "view_count": 100,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380096",
+    "content": "아직도 무한로딩 못고치는거보면",
+    "comments": [
+      {
+        "text": "카메라 시점 고정도 못고치는걸",
+        "date": "2026.02.16 19:10"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380085",
+    "title": "아티팩트 빨강? 파랑? 그게 뭐요?",
+    "date": "2026.02.16 18:33",
+    "comment_count": 0,
+    "view_count": 62,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380085",
+    "content": "금색 - 정가1, 퀘스트1\n무색 - 1+1 득한 거\n그외 - 매주 나온것들\n...이번주도 다 녹색이야...빨강하고 파랑도 있지않음???",
+    "comments": []
+  },
+  {
+    "thread_id": "3380082",
+    "title": "고인물 현질러야 열라쉽겠지만 그건 그들기준이고",
+    "date": "2026.02.16 18:22",
+    "comment_count": 3,
+    "view_count": 153,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380082",
+    "content": "대충키운 5.7 따리로 매어 쌉가능 근데 그건 초창기부터 키운 린간들 입장이고\n그아래 존재하는 라이트유저는 어렴도 힘들다 걍 본인 기준으로 글쓰지 마라\n뭐 현질 막 해서 다사고 그러면뭐 쉬운건 맞는데\n라이트 유저나 저스팩 린간들에겐 솔직히 버스 안타면 핼팟이란걸 명심해라\n니가 부캐 5,0 으로 타렴 가봐 쉬운가 어려운가",
+    "comments": [
+      {
+        "text": "타바르타스랑 에이렐보니까 보통 중위권\n유저들 스팩에 맞춰서 내는것 같아요",
+        "date": "2026.02.16 18:56"
+      },
+      {
+        "text": "사실 대충 키운 따리도 쉬움. 문제는 사람들이 협동심이 없다는 것임. 장판 피하고, 기믹 파훼만 해줘도 무난하게 클리어 하는데 오토 처돌리고 잠수 처한다는 것임. 뒤져도 부활도 안 함. 그래서 입문이라도 때론 지옥 난이도임.",
+        "date": "2026.02.16 19:01"
+      },
+      {
+        "text": "타바 턱걸이로 잘만 했는데 모바일이구.. 빨대라 그런가",
+        "date": "2026.02.16 19:04"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380076",
+    "title": "우만 타렴 지옥등급으로 승급",
+    "date": "2026.02.16 18:13",
+    "comment_count": 1,
+    "view_count": 125,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380076",
+    "content": "굇수들이 타매어만 가므로 타렴 부캐 우만 팟은 클리어가 불가능하다 그러하다\n하긴 뭐 이젠 매어나온 판국에 굇수들이 어렴갈 이유가 사라졌자나 고인물 굇수들이 그립읍니다\n입문이나 가야겠네",
+    "comments": [
+      {
+        "text": "이참에 겜 접으시지?",
+        "date": "2026.02.16 18:37"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380072",
+    "title": "[해달]새해 복 많이 받으세요!!",
+    "date": "2026.02.16 18:10",
+    "comment_count": 0,
+    "view_count": 13,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380072",
+    "content": "﻿\n새해 복 많이 받으세요\n❤️",
+    "comments": []
+  },
+  {
+    "thread_id": "3380058",
+    "title": "장궁병 활 얼래 이렇게 길엇나요?",
+    "date": "2026.02.16 17:57",
+    "comment_count": 0,
+    "view_count": 83,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380058",
+    "content": "내가알던 길이가 아닌거같은데 패치로 늘어낫나요?",
+    "comments": []
+  },
+  {
+    "thread_id": "3379875",
+    "title": "이걸 진짜 메우 어려움이라고 내놓거임?",
+    "date": "2026.02.16 13:13",
+    "comment_count": 2,
+    "view_count": 521,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379875",
+    "content": null,
+    "comments": [
+      {
+        "text": "못깨기  매우 어려움",
+        "date": "2026.02.16 13:23"
+      },
+      {
+        "text": "아~ 못 깨는게 매우 어려우니까? ㅋㅋㅋ 게임이 어려우면 재미없다?",
+        "date": "2026.02.16 15:12"
+      }
+    ]
+  },
+  {
+    "thread_id": "3379843",
+    "title": "어비스 토벌 증표 설명 어디에 이걸 쓰면",
+    "date": "2026.02.16 12:37",
+    "comment_count": 3,
+    "view_count": 242,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379843",
+    "content": "입장 횟수가 차감 된다고 쓰여 있나요?\n분명 이거 윗 단계보다 낮은 단계를 클리어 하면 보상 해주는 증표 아니었나요?\n아까 필보 잡고 마물 퇴치 증표로 물건 사러 갔다가 어비스 전리품이 보이길래, 4개 구입함.\n난 당연히 마물 퇴치 증표처럼 증표만 받아가는줄 알았음.\n참고로 빨간 글씨는 구입 후 보였음.\n설마해서 어비스 들어가 봄.\n클리어 가능 횟수가 0임.\n물론 오늘 리셋되고 입장 안 하고 있었음.\n뭐 당연하게 세번은 중복 클리어로 적용 됨.\n이슈 안 되는 거 보니 내가 제대로 알아보지 않은 거 같긴한데.\n데브는 공지 띄웠을테고, 의도는 반복 피로도를 줄이려는 배려일테지.\n하지만 나 같은 빡대갈을 위해 증표 설명에 몇자 추가 해주었더라면 하는 아쉬움이 있네?",
+    "comments": [
+      {
+        "text": "평소에 어비스 돌면 주다가 어느 주에 못돌겠다 싶은 날에 그걸로 때우라고 주기 시작한거\n아마 라방이나 여기저기서 이런거 추가할거라고 떠들고 다녔으니 대부분 알고있다고 생각한거 아닐까 싶음",
+        "date": "2026.02.16 13:34"
+      },
+      {
+        "text": "아니 내말이 장난하냐고 나중에 못돌때 대비해서 미리 받은건데 지들맘대로 차감시키면 어캄",
+        "date": "2026.02.16 17:03"
+      },
+      {
+        "text": "저번주는 퀘스트 깰때\n에반이 받고 올려주는거 였는데\n오늘 아이템  보고 한번 써보니,\n다른 상자처럼 보상횟수 차감하고 최고점 기록하는걸로,  바꼈더라고요....",
+        "date": "2026.02.16 20:28"
+      }
+    ]
+  },
+  {
+    "thread_id": "3379839",
+    "title": "서버 뭐임? 무한 로딩인데 빨리 확인해라 데브켓",
+    "date": "2026.02.16 12:33",
+    "comment_count": 0,
+    "view_count": 27,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379839",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3379825",
+    "title": "캐릭 선택창에서 클릭안되는 오류....",
+    "date": "2026.02.16 12:11",
+    "comment_count": 0,
+    "view_count": 35,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379825",
+    "content": "필보잡고 부캐들 돌려고\n클리어 후 캐릭선택창으로 이동했는데... 클릭이 안되서 매번 재접하고있네요.......",
+    "comments": []
+  },
+  {
+    "thread_id": "3379820",
+    "title": "무한로딩 언제 고침?",
+    "date": "2026.02.16 12:06",
+    "comment_count": 0,
+    "view_count": 31,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379820",
+    "content": "무한로딩 언제 고치냐고 개 짜증나네 ㅅ",
+    "comments": []
+  },
+  {
+    "thread_id": "3379810",
+    "title": "님들 저만 모르는거에요?",
+    "date": "2026.02.16 11:54",
+    "comment_count": 2,
+    "view_count": 246,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379810",
+    "content": "저는 컴터,패드를 핸드폰에서 쓰는 ID로 다 돌리거든요?\n근데 넥슨플레이[마비노기 모바일]복귀 모험가 미션 이벤트가 안되네요?\n자세히 말하면 했는데도 퀘스트 참여 이력이 없다고 뜹니다 이게 깔려있는 폰으로 해야 하나요?\n아니면 로그인이 그 기간에 없던 계정으로 해야하나요?",
+    "comments": [
+      {
+        "text": "언제까지 접속 안 한 계정을 위한 말 그대로 \"복귀 모험가\"를 위한 미션입니다\n탭에 들어가셔서 윗부분 내용을 잘 읽어보세요",
+        "date": "2026.02.16 12:33"
+      },
+      {
+        "text": "말 그래도 '복귀'유저를 위한 이벤트.\n데브가 고지한 기간 내에 잠깐이라도 접속 했으면 당연히 해당 안됨.",
+        "date": "2026.02.16 16:34"
+      }
+    ]
+  },
+  {
+    "thread_id": "3379746",
+    "title": "엠블렘 좀 줘...아빛이 아직도 없어..",
+    "date": "2026.02.16 10:15",
+    "comment_count": 3,
+    "view_count": 184,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379746",
+    "content": "이제 엠블렘 6개 모았다... 모으면서 중복만 3개를 먹었다구...",
+    "comments": [
+      {
+        "text": "사냥터에 집합!!",
+        "date": "2026.02.16 10:18"
+      },
+      {
+        "text": "힘내세요!! 곧 드실거에요 (시즌종료쯤..)",
+        "date": "2026.02.16 11:16"
+      },
+      {
+        "text": "걱정마 난 아빛은 커녕 아직도 6성 현란함을 끼고 있으니까!!",
+        "date": "2026.02.16 15:13"
+      }
+    ]
+  },
+  {
+    "thread_id": "3379743",
+    "title": "공용보관함 무게좀 늘려줘라",
+    "date": "2026.02.16 10:12",
+    "comment_count": 0,
+    "view_count": 38,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379743",
+    "content": "공용보관함 무게좀 늘려줘라\n아니 재료 이제 공용보관함 하게 해준거는 고마운데\n무게 터질려고한다\n이미 예전에 데카로 다 늘려놔가지고\n2배로 하든 더 쓸테니깐\n제발 무게좀 늘려줘\n가죽 100개가 무게10인거 너무 크지않나?\n안줄여줘도 되니깐 그냥 공용보관함 최대치좀",
+    "comments": []
+  },
+  {
+    "thread_id": "3379733",
+    "title": "새해(5) 퀘스트 하다보면... 씁쓸하네요",
+    "date": "2026.02.16 09:58",
+    "comment_count": 5,
+    "view_count": 356,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379733",
+    "content": "본캐로 한복 받았는데요\n오늘 부캐로 먼저 (5) 퀘스트를 진행했거든요\n근데 (5)에서 시몬한테 영감을 줄만한 옷으로 한복 입고 자랑을 하네요;;;\n부캐한테는 한복이 없는데... 시몬한테 보여주고 끝이네요\n소유하고 있는 캐릭 모두에게 한복을 줬으면 이런 감정은 안 느낄텐데\n씁쓸하면서도 데브캣이라는 게임사가 이해가 안 되네요 졸업식 옷은 모든 캐 다 주면서\n한복을 1년에 두 번 있는 큰 명절에 모든 캐에 안 준다는 게 말이 안 된다는 생각이 드네요\n그게 그렇게 아깝나요? 시나리오 구성을 보아하니 원래 다 주려고 했던 거 같기도 한데요...ㅜㅜ",
+    "comments": [
+      {
+        "text": "??? : 아 돈주고 사라고 ㅋㅋㅋ",
+        "date": "2026.02.16 11:13"
+      },
+      {
+        "text": "부캐까지 다입고다니면 안입게됨 차라리 에픽으로팔지",
+        "date": "2026.02.16 12:03"
+      },
+      {
+        "text": "아님... 예전에 부캐들 다 줬던 유치원복이랑 검교? 아직도 믹스매치로 입는 사람들 많아요\n지금 졸업복도 입은 사람 많은데요? 한복 자체가 설 끝나도 추석에도 다시 입을 수 있고 동양풍 좋아하는 사람들 꾸준해서 수요가 많아요\n부캐까지 다 주면 오히려 본캐는 발렌타인 옷 입고 부캐만 한복 입을 수도 있고 다양한 치장이 가능\n하고 커마도 다양해지죠",
+        "date": "2026.02.16 13:24"
+      },
+      {
+        "text": "???:아쉬우면 유료.",
+        "date": "2026.02.16 15:56"
+      },
+      {
+        "text": "세상의 모든 꼬운일은 관점을 바꾸면 대부분 해결된다.\n본캐만 주고 부캐는 안주니 꼽네? 가  아니라 유료로 파는걸 풀셋을 공짜로 퍼 주네? 로 생각해보세요.\n실제 유료로 파는 의상이니 저말이 틀라말이  아님.\n뭐, 갓겜단이라 이런말 하는거 아님. 본인 이전글보면 알거임. 까더라도 명분은 가지고 하자는거지.",
+        "date": "2026.02.16 19:02"
+      }
+    ]
+  },
+  {
+    "thread_id": "3379732",
+    "title": "서버이전 출시기원 2026.2.16.",
+    "date": "2026.02.16 09:55",
+    "comment_count": 0,
+    "view_count": 27,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379732",
+    "content": "\\\\\n까먹지말고 개발하자\n잊지말자 서버이전",
+    "comments": []
+  },
+  {
+    "thread_id": "3379715",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 롤백해 주세요",
+    "date": "2026.02.16 09:30",
+    "comment_count": 0,
+    "view_count": 20,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379715",
+    "content": "댄서 한번은 해보고 패치하냐",
+    "comments": []
+  },
+  {
     "thread_id": "3379698",
     "title": "타바 매어 마지막 즉사기 어케 피함?",
     "date": "2026.02.16 08:45",
