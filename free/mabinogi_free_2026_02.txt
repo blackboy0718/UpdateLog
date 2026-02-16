@@ -1,5 +1,92 @@
 [
   {
+    "thread_id": "3379698",
+    "title": "타바 매어 마지막 즉사기 어케 피함?",
+    "date": "2026.02.16 08:45",
+    "comment_count": 0,
+    "view_count": 18,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379698",
+    "content": "혼돈의 신전 보스처럼 알아서 자멸할줄 알았더니 아니네?\n피통줄 300쯤 되었을때 폭주 하며 즉사기 써대는데 이거 어케 피하고 어케 때림?\n6만대 파티로도 전멸 하네.",
+    "comments": []
+  },
+  {
+    "thread_id": "3379678",
+    "title": "로나좀 치워줘요",
+    "date": "2026.02.16 07:35",
+    "comment_count": 0,
+    "view_count": 33,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379678",
+    "content": "몰리가고 이젠 로나인가요",
+    "comments": []
+  },
+  {
+    "thread_id": "3379676",
+    "title": "어비스 보상구매 설명을 참 거지같이 해놨네",
+    "date": "2026.02.16 07:25",
+    "comment_count": 0,
+    "view_count": 54,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379676",
+    "content": "이거 설명을 거지같이 해놨네;;\n패치하고 욕먹는게 취미인가\n각각 0/4로 표기를 해놓으면 4개씩 구매 가능으로 생각하지 누가 모두 합쳐 0/4로 알겠냐\n그냥 어비스 보상탭을 하나 만들고 위에다 횟수 적어놓던가\n진짜 어이가 없네 ㅋㅋㅋㅋㅋㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3379665",
+    "title": "마비노기 모바일 겜안에서 가장 불쌍한 도적",
+    "date": "2026.02.16 06:27",
+    "comment_count": 0,
+    "view_count": 53,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379665",
+    "content": "어 그게 나야 나는 아직도 7성 무기 끼고 다니고 있어..\n나보다 더 불쌍한 도적 있으면 나와보라고해..\n진짜 너무한거 아니냐",
+    "comments": []
+  },
+  {
+    "thread_id": "3379643",
+    "title": "멤버십 패키지",
+    "date": "2026.02.16 03:46",
+    "comment_count": 0,
+    "view_count": 60,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379643",
+    "content": "7일권짜리 왜 없앴지 ㅠㅠ 잘 쓰고 있었는데 ㅠ 저번처럼 쭉 연장해주거나 다시 팔아주면 안되나…",
+    "comments": []
+  },
+  {
+    "thread_id": "3379614",
+    "title": "데브캣은 이벤트를 고쳐라",
+    "date": "2026.02.16 02:04",
+    "comment_count": 1,
+    "view_count": 147,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379614",
+    "content": "저 신발 이벤트에서는 초록색인데 누르면 흰색양말되요",
+    "comments": [
+      {
+        "text": "기념복도 색상 달라집니다.",
+        "date": "2026.02.16 02:54"
+      }
+    ]
+  },
+  {
+    "thread_id": "3379606",
+    "title": "음유 하향 롤백",
+    "date": "2026.02.16 01:44",
+    "comment_count": 1,
+    "view_count": 108,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379606",
+    "content": "무아 너프 롤백 해주세요\n음유 꿀빤다고 욕하는 사람중에 직접 육성해본 사람 몇이나 될까 싶습니다\n만능 유틸이라고 표현하지만 원할 때 힐 줄 수도 없고 버프는 타 직군에 묻히는 수준의 반쪽짜리 서포터입니다...\n인구가 적다는 이유로 심각한 수준의 하향을 너무 쉽게 당한 것 같다는 생각도 듭니다\n패치 내역을 취소하거나,\n낮아진 수치 그대로 발동 확률을 높이거나 의 조정 정도는 있어야 한다고 봅니다\n패치 이후로 전투 컨텐츠 자체가 싫어지네요...",
+    "comments": [
+      {
+        "text": "고갱님.\n음유시인 너프했어도 아직도 서폿중에 1등이랍니다.\n안심하시고 그냥 하셔도될듯요\n그전에는 개사기였고 지금 너프후에는 \"개\"는빼고 걍사기라서요",
+        "date": "2026.02.16 05:22"
+      }
+    ]
+  },
+  {
     "thread_id": "3379410",
     "title": "힐량",
     "date": "2026.02.15 20:45",
@@ -553,6 +640,173 @@
     "url": "https://mabinogimobile.nexon.com/Community/Free/3378865",
     "content": "넥슨 로고에서 응답없음으로 실행이 안 되는데\n차라리 다행인가?",
     "comments": []
+  },
+  {
+    "thread_id": "3379537",
+    "title": "주말은 어비스 퀘, 관련해서",
+    "date": "2026.02.15 00:00",
+    "comment_count": 1,
+    "view_count": 158,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379537",
+    "content": "주말은 어비스! 퀘스트는 상시인가요?\n이번주 못 본 거 같아서.. 요번주에 없어진 퀘스트인가 해서요..\n저도 모르는 새에 했던 건가..? 헷갈려서 질문 올립니다. 현재도 진행중인 상시 퀘스트인가요?",
+    "comments": [
+      {
+        "text": "계속하고 있는데 안뜨셨나요:?",
+        "date": "2026.02.16 00:14"
+      }
+    ]
+  },
+  {
+    "thread_id": "3379493",
+    "title": "전설 펫 승급 20퍼 맞긴한가? 확률 공개해라!",
+    "date": "2026.02.15 00:00",
+    "comment_count": 3,
+    "view_count": 233,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379493",
+    "content": "전설 도전만 17번을 했는데 전설이 안된다 이게 말이 되나 돈을 얼마나 썼는데 장난질하는것도 아니고\n납득이 안간다 확률 공개해라",
+    "comments": [
+      {
+        "text": "확률 20%라고 공개했는데 뭘더 공개해 확률이 틀리다고 말해야지",
+        "date": "2026.02.16 00:19"
+      },
+      {
+        "text": "50퍼센트도 14회 연속 실패하는 게 자주 나오는 마비모기 모바일.    하지만 14회 연속 성공은 절대 나오지 않죠.",
+        "date": "2026.02.16 01:51"
+      },
+      {
+        "text": "두번 트라이하니까 되던데 ㅋㅋㅋ 그것도 사료로~~ 캬캬",
+        "date": "2026.02.16 03:32"
+      }
+    ]
+  },
+  {
+    "thread_id": "3379486",
+    "title": "댄서 내추럴턴 롤백",
+    "date": "2026.02.15 00:00",
+    "comment_count": 0,
+    "view_count": 58,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379486",
+    "content": "제발 딴거안바랄게요 내추럴턴 롤백해주세요 직업정체성 지켜주세요",
+    "comments": []
+  },
+  {
+    "thread_id": "3379473",
+    "title": "다들 새해 복 많이 받으세요!!",
+    "date": "2026.02.15 00:00",
+    "comment_count": 0,
+    "view_count": 57,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379473",
+    "content": "모든 유저분들 새해 복 많이 받으세요!\n널뛰기 만들어 줘요 데브켓~",
+    "comments": []
+  },
+  {
+    "thread_id": "3379471",
+    "title": "로나 왜 자꾸 나오는데",
+    "date": "2026.02.15 00:00",
+    "comment_count": 2,
+    "view_count": 158,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379471",
+    "content": "몰리 가더니 로나가 왜 자꾸 오냐고",
+    "comments": [
+      {
+        "text": "미안 자꾸 나와서",
+        "date": "2026.02.16 00:20"
+      },
+      {
+        "text": "나오는건 괜찮은데, 아무말 밖에 없는건 뭘까요.",
+        "date": "2026.02.16 08:29"
+      }
+    ]
+  },
+  {
+    "thread_id": "3379469",
+    "title": "화법 어비스 지옥11 1~2구간 솔플",
+    "date": "2026.02.15 00:00",
+    "comment_count": 2,
+    "view_count": 183,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379469",
+    "content": "https://youtu.be/2dIbuLOxpbQ?si=9xxEPMuIN2cVBlnH\n지옥11부터 힘들네요\n보스는 못잡겠어요(물약제한 풀어줘...)",
+    "comments": [
+      {
+        "text": "너구리에 카레 가루를 넣어 봐 참 맛있어",
+        "date": "2026.02.15 22:55"
+      },
+      {
+        "text": "나 너프해주세요\n최근 화법  약코하던데 ㅋㅋ",
+        "date": "2026.02.16 04:52"
+      }
+    ]
+  },
+  {
+    "thread_id": "3379466",
+    "title": "룬 에픽7 전설6",
+    "date": "2026.02.15 00:00",
+    "comment_count": 1,
+    "view_count": 79,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379466",
+    "content": "에픽 7성 vs 전설 6성...\n뭐가 더 낫나요? 별 개수 상관 없이 역시 전설을 끼는게 낫나요?",
+    "comments": [
+      {
+        "text": "기존6성에서 7성으로 별 하나만 추가 했어야 하는데 갑자기 두 단계를 추가해서 개판 되었죠.\n별 갯수는 1개 많은데 성능은 6성이 더 좋으니.",
+        "date": "2026.02.16 06:17"
+      }
+    ]
+  },
+  {
+    "thread_id": "3379462",
+    "title": "나만 댄서 더힘들어진거 같냐?",
+    "date": "2026.02.15 00:00",
+    "comment_count": 0,
+    "view_count": 71,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379462",
+    "content": "지하대공동 1번방에서 못피하고 엄청 넘어지는데\n진짜 다리 잘린게 맞음",
+    "comments": []
+  },
+  {
+    "thread_id": "3379435",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 롤백해 주세요 어비스 더 힘들어졌어요",
+    "date": "2026.02.15 00:00",
+    "comment_count": 0,
+    "view_count": 58,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379435",
+    "content": "피해야할때 피하지도 못함;",
+    "comments": []
+  },
+  {
+    "thread_id": "3379434",
+    "title": "오류제보",
+    "date": "2026.02.15 00:00",
+    "comment_count": 0,
+    "view_count": 91,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379434",
+    "content": "NPC상점에서 퀘슬롯만 뜨고 다른건 틀릭이 안되요 다른 NPC들 똑같고요\n벌써 4일이나 지났느데도 해결이 되지않나서 퀘스트가 막혀 버렸어요",
+    "comments": []
+  },
+  {
+    "thread_id": "3379429",
+    "title": "2026-02-15",
+    "date": "2026.02.15 00:00",
+    "comment_count": 1,
+    "view_count": 27,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3379429",
+    "content": null,
+    "comments": [
+      {
+        "text": "2026-02-15",
+        "date": "2026.02.15 21:09"
+      }
+    ]
   },
   {
     "thread_id": "3378665",
