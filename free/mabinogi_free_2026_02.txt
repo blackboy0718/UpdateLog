@@ -1,5 +1,275 @@
 [
   {
+    "thread_id": "3380813",
+    "title": "댄서 내추럴턴 제발!! 돌진기로 백스탭치는 버그라도 어떻게 해줘요..",
+    "date": "2026.02.17 20:51",
+    "comment_count": 0,
+    "view_count": 5,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380813",
+    "content": "데브캣 의도가 뭐든, 댄서의 정체성이나 컨셉이 뭐든, 피하는 재미가 뭐든 진짜 다 필요 없어요.\n롤백이든 개선이든 상관없어요.\n최소한 돌진을 쓴다면서 후진하는 정신나간 버그만이라도 수정해줘요.\n가까이서 1번쓰면 백스탭쳐서 2번4번평타 쓰려면 다시 두걸음 걸어가야 되요.\n세상에 어떤 \"돌진기\"가 백스탭을 쳐서 다른 스킬 연계를 방해하나요?",
+    "comments": []
+  },
+  {
+    "thread_id": "3380787",
+    "title": "댄서 1번스킬 다시 롤백 해줘요!!!",
+    "date": "2026.02.17 20:16",
+    "comment_count": 0,
+    "view_count": 8,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380787",
+    "content": "댄서 1번스킬 다시 롤백 해줘요!!!",
+    "comments": []
+  },
+  {
+    "thread_id": "3380783",
+    "title": "자자 궁수는 무기 창고넣고 장궁 든다 실시",
+    "date": "2026.02.17 19:58",
+    "comment_count": 0,
+    "view_count": 37,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380783",
+    "content": "궁수는 저 밑바닥이거 이젠 장궁이 신급 등극했으니 빨리 장궁 들어라 무기 15만 해도 열라 쏌\n궁수 좋다는사람은 겜알못이니 무시하면 된다",
+    "comments": []
+  },
+  {
+    "thread_id": "3380781",
+    "title": "에이렐...",
+    "date": "2026.02.17 19:52",
+    "comment_count": 1,
+    "view_count": 44,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380781",
+    "content": "아 장궁 궁때문에 보고도 못피하는 경우가 많은데 다른 직업들은 어떠신가요?\n에이렐 돌때마다 스트레스..ㅠ.ㅠ",
+    "comments": [
+      {
+        "text": "차지 해야 하는 직업들은 캔슬 안 되면 중첩 되어서 춤 추거나 이동기 사용 했는데 타이밍 나쁘면 똑같은 상황이라 패턴을 외우는 수 밖에 없어요",
+        "date": "2026.02.17 19:56"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380728",
+    "title": "신규유저이벤트 참가 하시고 보상받아가세요 [참여방법 글참조]",
+    "date": "2026.02.17 18:30",
+    "comment_count": 0,
+    "view_count": 47,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380728",
+    "content": "[벤트참가방법] [친구창]-> [상단배너 클릭 ]친구초대 이벤트 들어가서 NRPB47UE 입력하면\n[맴버 쉽 ,스타프리즘, 은동전상자,공물  패션티켓] 받으실 수 있어요",
+    "comments": []
+  },
+  {
+    "thread_id": "3380699",
+    "title": "타메어가서 기믹 수행 안할거면 공팟을 안받는게 맞지 않나?",
+    "date": "2026.02.17 17:47",
+    "comment_count": 3,
+    "view_count": 183,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380699",
+    "content": "퍼런링 안붙여서 계속 브레이크 당하고 있는데 왜 안붙냐고 하니까 쌩까고 하다가 역장도 안빼서 반절 날라가버리고 왜그러냐고 하니까 길팟인데 굳이 그래야 하냐고 하네\n그럴거면 제발 길팟으로 가라고..괜한사람 힘들게 하지 말고...",
+    "comments": [
+      {
+        "text": "길드 내부 꼬라지 4K 녹화 본 ㅋㅋㅋㅋ",
+        "date": "2026.02.17 17:53"
+      },
+      {
+        "text": "공팟은 지옥임. 자기도 알고 있거든. 우만은 더 지옥이고. 그래서 뭍어갈려는 심보임, 어차피 부캐인데 얼굴 팔릴 걱정도 없겠다 싶은 거임. 파티 모을때 조건 걸지 않으면 5만 초반 부캐 떠리들 엄청 들어옴.",
+        "date": "2026.02.17 19:18"
+      },
+      {
+        "text": "저도 사실상 길드로 채워진 파티 갔다가 구슬도 안 치워 링 나오면 겹치지도 않아 그래 놓곤 죽으면 자기들끼리 괜찮다며 하하호호 하더라구요",
+        "date": "2026.02.17 19:59"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380690",
+    "title": "타려움 광폭은 둘째치고",
+    "date": "2026.02.17 17:33",
+    "comment_count": 0,
+    "view_count": 123,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380690",
+    "content": "제발 기믹좀 똑바로 수행해줘라\n처음에 구체 부수는것도 계속 남아서 개피 되질 않나\n특히 파란 장판\n좀 만나라고 제발..\n멀리 도망가지 말고!!! 좀 만나!!\n스킬 쓰느라 고정 돼서 못움직이는건\n다른 한 명이 만나러 가면 되니까 그렇다치는데\n왜 샤갈 저 멀리 도망가냐고",
+    "comments": []
+  },
+  {
+    "thread_id": "3380627",
+    "title": "보석 세공",
+    "date": "2026.02.17 15:31",
+    "comment_count": 1,
+    "view_count": 104,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380627",
+    "content": "보석 세공을 할려고 하는데 계속 다음 단계에 보석이 나와서 계속 미러지는 상황이 돼는데 이건 유지하게 끔 만들어주면 안돼나요?\n유지를 할려면 보석 촉매를 만들어준 더가 유지하게 끔 만들어주세요",
+    "comments": [
+      {
+        "text": "신규면 조금 팍팍 할테지만\n기존유저라면 세공 다 완료 된 상태에서\n보석 모으는 시간대비 이벤트로 주는 세공기로\n5개씩 유지 되지 않나요?",
+        "date": "2026.02.17 17:25"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380624",
+    "title": "타려움 우만 다시 5.6 이상으로 수정좀 해줘라 제발",
+    "date": "2026.02.17 15:28",
+    "comment_count": 0,
+    "view_count": 194,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380624",
+    "content": "우만으로 깨질 못하자나",
+    "comments": []
+  },
+  {
+    "thread_id": "3380598",
+    "title": "무과금 6.2 질문 받는다",
+    "date": "2026.02.17 14:30",
+    "comment_count": 8,
+    "view_count": 367,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380598",
+    "content": "아직 초월2작 타이틀작 안 끝났다\n6.4까지 가능성 열려있다\n데카 15만 있다\n전설 재료 데카로 판매해라ㅋㅋ\n과금 씹어줄게ㅋ",
+    "comments": [
+      {
+        "text": "어 그래 열심히해라. 새해복 많이받고",
+        "date": "2026.02.17 14:34"
+      },
+      {
+        "text": "ㅇㅇ궁금한 건 없고?",
+        "date": "2026.02.17 14:37"
+      },
+      {
+        "text": "햇빛도 좀 보시고 요즘 데카벌이도 안될건데 동네 편의점 알바라도 하세요 ㅜㅜ",
+        "date": "2026.02.17 14:44"
+      },
+      {
+        "text": "무과금이 6.2면 평균이구만  뭘 대단하다고 적었어",
+        "date": "2026.02.17 15:05"
+      },
+      {
+        "text": "그러게요 한7만이면 인정하겠다",
+        "date": "2026.02.17 15:19"
+      },
+      {
+        "text": "ㅋㅋ 긁힛노",
+        "date": "2026.02.17 15:55"
+      },
+      {
+        "text": "애는 순수하잖아 나 둬\n설날 같은 좋은 날에도 저짓거리 하는 인생이면 ㅏ ㅋㅋ...나 방금 미래를 보았어 ;",
+        "date": "2026.02.17 17:49"
+      },
+      {
+        "text": "외람되지만  너무 낮음 투력 6,5는 되야 인정해줌 지금랭커들 돌아댕기는 린간들 투력좀 보셈 6,2 가 높은지 낮은지 알거임 어디 명함도 못내미는 수준인데 비틱하는거 실화임?",
+        "date": "2026.02.17 18:42"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380588",
+    "title": "직 변 권 내 놔 라 고",
+    "date": "2026.02.17 14:13",
+    "comment_count": 0,
+    "view_count": 42,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380588",
+    "content": "세공은 필요 없고 무기랑 엠블 강화 이전권 내 노 라 고.....\n두줄로도 갈아 탈수 있는 직업이 많은데... 새로운 직업하고 싶어도 새로 키우는건 답이 없으",
+    "comments": []
+  },
+  {
+    "thread_id": "3380584",
+    "title": "합성도 안되는옷은 왜자꾸주냐",
+    "date": "2026.02.17 14:04",
+    "comment_count": 0,
+    "view_count": 65,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380584",
+    "content": "그걸 누가 입으라고 자꾸주냐\n주려면 합성이라도 할수있게줘라\nㅉㅏ 증 나 게  ..   운영 뭣같이 한다\n그러니 망게임 되는거다",
+    "comments": []
+  },
+  {
+    "thread_id": "3380579",
+    "title": "신규이벤트 참여하세요 참여방법 게시글확인",
+    "date": "2026.02.17 13:51",
+    "comment_count": 0,
+    "view_count": 44,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380579",
+    "content": "[이벤트참가방법] [친구창]-> [상단배너 클릭 ]친구초대 이벤트 들어가서 NRPB47UE 입력하면\n[맴버 쉽 ,스타프리즘, 은동전상자,공물  패션티켓] 받으실 수 있어요",
+    "comments": []
+  },
+  {
+    "thread_id": "3380568",
+    "title": "홀리몰리~ 팽이치는 몰리(염색은 재밌어)",
+    "date": "2026.02.17 13:23",
+    "comment_count": 0,
+    "view_count": 179,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380568",
+    "content": "염색 너무 재밌어~(폰 유저라 화질은 좀 ㅎㅎ)\n제목: 내게 여러분의 재화를 바쳐요 - 몰리",
+    "comments": []
+  },
+  {
+    "thread_id": "3380549",
+    "title": "타려움 다시 투력 제한 걸어 x 발 진짜",
+    "date": "2026.02.17 12:39",
+    "comment_count": 0,
+    "view_count": 298,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380549",
+    "content": "가뜩이나 사람없는데 투력제한까지 풀어서\n이제는 타려움 우만으로 아예 클리어조차 힘들게\n만들어버리네",
+    "comments": []
+  },
+  {
+    "thread_id": "3380525",
+    "title": "뉴비분들 친구코드등록 XWEBWYGP 등록 하시고 보상 받아가세요",
+    "date": "2026.02.17 12:00",
+    "comment_count": 0,
+    "view_count": 8,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380525",
+    "content": "뉴비분들 친구코드등록 XWEBWYGP 등록 하시고 보상 받아가세요",
+    "comments": []
+  },
+  {
+    "thread_id": "3380523",
+    "title": "신기한거목록",
+    "date": "2026.02.17 11:58",
+    "comment_count": 0,
+    "view_count": 70,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380523",
+    "content": "개노잼뱅가드(주간 30만골드 인질, 의무임)\n몰리랑 교대한 여기있었구나~ 로나(로딩10초)\n접근성을 고려해 키아던전에 짱박아놨습니다 추가요일던전\n회사에 문과가 한명도 없는 어비스스킵권 아이템 설명\n몇주째 방치중 데코배치버그",
+    "comments": []
+  },
+  {
+    "thread_id": "3380458",
+    "title": "서버이전 출시기원 2026.2.17.",
+    "date": "2026.02.17 09:09",
+    "comment_count": 1,
+    "view_count": 86,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380458",
+    "content": "\\\\\\\n언제나온다고 좀 알려주세요\n가야하는 서버가 있다구요",
+    "comments": [
+      {
+        "text": "안돼 돌아가",
+        "date": "2026.02.17 09:33"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380453",
+    "title": "신규유저이벤트 참여하고 보상받아가세요",
+    "date": "2026.02.17 09:03",
+    "comment_count": 0,
+    "view_count": 34,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380453",
+    "content": "[이벤트참가방법] [친구창]-> [상단배너 클릭 ]친구초대 이벤트 들어가서 NRPB47UE 입력하면\n[맴버 쉽 ,스타프리즘, 은동전상자,공물  패션티켓] 받으실 수 있어요",
+    "comments": []
+  },
+  {
     "thread_id": "3380401",
     "title": "여러분들도 신화복 많이 받으세요..ㅎ",
     "date": "2026.02.17 04:30",
