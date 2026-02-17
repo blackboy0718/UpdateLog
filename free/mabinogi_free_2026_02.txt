@@ -1,5 +1,108 @@
 [
   {
+    "thread_id": "3380401",
+    "title": "여러분들도 신화복 많이 받으세요..ㅎ",
+    "date": "2026.02.17 04:30",
+    "comment_count": 1,
+    "view_count": 68,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380401",
+    "content": "얼떨결에 신화가 4개가 되었네요..ㅎ 신화 복 많이받으세요..ㅎ",
+    "comments": [
+      {
+        "text": "이제 강화복도 받으세영!!",
+        "date": "2026.02.17 07:40"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380383",
+    "title": "확률 조작 적당히 해라",
+    "date": "2026.02.17 03:23",
+    "comment_count": 0,
+    "view_count": 86,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380383",
+    "content": "마  너무 눈에 확 뛰게 조작 하노\n6캐릭 어비스 항아리깡 캐릭당 기본 50개이상 2주동안 노전설이냐?\n너무 티가 확 나지 않냐?  강화도 6캐릭 근2주동안 다 천장이고\n적당히 해라 이자슥들아 너무 티난다",
+    "comments": []
+  },
+  {
+    "thread_id": "3380381",
+    "title": "파닥뻥투",
+    "date": "2026.02.17 03:18",
+    "comment_count": 1,
+    "view_count": 99,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380381",
+    "content": "파닥 달고 타바매어\n가족사진못들면 뻥투\n100%임\n돈주고 파닥\n버스탄 파닥\n둘중하나임",
+    "comments": [
+      {
+        "text": "순위못드감 쪽팔리겠다",
+        "date": "2026.02.17 03:19"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380376",
+    "title": "8번째 신화",
+    "date": "2026.02.17 03:03",
+    "comment_count": 0,
+    "view_count": 86,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380376",
+    "content": "1영원 2쏟별 2혼돈 3닫힘 하하....하하하하하하하핳",
+    "comments": []
+  },
+  {
+    "thread_id": "3380371",
+    "title": "그래서 로나 언제까지 나올건대",
+    "date": "2026.02.17 02:26",
+    "comment_count": 0,
+    "view_count": 35,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380371",
+    "content": "룬파 10개가지고 생색오지게 낸다\n말시키는거 유저괴롭하기 알면서 이러는거 맞지?\n그따위룬파편10그냥 주면되지 별 똥을싸요",
+    "comments": []
+  },
+  {
+    "thread_id": "3380361",
+    "title": "[알리사] 👑이구역패밀리👑 이 구역 장악 중👉패밀리원 대모집!",
+    "date": "2026.02.17 01:43",
+    "comment_count": 0,
+    "view_count": 20,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380361",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3380354",
+    "title": "신규유저이벤트 NRPB47UE 입력하시고 보상받아가세요",
+    "date": "2026.02.17 01:23",
+    "comment_count": 0,
+    "view_count": 16,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380354",
+    "content": "[이벤트참가방법] [친구창]-> [상단배너 클릭 ]친구초대 이벤트 들어가서 NRPB47UE 입력하면\n[맴버 쉽 ,스타프리즘, 은동전상자,공물  패션티켓] 받으실 수 있어요",
+    "comments": []
+  },
+  {
+    "thread_id": "3380339",
+    "title": "기여도 시스템 롤백해라 ㅡㅡ",
+    "date": "2026.02.17 01:01",
+    "comment_count": 1,
+    "view_count": 183,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380339",
+    "content": "단일딜 다 죽으라는거냐 진짜\n장난하나 딜빠른파티일수록 더 격차가 심해질텐데\n잘키운 검술이 궁극기 쫄몹에 한번만 박아도 8000천만 뜬다 가정하자 6억 4천가량 한번에 넣는건데 이게 왜 기여도 시스템에 들어가야하냐고",
+    "comments": [
+      {
+        "text": "오토 딸깍 켜고 지 인생살다 보상만 챙겨보는 무소과금 라이트낭만즐겜단이라고 자칭하는 분들도\n랭킹에 들어봐야 재미느껴서 꼬접안하고 유저수감소 안하기 때문임",
+        "date": "2026.02.17 03:53"
+      }
+    ]
+  },
+  {
     "thread_id": "3380187",
     "title": "●▅▇█▇▆▆▅▄▇ 댄서 롤백해 주세요",
     "date": "2026.02.16 20:57",
@@ -446,6 +549,44 @@
         "date": "2026.02.16 05:22"
       }
     ]
+  },
+  {
+    "thread_id": "3380295",
+    "title": "댄서 다시 롤백 해줘요.. 아오..",
+    "date": "2026.02.16 00:00",
+    "comment_count": 0,
+    "view_count": 34,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380295",
+    "content": "댄서 다시 롤백 해줘요.. 아오..",
+    "comments": []
+  },
+  {
+    "thread_id": "3380277",
+    "title": "전설펫 전설 4셋패션 머가 더 뽑기 힘듬?",
+    "date": "2026.02.16 00:00",
+    "comment_count": 1,
+    "view_count": 99,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380277",
+    "content": "둘중 어느게 더 뽑기 힘들고 가치가 높아요??",
+    "comments": [
+      {
+        "text": "전설펫..",
+        "date": "2026.02.17 07:36"
+      }
+    ]
+  },
+  {
+    "thread_id": "3380192",
+    "title": "새해복 많이 받으세요~!",
+    "date": "2026.02.16 00:00",
+    "comment_count": 0,
+    "view_count": 58,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3380192",
+    "content": null,
+    "comments": []
   },
   {
     "thread_id": "3379410",
