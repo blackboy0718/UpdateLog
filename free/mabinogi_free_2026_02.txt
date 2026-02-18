@@ -1,5 +1,457 @@
 [
   {
+    "thread_id": "3381510",
+    "title": "2026-02-18",
+    "date": "2026.02.18 20:54",
+    "comment_count": 1,
+    "view_count": 6,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381510",
+    "content": null,
+    "comments": [
+      {
+        "text": "2026-02-18",
+        "date": "2026.02.18 20:54"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381475",
+    "title": "두쫀치 교환해봣자",
+    "date": "2026.02.18 19:59",
+    "comment_count": 0,
+    "view_count": 70,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381475",
+    "content": "염색한거 싹 다 날라가는데ㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3381448",
+    "title": "미점검 공지라도 올려줘서 고마움",
+    "date": "2026.02.18 19:26",
+    "comment_count": 2,
+    "view_count": 167,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381448",
+    "content": "하지만 다음 주에 고쳐야 할게 아주 많을거야",
+    "comments": [
+      {
+        "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "2026.02.18 19:29"
+      },
+      {
+        "text": "ㅋㅋ 일단 고마운데 많죠 고칠거",
+        "date": "2026.02.18 19:29"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381447",
+    "title": "엇 업데이트 없다는 공지사항 이제 띄워주네",
+    "date": "2026.02.18 19:25",
+    "comment_count": 1,
+    "view_count": 90,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381447",
+    "content": "불만사항 생기면 반영시켜주는 노력은 좋네요...\n근데... 이정도의 소통은 기본적으로 해줘 제발!!!!",
+    "comments": [
+      {
+        "text": "변화 칭찬해줘야함ㅋㅋ",
+        "date": "2026.02.18 19:30"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381446",
+    "title": "공지 계속 뜨는거 조차 바로 수정을 못해서 2주뒤 패치 ㅋㅋㅋㅋ",
+    "date": "2026.02.18 19:25",
+    "comment_count": 0,
+    "view_count": 46,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381446",
+    "content": "무능함에 극치를 보여주는구나  ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3381445",
+    "title": "말 웃기다",
+    "date": "2026.02.18 19:25",
+    "comment_count": 0,
+    "view_count": 84,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381445",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3381432",
+    "title": "데브켓과 넥슨에게",
+    "date": "2026.02.18 19:07",
+    "comment_count": 0,
+    "view_count": 87,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381432",
+    "content": "저는 마비노기 모바일을 오랫동안\n즐기고 싶은 유저입니다 근데 요새\nbm늘리려는게 자꾸눈에 보여서\n불편합니다 bm 늘려봤자 유저들은\n부담스러워 언젠간 떠납니다 bm안늘려도\n이미 초창기에 있는 bm으로도 충분할꺼\n같아요 그리고 콘텐츠 방면에서도 조금더\n생각해보셔야 할꺼같습니다 오래오래 유저\n들과 함께 하길 바랍니다",
+    "comments": []
+  },
+  {
+    "thread_id": "3381403",
+    "title": "공지팝업이나 수정해 진짜 개불편한데",
+    "date": "2026.02.18 18:30",
+    "comment_count": 0,
+    "view_count": 61,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381403",
+    "content": "너네가 수정했잖아. 근데 왜 다시 이러는건데? 이런건 니들 실수니까 재깍재깍 해줘야 하는거 아니냐",
+    "comments": []
+  },
+  {
+    "thread_id": "3381402",
+    "title": "두쫀치 언제고침?",
+    "date": "2026.02.18 18:30",
+    "comment_count": 1,
+    "view_count": 103,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381402",
+    "content": "한달 다됐어\n새 에픽나왔잖아 좀 고쳐라",
+    "comments": [
+      {
+        "text": "진짜 언제 해주는건짘ㅋㅋㅋ",
+        "date": "2026.02.18 19:27"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381395",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 롤백해라",
+    "date": "2026.02.18 18:21",
+    "comment_count": 0,
+    "view_count": 28,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381395",
+    "content": "이번주 놀거면 다음주에 롤백한다 써놔라",
+    "comments": []
+  },
+  {
+    "thread_id": "3381394",
+    "title": "몇 가지만 빠르게 패치 해줘라",
+    "date": "2026.02.18 18:19",
+    "comment_count": 1,
+    "view_count": 166,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381394",
+    "content": "1. 클래스 레벨 65렙 찍으면 흔적 별도로 지급 해준다는거\n2. 직변권 (무기, 앰블럼)\n3. 의상 시리즈끼리 묶어 보관할 수 있도록 옷장 시스템\n4. 시즌2는 어떻게 운영될 것인지 청사진 빠르게 내줘\n5. 개인용 딜 미터기 (룬 바꿔가며 뭐가 좋은지 체감좀 해보자)",
+    "comments": [
+      {
+        "text": "직변권은 나오면 걍 망하는거야. 뭐가 좋은거라고 자꾸 직변권을 내달라는거냐",
+        "date": "2026.02.18 18:27"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381387",
+    "title": "와 왠일로 공지를 올리긴 했어",
+    "date": "2026.02.18 18:08",
+    "comment_count": 1,
+    "view_count": 195,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381387",
+    "content": "와 고맙다 그래도 공지를 올려주는구나\n그래 우리 같이 하나씩 하나씩 혁명적으로 잘해보자",
+    "comments": [
+      {
+        "text": "혁명 좋다!! 개추 !! 곧 1주년인데 검술노기 시원하게 너프 맞아야지 ~",
+        "date": "2026.02.18 18:14"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381385",
+    "title": "그래 야 이거라도 올려라",
+    "date": "2026.02.18 18:07",
+    "comment_count": 0,
+    "view_count": 105,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381385",
+    "content": "어차피 이제 특정 이벤트 끝날땐 까지 업데이트 없는걸 대충 알았으니\n업데이트 없는 날엔 없다는 공지라도 올리는게 낫지 ㅡㅡ\n점검 예정일도 알려주니 그나마 유저들이 '아 이땐 하네'라고 그냥 현생 살지",
+    "comments": []
+  },
+  {
+    "thread_id": "3381376",
+    "title": "직 변 권 내 놔 라 고",
+    "date": "2026.02.18 17:58",
+    "comment_count": 0,
+    "view_count": 44,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381376",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3381318",
+    "title": "[데이안] Glam. 길원 모집합니다",
+    "date": "2026.02.18 16:16",
+    "comment_count": 0,
+    "view_count": 23,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381318",
+    "content": "🌟 GLAM 길드원 모집 🌟\n함께 웃고, 함께 성장할\n💎 당신을 기다립니다 💎\n━━━━━━━━━━━━━━━\n⚔ 친목 + 레이드 + 성장형 길드\n🧭 뉴비 · 복귀 · 고인물\n━━━━━━━━━━━━━━━\n✔ 매너 필수\n✔ 단톡방(필수)\n━━━━━━━━━━━━━━━\n문의귓~\n뭉치.래래이.김포이.성수동마법사.슥삭쇽\n위에 분들에게 가입문의 귓 주세요~~~~\n👉 지금 바로 GLAM 으로! “길드는 사람이다” 💎",
+    "comments": []
+  },
+  {
+    "thread_id": "3381295",
+    "title": "여기 게임사 대표 게이임? 왜 이런거 냅두냐",
+    "date": "2026.02.18 15:35",
+    "comment_count": 0,
+    "view_count": 432,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381295",
+    "content": "치마는 공구리치면서\n왜 이런건 냅둠?\n???",
+    "comments": []
+  },
+  {
+    "thread_id": "3381275",
+    "title": "초월 방어구 인챈트 초기화",
+    "date": "2026.02.18 15:07",
+    "comment_count": 1,
+    "view_count": 286,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381275",
+    "content": "방어구에 초월 각인 ++ 하면\n초월한 방어구\n그 외 착용 중인 방어구 (신화 제외)\n모두 인챈트가 '백장미'로 변경되는 버그 있는데요\n오류 제보해도 아무 답도 없고\n확인 중인 현상에도 안 올라오고\n나 말고 동일한 증상 겪는다는 사람도 있는데\n이런 버그는 뭘 어떻게 해야합니까\n덩굴 인챈트는 구하기도 쉽지 않은데\n구해서 알아서 발라야하나요?\n버그 픽스 해주면 알아서 바른 것도 의미 없을 거 같은데",
+    "comments": [
+      {
+        "text": "덩굴 올빼미 다 발라서 팔면서 지내고 있었는데 갑자기 다 백장미가 되어버림",
+        "date": "2026.02.18 15:07"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381264",
+    "title": "오늘 댄서 정상화 하는날이지?",
+    "date": "2026.02.18 14:54",
+    "comment_count": 0,
+    "view_count": 88,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381264",
+    "content": "정성화 해주면 댄서들 다시 조용해질거다",
+    "comments": []
+  },
+  {
+    "thread_id": "3381255",
+    "title": "던바튼 광장 보름달은 언제까지인거죠?",
+    "date": "2026.02.18 14:46",
+    "comment_count": 0,
+    "view_count": 52,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381255",
+    "content": "저번에 산리오 콜라보때는 언제 사라진다고 이벤트란에 따로 써있었는데...\n이번에는 보름달이 언제까지인지 안써있어서요\n공지,업뎃,이벤트에도 안보이는데..\n설날 온타임기간으로 봐야할지, 새해 시작은 에린에서! , 포토부스랑 기간 같이 봐야할지 모르겠어요\n그냥 설날 연휴인 오늘까지로 봐야할까요? 저번에 추석땐 어땠는지...\n다음 업뎃전까지인가...",
+    "comments": []
+  },
+  {
+    "thread_id": "3381225",
+    "title": "세모리씨와 한컷",
+    "date": "2026.02.18 14:04",
+    "comment_count": 0,
+    "view_count": 73,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381225",
+    "content": "혼자 사진 찍다가 우연히 퀘스트 깨러온 세모리씨 섭외해서 찍어봤어요\n세모리씨 고마워요-!",
+    "comments": []
+  },
+  {
+    "thread_id": "3381206",
+    "title": "오늘 공지 올라옴?",
+    "date": "2026.02.18 13:28",
+    "comment_count": 1,
+    "view_count": 319,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381206",
+    "content": "빨간날이라 애내 무적인가",
+    "comments": [
+      {
+        "text": "저저번주에 공지조차도 안 올렸는데 설연휴에 일을 한다구요? 일 안 하고 싶어서 저번주에 점검을 4번?인가 한 거 같은데요",
+        "date": "2026.02.18 14:24"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381196",
+    "title": "로나 말걸기 삭제해주셈...",
+    "date": "2026.02.18 13:08",
+    "comment_count": 1,
+    "view_count": 132,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381196",
+    "content": "몰리 때도 방해된다고 원성 자자하지 않았음?\n한 번 수정한 뒤에 캐릭터만 바꿔서 똑같은 시스템을 다시 들여오는 이유가 뭐임?\n심지어 몰리랑 다르게 스킵해도 한 번 더 눌러야 대화가 끝나는 구조라 더 번거로움.......\n본가했던 유저라 로나 꽤 좋아하는 편인데\n필보 시간 얼마 안남아서 뛰어가야 하는데 방해할 때마다 짜증 확 남",
+    "comments": [
+      {
+        "text": "데브켓이여서 그럼",
+        "date": "2026.02.18 17:22"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381191",
+    "title": "[데이안]⭐️LV.5 길드 \"에피소드\"에서 신입길드원을 모집합니다!⭐️(26/32)",
+    "date": "2026.02.18 13:00",
+    "comment_count": 0,
+    "view_count": 16,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381191",
+    "content": "\"에피소드\"길드에서 신입 밀레시안님을 모집합니다!(26/32)\n﻿\n⭐️\n길드 소개\n⭐️\n*데이안 5렙 길드 에피소드 입니다 !\n자유로운 분위기 친근한 길드를 지향하고 있습니다.\n*참고 - 길드함선은 아직 2단계중입니다.\n*월요일 오후 9시에 다같이 모여서 레이드 및 어비스 숙제를 합니다\n(부캐가 많은 분들이 있어서 월요일이 메인이고 주중에 파티모아서 출발합니다)\n⭐️\n모집조건\n⭐️\n*직업 및 전투력 제한 없음\n*이유없이 2주 미접은 통보 후 탈퇴\n*출석체크 길드발전을 생각해서 부탁드립니다 ㅠㅠ\n*디코 참여는 자유(듣코가능, TTS있어서 채팅으로 대화참여 가능)\n오픈 카톡은 참여 필수(레이드나 어비스 출발 공지를 하기 때문입니다)\n*대화나 행동에 매너 필수! 반말X, 욕설X\n*신규 및 복귀 유저 환영\n*커플 부부 환영 단체 가입도 가능합니다.\n⭐️\n가입문의\n⭐️\nhttps://open.kakao.com/o/gXv9JDrh",
+    "comments": []
+  },
+  {
+    "thread_id": "3381153",
+    "title": "사진찍어본거",
+    "date": "2026.02.18 11:53",
+    "comment_count": 0,
+    "view_count": 107,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381153",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3381149",
+    "title": "15 참 쉽죠",
+    "date": "2026.02.18 11:44",
+    "comment_count": 2,
+    "view_count": 369,
+    "like_count": 4,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381149",
+    "content": "이래도  깨주자나\n투력 안맞차도 깨주자나\n기믹 몰라도깨주자나\n밥 안가져 와도 깨주자나\n양심 없어도 깨주자나\n눕방 해도 깨주자나\n어차피 한번만 보고 끝인데\n매너 게나 줘라\n이모든걸 가능하게 해주는건\n죄송합니다  ㅡ 한마디만 하면 됨",
+    "comments": [
+      {
+        "text": "과금 ㅡ 버스기사(호9)\n무과금ㅡ버스승객(편안)\n길드 ㅡ 버스정류장",
+        "date": "2026.02.18 11:45"
+      },
+      {
+        "text": "이넘  라사 서버의 화염술사 도리아빠였나..",
+        "date": "2026.02.18 18:45"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381137",
+    "title": "나는 호9다 아니다",
+    "date": "2026.02.18 11:27",
+    "comment_count": 1,
+    "view_count": 156,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381137",
+    "content": "펫전설5개\n전설의상2세트\nㅎ9다 vs 아니다",
+    "comments": [
+      {
+        "text": "호9 어서오고~\n이렇게 물어보는 것 자체가 이미 본인이 호9라는걸 알고 있다는거 아님?ㅋ",
+        "date": "2026.02.18 18:27"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381136",
+    "title": "신화펫좀 만들어주세요.",
+    "date": "2026.02.18 11:26",
+    "comment_count": 2,
+    "view_count": 222,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381136",
+    "content": "옵션좀 4개이상 쓰고싶어요..\n언제까지 전설펫 쓰나요?",
+    "comments": [
+      {
+        "text": "나도 전설은 있지만 전설 없는 사람이 훨씬 많음 님같은 사람들때매 유저들이 상대적 박탈감에 ㅈㅈ치는거임 이미 현재 진행형이고",
+        "date": "2026.02.18 13:18"
+      },
+      {
+        "text": "이런 사람들땜에 유저줄고 게임 망하는듯.\n올라운더 만들어달라고 프라임으로 건의한 그 사람인가? 유저 다 빠지는거 안보이냐",
+        "date": "2026.02.18 19:11"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381113",
+    "title": "서버이전 출시기원 2026.2.18.",
+    "date": "2026.02.18 10:55",
+    "comment_count": 0,
+    "view_count": 54,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381113",
+    "content": "진짜 서버이전만 기다리는 중\n제발 빨리 공개해주세요",
+    "comments": []
+  },
+  {
+    "thread_id": "3381110",
+    "title": "이제 2월 업데이트 다했으니 3월 중순까진 없데이트다.",
+    "date": "2026.02.18 10:47",
+    "comment_count": 0,
+    "view_count": 82,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381110",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3381098",
+    "title": "어부퀘)엄천난낚시의비법!+138",
+    "date": "2026.02.18 10:29",
+    "comment_count": 0,
+    "view_count": 204,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381098",
+    "content": "참고)낚시 26렙 총경험치는 19880",
+    "comments": []
+  },
+  {
+    "thread_id": "3381095",
+    "title": "닉네임 변경 관련 잘 아시는분",
+    "date": "2026.02.18 10:25",
+    "comment_count": 4,
+    "view_count": 150,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381095",
+    "content": "닉네임 예전에 만들어놨던\n마음에 든 닉 있는데\n그거 변경하고 본계로 변경 할려고 했는데\n안되네\n복귀유저인데",
+    "comments": [
+      {
+        "text": "이게 이미 사용된 아이디는 안되더라고요",
+        "date": "2026.02.18 10:28"
+      },
+      {
+        "text": "이게 며칠 걸리는건가요? 아니면 영구인가요",
+        "date": "2026.02.18 10:33"
+      },
+      {
+        "text": "영구입니다",
+        "date": "2026.02.18 11:09"
+      },
+      {
+        "text": "제가알기로 일주일입니다\n일주일후해보세요",
+        "date": "2026.02.18 15:54"
+      }
+    ]
+  },
+  {
+    "thread_id": "3381080",
+    "title": "왜 900했다가",
+    "date": "2026.02.18 09:31",
+    "comment_count": 0,
+    "view_count": 163,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381080",
+    "content": "다시 600으로 되돌아 온거죠 일부러 저러는거죠\n공간 많이 써봤르니 다시 돈써서 공간 늘리라고\n얘내들 왜 이런거죠\n지네들 월급도 보여줄때 500이상이였다가\n실제로 받을땐 200이면 기분 좋을라나",
+    "comments": []
+  },
+  {
+    "thread_id": "3381073",
+    "title": "신규이벤트 참여하고 보상받아가세용! 참여방법 게시글참고!",
+    "date": "2026.02.18 09:03",
+    "comment_count": 0,
+    "view_count": 65,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3381073",
+    "content": "[이벤트참가방법] [친구창]-> [상단배너 클릭 ]친구초대 이벤트 들어가서 NRPB47UE 입력하면\n[맴버 쉽 ,스타프리즘, 은동전상자,공물  패션티켓] 받으실 수 있어요",
+    "comments": []
+  },
+  {
     "thread_id": "3381004",
     "title": "타바르타스 매우 어려움 반복 보상ㅋㅋㅋ 신박하내요 ㅋㅋ",
     "date": "2026.02.18 02:39",
