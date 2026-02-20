@@ -1,5 +1,125 @@
 [
   {
+    "thread_id": "3382630",
+    "title": "제육",
+    "date": "2026.02.20 06:30",
+    "comment_count": 0,
+    "view_count": 30,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382630",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3382629",
+    "title": "서버이전 출시기원 2026.2.20.",
+    "date": "2026.02.20 06:27",
+    "comment_count": 0,
+    "view_count": 25,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382629",
+    "content": "이제는 나올 때가 되었습니다",
+    "comments": []
+  },
+  {
+    "thread_id": "3382628",
+    "title": "격투가 버스트펀치 3격은 언제 수정 되는 걸까요?",
+    "date": "2026.02.20 06:26",
+    "comment_count": 0,
+    "view_count": 39,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382628",
+    "content": "시전 중에 타깃이 죽으면 주위에 딜이 안 들어가는게 출시 때 부터 그랬지 않나요?\n1스킬 차징 피스트 차징 중에 몹이 죽으면 연속기 스킬 쓸 수 없는 것도 여전하구요",
+    "comments": []
+  },
+  {
+    "thread_id": "3382607",
+    "title": "그것은 애증입니까, 재미입니까, 아니면 그저 관성적인 추억입니까?",
+    "date": "2026.02.20 04:19",
+    "comment_count": 0,
+    "view_count": 80,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382607",
+    "content": "솔찍히 물린 잡주같다.\n오르길 기대하는것처럼 말이다 이 모비노기 MAU가 잡주 홀드 하는것처럼 느껴진다.\n그래서 재미있다.\n모비노기 도파민 덩어리다 망해도 재밌고 올라도 재미있다.\n요즘 모비노기 추억은 매일 숙제하고 개같은 채애애애애애애집과 개같은 생화아아아아알 밖에 없다 예전엔 길드도 활봘했다.\n요즘은 2주간격으로 접하는 길드원도있고 다른 게임에 눈돌리고 간간히 숙제만하는 하는 친한 길드원도 있다 솔찍히 접지 않아서 감사하다.\n우리 활발했던 길드의 채팅의 빈도는 예전에 10이라면 요즘은 2정도다. 길드 인원이 만석인데도 말이다.\n그렇다 우린 지쳤다..",
+    "comments": []
+  },
+  {
+    "thread_id": "3382593",
+    "title": "듀블 댄서 단톡방에서 글좀 쓰라고 계속시키네ㅋㅋ",
+    "date": "2026.02.20 02:37",
+    "comment_count": 0,
+    "view_count": 57,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382593",
+    "content": "ㅋㅋㅋㅋ 이래야 바꿔준다고 글쓰라고 꼬시네",
+    "comments": []
+  },
+  {
+    "thread_id": "3382576",
+    "title": "[모비구인] 마비노기 모바일 어비스 구인구직 디코방",
+    "date": "2026.02.20 01:45",
+    "comment_count": 0,
+    "view_count": 38,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382576",
+    "content": "https://discord.gg/2n7Be9XbmC\n서버 무관 플래이 가능하니 ... 같이 디코하면서 서버랑 상관없이 기갱/ 탐택 해요 !!",
+    "comments": []
+  },
+  {
+    "thread_id": "3382562",
+    "title": "검은구멍 낚시터 만든색 봐라",
+    "date": "2026.02.20 01:12",
+    "comment_count": 0,
+    "view_count": 113,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382562",
+    "content": "돌았냐 최소한 시간안에 검은물고기 나오겐 해줘야 하는게 맞지않냐 안정화도 못하고 울면서 사냥터복귀했다 너는 게임 더 만들지마라.",
+    "comments": []
+  },
+  {
+    "thread_id": "3382534",
+    "title": "룬추가나좀 해라",
+    "date": "2026.02.20 00:24",
+    "comment_count": 1,
+    "view_count": 107,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382534",
+    "content": "룬다모으고나서 합성도 안하니까 쌓인 룬이랑 다이스만 수백개다\n숙제만 대충돌리고 끄고 이러다 겜접겠다 ㅡㅡ\n시즌다끝날때 또 추가할려고?",
+    "comments": [
+      {
+        "text": "시즌2 되면 쓰레기룬 될건데 추가하면 뭐하나요. 원형룬을 이미 보셨잖아요\n시즌2 대비해서 촉매 모으시고 합성해서 에픽이나 전설룬 모아서 시즌2 때 합성할룬 준비하시던지\n아님 전부 갈갈해서 룬파편 만드시던지 택1 하시면 될듯 참고로 합성해서 실패한 룬도 룬파편을 줍니다.\n어떤 방법이 룬파편을 많이주고 에픽 전설룬을 얼마나 보존 할 수 있는지는 계산 해봐야 알겠지만요",
+        "date": "2026.02.20 08:12"
+      }
+    ]
+  },
+  {
+    "thread_id": "3382533",
+    "title": "새해 복 많이 받으세요!",
+    "date": "2026.02.20 00:24",
+    "comment_count": 0,
+    "view_count": 15,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382533",
+    "content": "심층 끝나고 몰리 말 거는 것 좀 없애달라니\n로나를 추가하고 자빠졌네\n왜 그러니 진짜 생각 좀 하고 살자 부탁이야",
+    "comments": []
+  },
+  {
+    "thread_id": "3382520",
+    "title": "댄서 롤백해주세요",
+    "date": "2026.02.20 00:13",
+    "comment_count": 1,
+    "view_count": 37,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382520",
+    "content": "폭딜메타에서 어비스는 쳐다도 안보고 8인레이드 만 바라보며 관짝에 누워 숨만 헐떡이고 있는 직업인데\n발자르고 관짝 뚜껑덮고서는\n없데이트로 부관참시까지 하나요....\n너무하네요 진짜",
+    "comments": [
+      {
+        "text": "댄서 원래 스킬로 돌려놔라!!",
+        "date": "2026.02.20 00:21"
+      }
+    ]
+  },
+  {
     "thread_id": "3382349",
     "title": "드래곤소드 런칭 1달만에 섭종 트리 탔다. 퍼블리싱도 해지하고 런칭부터 지금까지 전액환불",
     "date": "2026.02.19 20:56",
@@ -429,6 +549,39 @@
     "like_count": 0,
     "url": "https://mabinogimobile.nexon.com/Community/Free/3381652",
     "content": "진짜 얘네 머리에는 뭐가 들었는지 전혀 모르겠어 ㅋㅋㅋㅋㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3382446",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!",
+    "date": "2026.02.19 00:00",
+    "comment_count": 0,
+    "view_count": 38,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382446",
+    "content": "●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n●▅▇█▇▆▆▅▄▇ 댄서 전환 룬 롤백해라!!\n댄서 그냥 건들지 말어 인구수도 없고 자기 만족에 하는 직업 왜 건들어 그리고 건들렸으면 왜 건들렸는지 코멘트 안하냐? 하기로하지 않았어?\n라이브에서 하는 말은 그냥  어디다 갔다 버렸냐?",
+    "comments": []
+  },
+  {
+    "thread_id": "3382433",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 롤백해라",
+    "date": "2026.02.19 00:00",
+    "comment_count": 0,
+    "view_count": 16,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382433",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3382368",
+    "title": "대상도 받고 본전도 뽑았고 추가로 벌만큼 벌었고",
+    "date": "2026.02.19 00:00",
+    "comment_count": 0,
+    "view_count": 138,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382368",
+    "content": "이제 슬슬 섭종 각재는거같네\n진짜 재미없다 게임이.",
     "comments": []
   },
   {
