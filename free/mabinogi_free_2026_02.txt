@@ -1,5 +1,192 @@
 [
   {
+    "thread_id": "3383154",
+    "title": "버그리폿 쓰면 확인은 하냐?",
+    "date": "2026.02.20 18:30",
+    "comment_count": 0,
+    "view_count": 66,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383154",
+    "content": "백장미 버그 관련 리폿은 답도없고 끝까지 확인중인 현상에 넣어놓지도 않네 ㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3383150",
+    "title": "환불사태 될만한거 뭐 없나~",
+    "date": "2026.02.20 18:26",
+    "comment_count": 0,
+    "view_count": 68,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383150",
+    "content": "걸리기만해~ ㅋㅋ  적금해지야",
+    "comments": []
+  },
+  {
+    "thread_id": "3383074",
+    "title": "회랑 안 고치냐?",
+    "date": "2026.02.20 16:49",
+    "comment_count": 1,
+    "view_count": 197,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383074",
+    "content": "자꾸 음표 가린다고 이노마야",
+    "comments": [
+      {
+        "text": "저거 음표가 몹으로 인식해서 그래요\n음표 제거하면 몹 잡은걸로 인식해요",
+        "date": "2026.02.20 17:45"
+      }
+    ]
+  },
+  {
+    "thread_id": "3383048",
+    "title": "홈페이지 프로필 이미지, 배경이 흰색이면 업로드가 안됩니다.",
+    "date": "2026.02.20 16:24",
+    "comment_count": 0,
+    "view_count": 37,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383048",
+    "content": "제가 이상한 건지 얘가 이상한 건지\n아무리 해도 흰 배경의 이미지는 업로드가 안되네요.\n흰 배경 이미지 업로드 시도하면, 뜬금없이 프로필명은 한글, 숫자, 영어로 만 입력 가능하다? 라는 오류 창이 한참 있다가 뜹니다.\n흰 배경을 검정으로 바꾸면 아무 이상 없이 업로드 되고요.",
+    "comments": []
+  },
+  {
+    "thread_id": "3383025",
+    "title": "창고에 무게 없앤다면?",
+    "date": "2026.02.20 15:47",
+    "comment_count": 1,
+    "view_count": 201,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383025",
+    "content": "가방도 아니고.. 창고가 무게가 왜 있는겨... 들고다닐겨?\n그것도 캐릭터 가방보다 무게도 적게나감...",
+    "comments": [
+      {
+        "text": "그니까 생각머리가 없는거지 ㅋ",
+        "date": "2026.02.20 16:42"
+      }
+    ]
+  },
+  {
+    "thread_id": "3383016",
+    "title": "지피티가 오늘은 뭔가 제대로 일했구나 ㅠ",
+    "date": "2026.02.20 15:37",
+    "comment_count": 1,
+    "view_count": 265,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383016",
+    "content": "참고로 본캐만 이 이미지의 룩인 1차 에픽 글가셋 보유중입니다. 밑에 리화는 나중에 복각할때 대비해서 부캐에 입힐 컬러로 뽑은거에요!\n마지막에 이건 오늘 새로 들어간 길드분이 제가 올린 이미지 보시고 뽑아주신거!\n지피티 그림이라 많이 티가 나지만... 어쩌겠어요 이쁜걸?",
+    "comments": [
+      {
+        "text": "내 케릭은 이렇게 그려주던데",
+        "date": "2026.02.20 19:37"
+      }
+    ]
+  },
+  {
+    "thread_id": "3383012",
+    "title": "타겟팅",
+    "date": "2026.02.20 15:34",
+    "comment_count": 0,
+    "view_count": 56,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383012",
+    "content": "타겟팅 왜이럼?\n기술력 부족?\n알바천국 일일 알바가 만듬?\n지맘대로임",
+    "comments": []
+  },
+  {
+    "thread_id": "3382967",
+    "title": "아니 개편하고나면 심층돌면 뭐 초월각인재룐지뭔지 준다안했냐?",
+    "date": "2026.02.20 14:47",
+    "comment_count": 4,
+    "view_count": 303,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382967",
+    "content": "무슨 공물 한 50개빼는동안 단하나를못봐\n이딴 확률이면 이게 안주는거지 주는거냐???????????????????\n생각이라는걸 하고 좀 일을하자 제발\n유저들이 전부뭐 도파민에 미친 이리떼로 보이냐??\n이딴식로 할거면 그냥 안줘도돼. 괜히 준다고해서 기대나 시키지마라 사람 짜증나게 하고있어 정말",
+    "comments": [
+      {
+        "text": "난 본캐 부캐 다해서 3개 주던데",
+        "date": "2026.02.20 15:17"
+      },
+      {
+        "text": "난 잘나오던데...",
+        "date": "2026.02.20 17:44"
+      },
+      {
+        "text": "1차 초월은 그만 줬으면 좋곗음 본캐 부캐\n6캐릭 싹다 1차는 다했고\n2차는 본캐는 다했고 부캐 3번째거 해주고 있는데\n1차 3개 모아서 2차로 업글 시켜줘 ㅠㅠ",
+        "date": "2026.02.20 17:46"
+      },
+      {
+        "text": "준다고 했지 잘준다고는 안했음...그놈의확률",
+        "date": "2026.02.20 20:44"
+      }
+    ]
+  },
+  {
+    "thread_id": "3382936",
+    "title": "몰리는 적어도 말걸면서 뭐라도 줬지 얜 도대체 뭐야",
+    "date": "2026.02.20 14:05",
+    "comment_count": 3,
+    "view_count": 239,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382936",
+    "content": "왜 자꾸 저절로 말걸고 시간아깝게 날 농락하는거냐",
+    "comments": [
+      {
+        "text": "나도 이거때매 열받아서 이글 쓰려고 들어왔는데 딱 바로있넼ㅋㅋㅋㅋㅋㅋ이 **도 뭐 주긴함ㅋㅋㅋ대체 귀찮게 말 쳐 거는건 왜넣는거지 자꾸?? 강제로 플레이타임 늘리려는건가",
+        "date": "2026.02.20 14:38"
+      },
+      {
+        "text": "로나도 뭐주긴함.. 몰리나 로나나 둘다 똑같은넘이다..",
+        "date": "2026.02.20 15:48"
+      },
+      {
+        "text": "로나 도 줌 ㅋㅋ  너님들 눈깔이가 사시라 안보이는듯",
+        "date": "2026.02.20 17:47"
+      }
+    ]
+  },
+  {
+    "thread_id": "3382917",
+    "title": "●▅▇█▇▆▆▅▄▇ 댄서 롤백해라",
+    "date": "2026.02.20 13:36",
+    "comment_count": 0,
+    "view_count": 36,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382917",
+    "content": "뭘 해야할지 모르겠으면 가만 냅둬",
+    "comments": []
+  },
+  {
+    "thread_id": "3382916",
+    "title": "과금금지",
+    "date": "2026.02.20 13:35",
+    "comment_count": 1,
+    "view_count": 229,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382916",
+    "content": "상품을 구매했으면 서비스가 있어야 할 꺼 아니야\n도그같은. 데브캣\n과금을 해도 무과금을 만들어 버리네, 강화나 승급 뭣같이 만들어서 불쾌하게 만드는게 너네들 서비스냐",
+    "comments": [
+      {
+        "text": "서비스 장애가 있으면 장애 시간만큼 서비스 시간을 두 배 보상해야지 주나 마나한 쓰레기나 우편함에 쳐 넣으면서\n장애 보상이라고 주고 있으니 이거야 말로 게대지 아니겠습니까  하하하",
+        "date": "2026.02.20 14:42"
+      }
+    ]
+  },
+  {
+    "thread_id": "3382837",
+    "title": "일개 npc 2명 따리가 양 방향에서 거슬리게...",
+    "date": "2026.02.20 12:23",
+    "comment_count": 1,
+    "view_count": 176,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3382837",
+    "content": "몰리.로나 애들 본가에서 뭐 좀 되는 애들 임 ???\nNpc 따리가 매일 매일 이렇게 지극 정성으로 말 거는 게임 처음 봐 ;;;\nㅇㄴ 보상을 두둑ㅎ 뭐라도 던져 주면 당연히 불만은 없지...근데 뭐 길 바닥에서 주워 온 것만 주고있어\n내 옛 절친 동건이 진훈이의 취향이 가득 담 긴 npc 애들이라 이런가 ???\n어우...니네 집에서만 만나 그냥...",
+    "comments": [
+      {
+        "text": "우리는 벌을 받고 있는 거에요.    감히 dog pig들이 갓겜을 만드는 분들에게 이래라 저래라 했으니 ..",
+        "date": "2026.02.20 14:40"
+      }
+    ]
+  },
+  {
     "thread_id": "3382630",
     "title": "제육",
     "date": "2026.02.20 06:30",
