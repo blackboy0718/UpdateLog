@@ -1,5 +1,180 @@
 [
   {
+    "thread_id": "3384043",
+    "title": "로나가 주는선물",
+    "date": "2026.02.21 20:15",
+    "comment_count": 0,
+    "view_count": 23,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3384043",
+    "content": "로나가 주는거 보석?룬파?데카?좋은데\n그놈에 변신물약은 악성 재고 처리하는 느낌이야...원하지 않아 보상 목록에 그거 쫌 빼주라...",
+    "comments": []
+  },
+  {
+    "thread_id": "3384035",
+    "title": "2026-02-21",
+    "date": "2026.02.21 20:03",
+    "comment_count": 1,
+    "view_count": 16,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3384035",
+    "content": null,
+    "comments": [
+      {
+        "text": "2026-02-21",
+        "date": "2026.02.21 20:03"
+      }
+    ]
+  },
+  {
+    "thread_id": "3384031",
+    "title": "이젠 자유게시판 적는 사람도 줄었네 ㅋㅋㅋ",
+    "date": "2026.02.21 20:00",
+    "comment_count": 0,
+    "view_count": 24,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3384031",
+    "content": "현질 안하고는 성장할 건덕지가 없다. 이게 데브켓의 방향성이니 알아서 잘 판단겜 ㄱㄱ",
+    "comments": []
+  },
+  {
+    "thread_id": "3384019",
+    "title": "신규이벤트참여하고 보상받아가세요 [게시물참고]",
+    "date": "2026.02.21 19:47",
+    "comment_count": 0,
+    "view_count": 19,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3384019",
+    "content": "[이벤트참가방법] [친구창]-> [상단배너 클릭 ]친구초대 이벤트 들어가서 T6GG7LFR 입력하면\n[맴버 쉽 ,스타프리즘, 은동전상자,공물  패션티켓] 받으실 수 있어요",
+    "comments": []
+  },
+  {
+    "thread_id": "3384001",
+    "title": "댄서 전환룬 롤백해라!!!",
+    "date": "2026.02.21 19:30",
+    "comment_count": 0,
+    "view_count": 10,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3384001",
+    "content": "댄서 전환룬 롤백해주세요~!!\n오히려 폐기장에서 더 불편해졌어요;;\n그나마 많이 밟았던 장판 뱅글뱅글 돌면서 피할수라도있었는데..\n이제는 대놓고 계속 맞고있어야합니다 이게 맞나요?...\n이동기가 주력기인 댄서한테 이동기를 뺏다니요;; 이뭔...",
+    "comments": []
+  },
+  {
+    "thread_id": "3383890",
+    "title": "[모비구인] 마비노기 모바일 어비스 구인구직 디코방",
+    "date": "2026.02.21 16:53",
+    "comment_count": 0,
+    "view_count": 42,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383890",
+    "content": "https://discord.gg/2n7Be9XbmC\n서버 무관 플래이 가능하니 ... 같이 디코하면서 서버랑 상관없이 기갱/ 탐택 해요 !!",
+    "comments": []
+  },
+  {
+    "thread_id": "3383866",
+    "title": "다양한 직업을 키울 수 있게 캐릭터 추가권이라도 내줬으면 합니다.",
+    "date": "2026.02.21 16:20",
+    "comment_count": 2,
+    "view_count": 141,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383866",
+    "content": "신규직업 주기가 작년보다 길어져서 다양한 직업을 키우지 못하고 있습니다.\n다양하게 키워보고 싶은데 캐릭터 생성권이라도 좀 제공해주시면 감사드리겠습니다.\n전격술사도 키워보고 싶고 격투가도 해보고 싶어요.\n현재 다 만렙에 퀘스트도 거의다 밀어놨습니다.\n새롭게 또 키우고 싶어요 캐릭터생성권을 지급해주십시요!",
+    "comments": [
+      {
+        "text": "그냥 부클 키우면 되는거 아님? 전격이나 격가 둘 다 저점 처참해서  돈 안 쓰면 1인분도 안되는 직업들인데 그냥 부클로 돈 쓰고 무기 강화하고 보석 맞추면 되는거 아님?",
+        "date": "2026.02.21 17:46"
+      },
+      {
+        "text": "저처럼 모든 캐릭이 부직업 가시면 되는데..\n지금 6캐릭 12직업 최소 5.9 넘슴다",
+        "date": "2026.02.21 18:36"
+      }
+    ]
+  },
+  {
+    "thread_id": "3383865",
+    "title": "신규이벤트 참여하고 보상받아가세요 게시글 참고",
+    "date": "2026.02.21 16:19",
+    "comment_count": 0,
+    "view_count": 65,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383865",
+    "content": "[이벤트참가방법] [친구창]-> [상단배너 클릭 ]친구초대 이벤트 들어가서 NRPB47UE 입력하면\n[맴버 쉽 ,스타프리즘, 은동전상자,공물  패션티켓] 받으실 수 있어요",
+    "comments": []
+  },
+  {
+    "thread_id": "3383794",
+    "title": "서버이전 출시기원 2026.2.21.",
+    "date": "2026.02.21 14:27",
+    "comment_count": 0,
+    "view_count": 47,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383794",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3383698",
+    "title": "로나 버그",
+    "date": "2026.02.21 11:53",
+    "comment_count": 1,
+    "view_count": 173,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383698",
+    "content": "조건 달성 후 NPC 미출현 - 던바튼에서 보상 수령 가능\n조건 달성 후 NPC 출현 후 지나침 - 보상 수령 불가\n수정이 필요합니다",
+    "comments": [
+      {
+        "text": "그럼 첫 던전 클리어는 일일던전으로 시작하면\n지나칠수 있는거군요",
+        "date": "2026.02.21 13:24"
+      }
+    ]
+  },
+  {
+    "thread_id": "3383691",
+    "title": "무과금 6.0 아무나 하는 거 아니다",
+    "date": "2026.02.21 11:45",
+    "comment_count": 3,
+    "view_count": 443,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383691",
+    "content": "현재 6.0은 진짜 6.0이 아니다\n팔라딘 아티팩트로 뻥투가 되어있다\n최소 6.2는 되어야 진짜 6.0이라고 할 수 있는 것이다\n과금으로 6.2안되는 사람은\n솔직히 게임소질이 없는 거고;;;",
+    "comments": [
+      {
+        "text": "과금을 덜 한거지",
+        "date": "2026.02.21 11:47"
+      },
+      {
+        "text": "100원 안 쓰고도 현시점 6.3 6.4도 가능한 게 이 게임인데 과금하고도 6.0안되면;;",
+        "date": "2026.02.21 11:51"
+      },
+      {
+        "text": "말에 오류가 있어요\n일년내내 하루에 한번씩 꼭 게임 하는건 아니잖아요",
+        "date": "2026.02.21 11:58"
+      }
+    ]
+  },
+  {
+    "thread_id": "3383651",
+    "title": "아 데브캣 늬들 뭐또 건들었냐? 우리모르게",
+    "date": "2026.02.21 10:29",
+    "comment_count": 0,
+    "view_count": 246,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383651",
+    "content": "왜 어제보다 데미지가 반토막났냐? 같은 조건인데....\n이제 하다하다 아예 모르게 하네",
+    "comments": []
+  },
+  {
+    "thread_id": "3383609",
+    "title": "로나 보이면 내비 광클해서 ㅌㅌ 하는거 저만그런거아니죠?",
+    "date": "2026.02.21 09:27",
+    "comment_count": 0,
+    "view_count": 86,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3383609",
+    "content": "몰리는 진짜 빠르게 말걸어서 피할수가 없었는데, 로나는 걸어오는게 보이는 그 시점에 튈수있음.\n물론 언젠가는 반드시 만나게 되어있는데. 던전이든 사냥터든 나왔는데 하늘색 긴머리가 보이면 너무너무 도망가고싶음. 그 순간만이라도 모면하고 싶어서 내비 광클......\n더 끔찍한건 부캐 새로키우면 몰리 마주치고 로나까지 마주쳐야한다는것....괴롭다.....................\n백만골드를 준대도 싫으니까 나오지마 제발. .게임에서도 이런데 현실 스토킹은 진짜 얼마나 무서울까....",
+    "comments": []
+  },
+  {
     "thread_id": "3383549",
     "title": "데이안 숙제길드 찾습니다",
     "date": "2026.02.21 05:50",
