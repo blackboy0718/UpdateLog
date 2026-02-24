@@ -1,5 +1,108 @@
 [
   {
+    "thread_id": "3385999",
+    "title": "그만좀 나와",
+    "date": "2026.02.24 07:46",
+    "comment_count": 0,
+    "view_count": 50,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385999",
+    "content": "몰리다음 로나냐 그만좀 쳐나와 이딴것좀 만들지마",
+    "comments": []
+  },
+  {
+    "thread_id": "3385996",
+    "title": "무과금 유저임",
+    "date": "2026.02.24 07:41",
+    "comment_count": 0,
+    "view_count": 49,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385996",
+    "content": "무과금\n패스권 사본적도 없고\n보라색 테두리\n증폭작 및 룬워드 피통.체력  위주\n영원의 정복자 피통 750\n뻥투력 6만인데\n지옥 15가도 되나요?\n월드챗팅 6만클럽 ㅊㅋ도 받았습니다",
+    "comments": []
+  },
+  {
+    "thread_id": "3385991",
+    "title": "로나 뺨 때리는 유료템 팔면 좀 팔릴거 같음.",
+    "date": "2026.02.24 07:03",
+    "comment_count": 0,
+    "view_count": 21,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385991",
+    "content": "퀘도 안 주고 아이테도 안 주고 하는 거라곤 유저 납치해서 '레벨업 경쟁' 라자는 반복 대사 뿐.\n진훈아.. 참 좋겠다.  이 따위로 일 하고 돈도 벌고.",
+    "comments": []
+  },
+  {
+    "thread_id": "3385988",
+    "title": "(데이안)길드가.. 없다..!",
+    "date": "2026.02.24 06:49",
+    "comment_count": 0,
+    "view_count": 32,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385988",
+    "content": "오픈 1주일 후부터 시작해서 야금야금 해왔는데 (그래서 사실 투력은 간신히 6만 클럽)\n아직도.. 길드가.. 없다..!\n친구 따라 한 번, 게시판 보고 한 번 가입해봤는데, 가입하나 혼자 하나 똑같아서 결국 나왔다고 한다..\n사실 너무 노터치인 건 싫고, 오픈 톡 자유에 날 잡아 길드 활동 하고, 디코는 있는데 자율이지만 참여도는 있는\n그리고 말은 해도 되고 안 해도 되는 그런 환상적인 길드가 없을까?? 하고 오늘도 길드 게시판을 훔쳐 본다..!",
+    "comments": []
+  },
+  {
+    "thread_id": "3385979",
+    "title": "아직 6캐릭 6.3 안넘은 노답 틀 없지?",
+    "date": "2026.02.24 05:26",
+    "comment_count": 2,
+    "view_count": 108,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385979",
+    "content": null,
+    "comments": [
+      {
+        "text": "넵.",
+        "date": "2026.02.24 06:54"
+      },
+      {
+        "text": "계정도 안까는 페미녆 말을 누가 믿냐",
+        "date": "2026.02.24 09:00"
+      }
+    ]
+  },
+  {
+    "thread_id": "3385967",
+    "title": "계정 지우기전에 인사글 쓰고간다",
+    "date": "2026.02.24 03:27",
+    "comment_count": 0,
+    "view_count": 113,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385967",
+    "content": "그간 즐거웠고 데브캣 니네랑은 다신보지말자",
+    "comments": []
+  },
+  {
+    "thread_id": "3385927",
+    "title": "오늘자 반호르에서 공주님안기로 별만들기 했어요",
+    "date": "2026.02.24 01:08",
+    "comment_count": 4,
+    "view_count": 191,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385927",
+    "content": "도와주신 초신속님 윳끼님 오렌지샤베트님 복숭아샤베트님 츠슬님 감사합니다!!",
+    "comments": [
+      {
+        "text": "안아줘요",
+        "date": "2026.02.24 01:09"
+      },
+      {
+        "text": "오앙",
+        "date": "2026.02.24 01:10"
+      },
+      {
+        "text": "추가 사진들",
+        "date": "2026.02.24 01:31"
+      },
+      {
+        "text": "추가",
+        "date": "2026.02.24 01:31"
+      }
+    ]
+  },
+  {
     "thread_id": "3385740",
     "title": "인챈버그 진짜 개열받네",
     "date": "2026.02.23 20:50",
@@ -351,6 +454,94 @@
         "date": "2026.02.23 01:21"
       }
     ]
+  },
+  {
+    "thread_id": "3385849",
+    "title": "아티팩트 중복 착용 되나요?",
+    "date": "2026.02.23 00:00",
+    "comment_count": 0,
+    "view_count": 69,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385849",
+    "content": "강인함 2개 조화 2개인데 다착용하면 옵션 적용 되나요?",
+    "comments": []
+  },
+  {
+    "thread_id": "3385847",
+    "title": "진훈아...",
+    "date": "2026.02.23 00:00",
+    "comment_count": 0,
+    "view_count": 103,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385847",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3385843",
+    "title": "뉴비 직업 추천 좀!",
+    "date": "2026.02.23 00:00",
+    "comment_count": 3,
+    "view_count": 90,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385843",
+    "content": "제 동생이 이번에 마비노기 모바일 한다고 하면서 빙결이랑 검술 중에 고민하고 있더라고요. 그래서 제가 걍 검술하라 했는데 잘한걸까요?\n혹시 빙결이 더 좋나요?",
+    "comments": [
+      {
+        "text": "대미지만 보면 검술이지만 결국 취향 문제 아닐까 싶어요",
+        "date": "2026.02.24 01:37"
+      },
+      {
+        "text": "나중에 직업을 바꾸더라도 초반 육성이 쉬운 빙결로 시작하는게 좋을텐데요.\n세팅 없는 검술사는 물 몸에 데미지도 약해서.",
+        "date": "2026.02.24 02:44"
+      },
+      {
+        "text": "일단 딜러하신다면 화염술사는 절대로 하지마십쇼. 쓰레기딜러입니다.",
+        "date": "2026.02.24 06:35"
+      }
+    ]
+  },
+  {
+    "thread_id": "3385803",
+    "title": "다이스 보상정보",
+    "date": "2026.02.23 00:00",
+    "comment_count": 0,
+    "view_count": 125,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385803",
+    "content": "알아봤자 뭐하겟소\n대충 어비스 보상으로 획득 가능한 심연의 미스틱다이스(3025):장신구 의 보상정보에 목걸이가 표기되지 않는 현상\n표기상으로만 보이지 않는 것이며 다이스 사용시 보상은 정상적으로 획득 가능합니다\n써놓고 반영예정딱지 붙인다음에 대충 일자도 안정하고 뭉개놓고 있겠지.",
+    "comments": []
+  },
+  {
+    "thread_id": "3385782",
+    "title": "궁수무기 분해하고 장궁가버림",
+    "date": "2026.02.23 00:00",
+    "comment_count": 2,
+    "view_count": 149,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385782",
+    "content": "장궁가니 사람된느낌 궁수?? 광역없고 기갱도못가는 비운의 클레스 거기다 잡몹 DPS 합산됨 두마리치는 궁수는뭐다? 캐 안습\n궁수 데미지는 강하다하는데 그들만의 라그 찍는 최 극상위유저 기준이고 최상위 유저 급 가면 1황이 더쏌\n궁수 스킬뎀지 30만뜬다 30만으로 열라연타쳐봤자 1황한테 비비지도못함\n1황은 스킬한방 몇백만 뜬다\n궁수 열라 약한 클레스 레이드 1등하는건 걍 타 클레스 오토돌려서임 궁수가 쎄서 1등하는게 아니다\n동스팩 파티가면 5등도못듬\n일단 장궁은 상향먹어 신급 등급 궁수랑 장궁 현시점 비교불가",
+    "comments": [
+      {
+        "text": "좋은 선택",
+        "date": "2026.02.24 02:32"
+      },
+      {
+        "text": "광역딜뺸 나머지 1황이 궁수인데?",
+        "date": "2026.02.24 06:35"
+      }
+    ]
+  },
+  {
+    "thread_id": "3385754",
+    "title": "이벤트 결과 발표 대체 언제함??;;;;;",
+    "date": "2026.02.23 00:00",
+    "comment_count": 0,
+    "view_count": 142,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3385754",
+    "content": "열심히 글 쓰고, 친구 추가하고, 연동해서 돈 쓰고\n결과 발표는 언제 할 거임??????;;;;;;;\n발표 날짜 없을 때 알아봤어야 했나 ㅋ",
+    "comments": []
   },
   {
     "thread_id": "3384913",
