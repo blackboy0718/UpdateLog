@@ -1,5 +1,99 @@
 [
   {
+    "thread_id": "3386879",
+    "title": "나 이번에 진짜 열받게 하면 7개 서버 엎어버린다. 진짜로",
+    "date": "2026.02.25 07:32",
+    "comment_count": 0,
+    "view_count": 148,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3386879",
+    "content": "나 진심으로 지금 화났음 다들\n아맞다\n이번에 커마바꿈요\n보노보노 너부리",
+    "comments": []
+  },
+  {
+    "thread_id": "3386876",
+    "title": "던컨 삭제하지마 운염좌 샤걀려나",
+    "date": "2026.02.25 07:22",
+    "comment_count": 5,
+    "view_count": 355,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3386876",
+    "content": null,
+    "comments": [
+      {
+        "text": "아무한테나 시비걸고 욕하고 다니는 놈이 지가 당한거 박제는 무슨 ㅋㅋ 글슨이 정병있음?",
+        "date": "2026.02.25 07:25"
+      },
+      {
+        "text": "제가 누구한테 시비를 걸었는데요? 제가 언제 욕했는데?  정병? 너는 없어?",
+        "date": "2026.02.25 07:27"
+      },
+      {
+        "text": "닉네임 까 너 누군데? 너누군데 익명성 뒤에서 숨어서 나한테 이러는거지 ?ㅋㅋ",
+        "date": "2026.02.25 07:28"
+      },
+      {
+        "text": "던컨 사람들 다알음 니 인성 쓰레긴거",
+        "date": "2026.02.25 07:30"
+      },
+      {
+        "text": "이런건 아무 증거도 안되고 상대방한테 아무 타격도 없음\n채팅하는 순간에 상대방 닉이 아닌 그 아래 문제되는 채팅에 대고 꾹 누르면 나오는 창에서 신고 눌러야 고센에 직접적인 증거로 들어가지 스샷 백날 찍어봤자 고센에서 증거로 받아주지 않음",
+        "date": "2026.02.25 08:27"
+      }
+    ]
+  },
+  {
+    "thread_id": "3386854",
+    "title": "이제서야 엠블렘을 8개 모았다.",
+    "date": "2026.02.25 04:27",
+    "comment_count": 3,
+    "view_count": 118,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3386854",
+    "content": "현란절때도 1달 남기고 현란함 먹고 시즌1 맞이했는데\n결국 그렇게 과금하고 열심히 시간 쏟아붓고 다 해도 아득한 빛을 얻는 건 시즌 막바지네.\n운빨 로또생활은 현실로 족하다 이거야.\n무슨 득템의 즐거움 같은 소리하고 자빠졌네.\n시즌 0때가 훨씬 라이트 했고 즐거웠다.\n암만 노력해도 운으로 올라 갈 사람은 계속 올라가고 밑바닥은 평생 밑바닥인데 현실이랑 다를게 없잖아...",
+    "comments": [
+      {
+        "text": "더 이상 밑 바닥 인생은 싫다고오오오오",
+        "date": "2026.02.25 04:27"
+      },
+      {
+        "text": "시즌0 플레이가 훨씬 더 득템의 즐거움이 크고 게임 안에서 얻는 스트레스가 적었던건 공감",
+        "date": "2026.02.25 08:28"
+      },
+      {
+        "text": "전사야 힘내",
+        "date": "2026.02.25 08:46"
+      }
+    ]
+  },
+  {
+    "thread_id": "3386836",
+    "title": "유튭 검술노기 검술사 압도적인 득표수",
+    "date": "2026.02.25 02:53",
+    "comment_count": 1,
+    "view_count": 184,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3386836",
+    "content": "방송하는사람도 에이아이 탓하더라 너무 뻔한질문이고 채팅창 뜨거워질 것을 아는거지ㅋ",
+    "comments": [
+      {
+        "text": "꼴ㅍㅁ들 어서오시고~",
+        "date": "2026.02.25 02:53"
+      }
+    ]
+  },
+  {
+    "thread_id": "3386829",
+    "title": "무과금 검술이",
+    "date": "2026.02.25 02:31",
+    "comment_count": 0,
+    "view_count": 109,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3386829",
+    "content": "세공 한줄해도\n궁 딸각에 추가타 터지면 다른 직업들  현타오게 하는 검황",
+    "comments": []
+  },
+  {
     "thread_id": "3386612",
     "title": "제작 할때 창고랑 공유 좀 시켜 주라~",
     "date": "2026.02.24 20:58",
@@ -651,6 +745,104 @@
       {
         "text": "추가",
         "date": "2026.02.24 01:31"
+      }
+    ]
+  },
+  {
+    "thread_id": "3386755",
+    "title": "다들 던컨서버 ---->빵궁<---- 조심하세요~",
+    "date": "2026.02.24 00:00",
+    "comment_count": 1,
+    "view_count": 164,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3386755",
+    "content": "도대체 엄마안부는 왜묻는겨 대단한친구일세..",
+    "comments": [
+      {
+        "text": "저런애들이 없더라",
+        "date": "2026.02.25 02:19"
+      }
+    ]
+  },
+  {
+    "thread_id": "3386752",
+    "title": "몰리 퇴장하나요??",
+    "date": "2026.02.24 00:00",
+    "comment_count": 1,
+    "view_count": 108,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3386752",
+    "content": "왜지...로나가 나온게 몰리를 퇴장시키려는 떡밥같은...최근 몰리 택스트 읽어보다 느낀건데 마족과 인간 사이 중립적 고찰과 인간이 신이되었다 라는 택스트 모리안이 되는 꿈 등의 언급이 계속나오는데 기존 티이가 모리안이된다는 스토리가 너무 많이 퍼져 스토리 비틀기를 시전해서 우리에게 친숙해진 몰리를 없애는걸로 충격을 주려는듯한...이라는 느낌이드네요",
+    "comments": [
+      {
+        "text": "로나는 엔피씨이긴 한데 엔피씨가 아닌",
+        "date": "2026.02.25 04:37"
+      }
+    ]
+  },
+  {
+    "thread_id": "3386734",
+    "title": "저 방어구 왜 전부 백장미로 바껴있어요",
+    "date": "2026.02.24 00:00",
+    "comment_count": 0,
+    "view_count": 219,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3386734",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3386703",
+    "title": "환불요청",
+    "date": "2026.02.24 00:00",
+    "comment_count": 2,
+    "view_count": 264,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3386703",
+    "content": "모험가패스 결제했는데 오류떠서\n안됩니다 환불을 해주던지 해주세요\n기분더럽네요",
+    "comments": [
+      {
+        "text": "인벤토리에서 모험가패스를 사용하세요?",
+        "date": "2026.02.24 22:40"
+      },
+      {
+        "text": "그걸 여기서 떠든다고 뭐가 되진 않음",
+        "date": "2026.02.24 23:35"
+      }
+    ]
+  },
+  {
+    "thread_id": "3386678",
+    "title": "아이라 타르매어 수도팟",
+    "date": "2026.02.24 00:00",
+    "comment_count": 0,
+    "view_count": 106,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3386678",
+    "content": "천지인 주의\n녹화중 렉 주의\n지난 시즌 때는 수도팟들이 간간히 보였는데\n이번에는 잘 안보여서...\n클리어타임은 8분47초라 다른 딜팟보다\n길 수도 있지만 간만에 즐거웠습니다\n수도 화이팅!!",
+    "comments": []
+  },
+  {
+    "thread_id": "3386635",
+    "title": "아무것도 안했는데 매력이 2867이 떨어짐",
+    "date": "2026.02.24 00:00",
+    "comment_count": 3,
+    "view_count": 279,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3386635",
+    "content": "이런 경험이나 이유를 아시는분 있나영?",
+    "comments": [
+      {
+        "text": "전설로브기한이끝났나봐여?",
+        "date": "2026.02.24 22:05"
+      },
+      {
+        "text": "답변감사합니다~",
+        "date": "2026.02.25 00:29"
+      },
+      {
+        "text": "좀 씻으세요",
+        "date": "2026.02.24 23:06"
       }
     ]
   },
