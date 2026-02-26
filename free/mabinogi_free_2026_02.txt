@@ -1,5 +1,279 @@
 [
   {
+    "thread_id": "3387862",
+    "title": "접속시 공지 안띄우게 하는게 어렵냐?? 오늘 점검했잖아?",
+    "date": "2026.02.26 08:57",
+    "comment_count": 0,
+    "view_count": 6,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387862",
+    "content": "대단하다 진짜 우와..진짜 대단해",
+    "comments": []
+  },
+  {
+    "thread_id": "3387853",
+    "title": "레이드 타르타르 랑 에이렐 빼곤 무쓸모인대 언제쯤 쓸모있게 만들어줄꺼요?",
+    "date": "2026.02.26 08:39",
+    "comment_count": 0,
+    "view_count": 22,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387853",
+    "content": "드랍템이라도 85제를 주던지 65제를 어디다 쓰냐 ㅡㅡ",
+    "comments": []
+  },
+  {
+    "thread_id": "3387849",
+    "title": "데브캣이 생각하는 밸런스와 유저가 생각하는 밸런스",
+    "date": "2026.02.26 08:31",
+    "comment_count": 0,
+    "view_count": 54,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387849",
+    "content": "데브캣 밸런스 입장 : 현재 던전 기준 클리어 타임 고려 밸런스 조정\n유저 밸런스 입장 : 검술 , 전격 등 특정 직업이 지나치게 밸런스가 튀어 나와 있는데 거기에 대한 밸런스 조정을 원함\n그 특정직업이 튀어 나오지 않게 하겠다는 약속을 좀 지키세요 제발  누가 다 한방에 죽일 수 있게 쌔지게 해달라고 했나요 검술이면 검술 전격이면 전격 특정 직업을 기준으로 해서 어느정도는 따라 갈 수 있게 해야지 투자해도 못따라가면\n이게 밸런스가 맞는걸까요 너무 엉망입니다 현재",
+    "comments": []
+  },
+  {
+    "thread_id": "3387831",
+    "title": "빙교리 어디갔어?",
+    "date": "2026.02.26 07:47",
+    "comment_count": 0,
+    "view_count": 64,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387831",
+    "content": ".빙결이가 보기힘든 이유\n.부케찍먹단 많음\n.선두로 자리잡고  기믹수행 모름\n.기갱점수 높아서 공팟 의미 없음\n.4종 시간 많이 걸리고 피로도 높음\n이거 맞나?\n빙결 없어서 대기시간이 길다\n검술한테 브익줘라",
+    "comments": []
+  },
+  {
+    "thread_id": "3387828",
+    "title": "서버 열었다 내가",
+    "date": "2026.02.26 07:33",
+    "comment_count": 1,
+    "view_count": 90,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387828",
+    "content": null,
+    "comments": [
+      {
+        "text": "진짜 연거였네 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "2026.02.26 07:49"
+      }
+    ]
+  },
+  {
+    "thread_id": "3387816",
+    "title": "메키 터젔다고 여기서 시위하는거야?",
+    "date": "2026.02.26 07:09",
+    "comment_count": 1,
+    "view_count": 153,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387816",
+    "content": "누구를 위한 콜라보인가...\n똥 치우리나까 왜 자꾸 똥을 싸...",
+    "comments": [
+      {
+        "text": "핑크빈 뿔은 솔깃함..",
+        "date": "2026.02.26 07:21"
+      }
+    ]
+  },
+  {
+    "thread_id": "3387815",
+    "title": "마이홈 데코추가 건의 <턴테이블>",
+    "date": "2026.02.26 07:00",
+    "comment_count": 2,
+    "view_count": 53,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387815",
+    "content": "일반적인 장식이 아니라\nLP판도 재작해서 악보처럼 음악넣고 재생가능하게 만들어주세요\n마이홈 유저들은 이거해주면 박수칠듯",
+    "comments": [
+      {
+        "text": "좋다고 댓글단거 안써지네",
+        "date": "2026.02.26 07:26"
+      },
+      {
+        "text": "엇 써진다/음악기능+ 방명록+ 가구모두수거 기능 있으면 좋겠네요",
+        "date": "2026.02.26 07:27"
+      }
+    ]
+  },
+  {
+    "thread_id": "3387813",
+    "title": "그래서 접속 공지창 언제 고쳐줌",
+    "date": "2026.02.26 06:52",
+    "comment_count": 0,
+    "view_count": 71,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387813",
+    "content": "짱난다 공지창 안나오게 하라",
+    "comments": []
+  },
+  {
+    "thread_id": "3387810",
+    "title": "사제인데 전직으로 다른클래스레벨 올리면 사제 투력도 같이 오를수있어요?",
+    "date": "2026.02.26 06:30",
+    "comment_count": 4,
+    "view_count": 160,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387810",
+    "content": "사제 65찍고 룬8맞추고 투력이 잘안올라서 전직해서 다른클래스레벨 올렸어요\n기본스탯이 올라가면서 사제 투력도 같이 올라간다고 생각했는데\n친구가 아니라고해서요\n다른클래스 레벨 올려도 원래하던클래스 투력과 상관없어요?",
+    "comments": [
+      {
+        "text": "타직업 랩을 올린다고 사제클레스의 투력이 상슨하지는 않으나\n타직업 랩업을 통해 다재다능이나 올라운더같은 업적을 달성한다면 사제직업의 투력도 상승합니다",
+        "date": "2026.02.26 06:58"
+      },
+      {
+        "text": "가령 사제 1000투력 에서  듀블로 클래스 체인지하면서 투력이 960 하락했다고치고요(장비등)  듀블하면서   보유칭호같은 스텟올려주걸 획득해서  듀블 투력이980됐다고치면  그상태로 사제로 바꿔서 사제장비 그대로 원복했을때 1020 이 돼있는 공용부분은 바꿔서 획득해도 원클래스로 돌아갔을때 추가되어서 투력이 올라감",
+        "date": "2026.02.26 07:09"
+      },
+      {
+        "text": "길게쓰면 등록하고 다삭제되지? 보유기능타이틀획득하면 전투력상승",
+        "date": "2026.02.26 07:31"
+      },
+      {
+        "text": "클래스레벨을 올리면 직접적(케릭터 본체, 상태창)으로 스탯이 상승하지 않고.  해당 직업의 엠블렘(아이템)의 공격력이 올라감으로써 스탯상승이 이루어집니다. 클래스레벨과 연동되는 직업의 엠블렘 공격력 상승이기 때문에 타직업의 클래스레벨이 사제직업(사제 엠블렘 착용)의 투력에 영향을 끼치지 않습니다.",
+        "date": "2026.02.26 07:46"
+      }
+    ]
+  },
+  {
+    "thread_id": "3387805",
+    "title": "지금 시기에 하필 콜라보가 꼭 메이플이어야 하는 것인가..",
+    "date": "2026.02.26 05:56",
+    "comment_count": 0,
+    "view_count": 152,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387805",
+    "content": "정신 좀 차려라...",
+    "comments": []
+  },
+  {
+    "thread_id": "3387798",
+    "title": "검술사는 도대체 왜 너프 안 해요? 1일차",
+    "date": "2026.02.26 04:53",
+    "comment_count": 6,
+    "view_count": 252,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387798",
+    "content": "전격 격가 너프 했으니까 검술사 너프해주세요.\n누가 봐도 딜 안 나오는 직업 뻔한데 차라리 비인기 직업들 버프를 해주지 왜 너프로 기준을 잡으려는 건지 이해가 안 갑니다.\n여론이 사기다 사기다 라고 해서 너프 하면 밸런스 잡히나요? 밸런스 잡을거면 제대로 해주세요.\n검술사 인구 많아서 눈치 본다고 그러는 건가요? 그럼 다른 직업 하는 사람들은 뭐가 됩니까? 내릴거면 확실하게 전부 다 내리던가 아니면 약한 직업들 버프를 해주던가",
+    "comments": [
+      {
+        "text": "근데 검술사 딜 안나오면 검술사 왜함 유리몸에 어중간한 딜러되버리면; 제2의 석궁 사태밖에 더될까",
+        "date": "2026.02.26 07:01"
+      },
+      {
+        "text": "석궁 너프먹고 잘사는데?",
+        "date": "2026.02.26 07:22"
+      },
+      {
+        "text": "니말대로라면 브레이크가 주로된직업 빙결은 왜 너프먹음? 딜도 잘안나오는데 40% 나 너프먹었는데",
+        "date": "2026.02.26 07:23"
+      },
+      {
+        "text": "석궁 너프먹고 뭘 잘살아 해본적은 잇냐 어휴 노답",
+        "date": "2026.02.26 08:43"
+      },
+      {
+        "text": "석궁 바꾸고 싶은데 바꾸고 싶은 직업없어서 새직업 기다림",
+        "date": "2026.02.26 07:32"
+      },
+      {
+        "text": "검술노기~ 검술노기~",
+        "date": "2026.02.26 08:36"
+      }
+    ]
+  },
+  {
+    "thread_id": "3387779",
+    "title": "닌텐도 이벤트 결과나 발표해줘",
+    "date": "2026.02.26 02:45",
+    "comment_count": 0,
+    "view_count": 95,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387779",
+    "content": "몇달째냐 지금 ㅋㅋㅋ\n돈이없나 왜 결과발표를 안함?\n나 닌텐도 받고싶어서\n블로그 열심히 했는데 ㅠ",
+    "comments": []
+  },
+  {
+    "thread_id": "3387765",
+    "title": "2026-02-26",
+    "date": "2026.02.26 01:40",
+    "comment_count": 1,
+    "view_count": 106,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387765",
+    "content": null,
+    "comments": [
+      {
+        "text": "2026-02-26",
+        "date": "2026.02.26 01:40"
+      }
+    ]
+  },
+  {
+    "thread_id": "3387754",
+    "title": "이번 라방에서 꼭 해야하는 것",
+    "date": "2026.02.26 01:12",
+    "comment_count": 1,
+    "view_count": 306,
+    "like_count": 3,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387754",
+    "content": "소통 임마 소통\n니들 사고친거, 니들이 준비한 질문과 답변들 라방을 통해 통보하지말고\n뭐가 문제고 뭐가 불만인지 소통을 하라고 그거 하라고 라방을 하는거야\n여 PD 데려와서 홈쇼핑하지말고 게임에 대한 얘기만 하라고 제발\n앞서 라방으로 좋은 호응을 얻었던 디렉터들은 준비한 내용 다 발표하고\n유저들이랑 충분한 소통의 시간을 가지면서 아이스브레이킹 한다고 농담한거야\n니들처럼 무작정 헛소리 한게 아니라고",
+    "comments": [
+      {
+        "text": "소통은 무슨ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n불통과 페미\n킹리적 확률주작\n유저는 ㄱ.도야지로 인식<<< 뎁캣 사훈 아님 ㅋㅋ?",
+        "date": "2026.02.26 04:52"
+      }
+    ]
+  },
+  {
+    "thread_id": "3387742",
+    "title": "필터링좀 제발",
+    "date": "2026.02.26 00:44",
+    "comment_count": 0,
+    "view_count": 90,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387742",
+    "content": "필터링을 ㄱ같이 패치 해서 뭔 말만하면 은하수가 펼쳐지네\n머리 없음 ?",
+    "comments": []
+  },
+  {
+    "thread_id": "3387741",
+    "title": "데코템 이쁜것좀 내놔주세여",
+    "date": "2026.02.26 00:44",
+    "comment_count": 0,
+    "view_count": 35,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387741",
+    "content": "진짜 볼때마다 한숨나와요",
+    "comments": []
+  },
+  {
+    "thread_id": "3387733",
+    "title": "던전 돌아도 수리비도 안나오는 망겜ㅋㅋㅋ",
+    "date": "2026.02.26 00:30",
+    "comment_count": 0,
+    "view_count": 177,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387733",
+    "content": "던전 활성화 되겠능교? ㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3387723",
+    "title": "이야~~~~ 이것들 대브켓 개발자들이지?",
+    "date": "2026.02.26 00:18",
+    "comment_count": 1,
+    "view_count": 376,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387723",
+    "content": "용돈 벌려교 패치한거구나",
+    "comments": [
+      {
+        "text": "6.8따리가 ㅋㅋ",
+        "date": "2026.02.26 00:42"
+      }
+    ]
+  },
+  {
     "thread_id": "3387539",
     "title": "할께있나?? 돈을 주고 싶어도 못준다",
     "date": "2026.02.25 20:44",
@@ -1315,6 +1589,205 @@
     "url": "https://mabinogimobile.nexon.com/Community/Free/3386829",
     "content": "세공 한줄해도\n궁 딸각에 추가타 터지면 다른 직업들  현타오게 하는 검황",
     "comments": []
+  },
+  {
+    "thread_id": "3387686",
+    "title": "메이플 콜라보 개구리모자 같이 핑크핀 모자 나오겠지",
+    "date": "2026.02.25 00:00",
+    "comment_count": 0,
+    "view_count": 104,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387686",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3387682",
+    "title": "모비노기 하기전과 후의 나",
+    "date": "2026.02.25 00:00",
+    "comment_count": 0,
+    "view_count": 332,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387682",
+    "content": "모비노기 하기전\n길냥이는 보기만해도 귀여웠음\n모비노기 하고나서\n길냥이 보면 있는 힘것 발로 차버리고싶음",
+    "comments": []
+  },
+  {
+    "thread_id": "3387660",
+    "title": "기획자, 디렉터 캐릭터 인증 게시판 만들어주세요",
+    "date": "2026.02.25 00:00",
+    "comment_count": 0,
+    "view_count": 137,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387660",
+    "content": "게임 수준이 게임 안하는 사람들과 18시 칼퇴에 목매는 사람들이 운영하는 게임인 것 같습니다.\n기획자, 디렉터 급의 캐릭터 인증(투력/세공/룬위드) 게시판 만들어주세요.",
+    "comments": []
+  },
+  {
+    "thread_id": "3387659",
+    "title": "감다뒤냐 3.1절 온타임 이벤트 저게 뭐야",
+    "date": "2026.02.25 00:00",
+    "comment_count": 1,
+    "view_count": 414,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387659",
+    "content": "태극기나 그런거 뿌려 에픽촉매 딸랑 1개 주지말고",
+    "comments": [
+      {
+        "text": "장갑판정?\n대한독립만세. +한복.",
+        "date": "2026.02.26 00:13"
+      }
+    ]
+  },
+  {
+    "thread_id": "3387650",
+    "title": "그집단들을 위해 검술노기 검황 다 해줬는데",
+    "date": "2026.02.25 00:00",
+    "comment_count": 0,
+    "view_count": 282,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387650",
+    "content": "겜이 너무 쉬우니까 하나 둘 다 접고 떠나버렸노\n직변권으로 돈 빨 생각하겟지 평균 투력이 5만대 초반인데 퍽이나 돈써주겟다ㅋ",
+    "comments": []
+  },
+  {
+    "thread_id": "3387640",
+    "title": "혹시 뽀로로신가요?",
+    "date": "2026.02.25 00:00",
+    "comment_count": 0,
+    "view_count": 126,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387640",
+    "content": "노는게 제일 좋으심?\n업데이트 꼬라지 보니까 그런거 같긴 하네요",
+    "comments": []
+  },
+  {
+    "thread_id": "3387638",
+    "title": "진화의 반대말은 없다고 하는데 개소리임 진화의 반대말은",
+    "date": "2026.02.25 00:00",
+    "comment_count": 2,
+    "view_count": 145,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387638",
+    "content": null,
+    "comments": [
+      {
+        "text": "퇴화?",
+        "date": "2026.02.25 22:36"
+      },
+      {
+        "text": "함소원??",
+        "date": "2026.02.26 08:06"
+      }
+    ]
+  },
+  {
+    "thread_id": "3387615",
+    "title": "화법 어비스 신단 지옥10 솔플",
+    "date": "2026.02.25 00:00",
+    "comment_count": 2,
+    "view_count": 369,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387615",
+    "content": "빡세네요...\nhttps://youtu.be/PM9b0LNA5Sw?si=c8n46ZSr5v3bo_GY\n영상입니다",
+    "comments": [
+      {
+        "text": "71분...",
+        "date": "2026.02.25 22:11"
+      },
+      {
+        "text": "고생했어요 ㄷㄷ",
+        "date": "2026.02.25 22:33"
+      }
+    ]
+  },
+  {
+    "thread_id": "3387609",
+    "title": "우앙 새로운 패키지다!!!!",
+    "date": "2026.02.25 00:00",
+    "comment_count": 0,
+    "view_count": 302,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387609",
+    "content": "우앙 버그 + 댄서 고장 + 석궁 고장+ 밸런스 고장이지만\n패키지 업데이트 해야지~ 암 그럼 패키지 업데이트가 1순위지 고롬고롬!\n소통 아주 잘 하고 있고요\n그 소통이 유저와의 소통이 아니라 대표님과의 소통이죠? 대표님도 한명의 유저니까요\n소통을 잘 하고 잇네요",
+    "comments": []
+  },
+  {
+    "thread_id": "3387599",
+    "title": "핑크빈 너무 귀여운데 ㅠ 정확한 출시일 궁금하당",
+    "date": "2026.02.25 00:00",
+    "comment_count": 0,
+    "view_count": 142,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387599",
+    "content": "3월 중순이라고만 하니 너무 멀게 느껴져...",
+    "comments": []
+  },
+  {
+    "thread_id": "3387583",
+    "title": "게임이 너무 퇴행적이긴함 ㅋㅋㅋ",
+    "date": "2026.02.25 00:00",
+    "comment_count": 0,
+    "view_count": 299,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387583",
+    "content": "뭐하는지 모르겠음 ㅋㅋ\n로드맵도 기대되는게 없긴함\n결국 신규라해놓고 난이도 추가에 뺑이 끝\n그전에 공개했던 압타 디자이너들은 다 어디로 사라지고\n감도없는 것만 잔뜩 만들어 파는 수준 ㅠ\n시즌제 도입 후 첫 신화팔이가 그저 짜증날뿐;;\n게다가 업데이트 속도보면 무슨 한 5년 넘은게임인줄 ㅠㅠ",
+    "comments": []
+  },
+  {
+    "thread_id": "3387573",
+    "title": "않이;;;",
+    "date": "2026.02.25 00:00",
+    "comment_count": 0,
+    "view_count": 146,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387573",
+    "content": "갓복으로 어그로 잘 끌고서 메이플 같은 걸 끼얹나????\n손님 초대해놓고 그대로 출구로 안내를 해버리네;;",
+    "comments": []
+  },
+  {
+    "thread_id": "3387567",
+    "title": "데브켓 필독!!~!~!!어짜피 월요일겜이잔아 돈많이써도 벨패 해준데?아니잔아",
+    "date": "2026.02.25 00:00",
+    "comment_count": 4,
+    "view_count": 292,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387567",
+    "content": "그냥 돈 이빠이 쓰면 쌔지잔아\n6.6석궁 풀 룬인데\n나 14강 빙결해서 지옥 15깨잔아 ㅋㅋ\n석궁 저렙구간 해봤어? 헬이야 첨부터 키워봐\n지금 석궁남아있는 사람들이 과금하면서 석궁 오픈런들이잔아\n찡찡되는게아니야 ㅋ 석궁있을때 과금러들 지원 겁나마니해주니 유저들살아났어\n요즘 검술 노기 라는데.검술들이 당연히쌔니 어깨 살아서 지원해주냐?\n석궁살려봐라 디피에스 개민김한 석궁들이 지원들하지 돈쓰는사람이 검술보다 석궁유저가 더 많은디\n컨텐츠어려워?지옥 20 석궁들 나서서 도와준다\n아이씨 난 어짜피 석궁 빙결 힐러 다준비해놔서 상관없지만 참고좀해라",
+    "comments": [
+      {
+        "text": "고마해라 징석아.. 요즘 기갱할때 징징거리는 석궁 구합니다 이런다메",
+        "date": "2026.02.25 21:51"
+      },
+      {
+        "text": "난 6캐로 전직업 다 찍먹중이라 뭘 패치해주든 노타격",
+        "date": "2026.02.25 22:06"
+      },
+      {
+        "text": "석궁좋아요 기갱서 ex티어 전격검 다음이긴함\n도궁장석대화 순이긴함 1티어임\n그리고 잔아x - 잖아o",
+        "date": "2026.02.26 00:02"
+      },
+      {
+        "text": "석찡이 원거리찡찡이 또...\n근접 직업과  원거리 직업과 물약.붕대 소비 수준이 다른데 이런건 아닥하고 있잖아?\n뎁캣에서 석궁에서 궁수로 바꿔준다고 하면 쌍욕할꺼면서ㅋㅋ\n그저 해줘해줘!!! 찡찡찡~",
+        "date": "2026.02.26 04:46"
+      }
+    ]
+  },
+  {
+    "thread_id": "3387559",
+    "title": "운영자님 보세요 메이플스토리 콜라보???",
+    "date": "2026.02.25 00:00",
+    "comment_count": 1,
+    "view_count": 384,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3387559",
+    "content": "제가 아는 사람들은 기존 마비노기라는 환경 때문에 이 게임을 플레이하는 것이 아닙니다. 물론 마비노기에 대한 인지는 하고 있었습니다. 게임성 때문에 플레이하는 것이지, 오래전 마비노기 감성만으로 플레이하는 것이 아닙니다. 디자이너분들께서는 이러한 생각으로 메이플스토리와 같은 게임을 유저들이 좋아할 것이라는 생각을 바꾸셔야 합니다. 일반 모바일 유저들이 좋아할 만한 요소들도 고려해주시길 바랍니다. 패션 또한 다크한 콘셉트도 추가되었으면 합니다. 저나 제 주변도 너무 유치해 합니다. 언제까지 계속 이런식으로 하십니까??",
+    "comments": [
+      {
+        "text": "우리도 확률조작했어요 하는거에요 ㅎ",
+        "date": "2026.02.25 23:17"
+      }
+    ]
   },
   {
     "thread_id": "3386612",
