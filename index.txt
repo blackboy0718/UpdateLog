@@ -17,8 +17,9 @@
 
 자유게시판
   1) [최근 7일] <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/free/mabinogi_free_week.txt>
-  2) <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/free/mabinogi_free_2026_02.txt>
-  3) <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/free/mabinogi_free_2026_01.txt>
+  2) <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/free/mabinogi_free_2026_03.txt>
+  3) <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/free/mabinogi_free_2026_02.txt>
+  4) <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/free/mabinogi_free_2026_01.txt>
 
 게임가이드
   1) [모든 가이드] <https://raw.githubusercontent.com/blackboy0718/UpdateLog/main/guide/mabinogi_guide.txt>
