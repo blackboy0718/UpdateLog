@@ -1,5 +1,38 @@
 [
   {
+    "thread_id": "3391610",
+    "title": "시즌0으로 돌아가고 싶지 않냐?",
+    "date": "2026.03.03 07:36",
+    "comment_count": 0,
+    "view_count": 52,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3391610",
+    "content": "시즌 1로 오면서 얼마나 많은 유저를 버린거냐?\n득템의 설래임?  재화는 제한해 놓고 랜덤룬만 뽑게 만들고 거기에 신화??\n디아블로도 아니고 재화 재한을 풀던가? 재화 다 쓰면 할게 없는데 랜덤룬에 신화????\n파밍의 재미를 어떻게 해석하면 이리 되냐?\n거기에 웨카마켓이라는 어이없는 컨탠츠에 맨파워 개낭비하고\n어비스 매어 돌고, 레이드 다 돌고 나면 할게 없어 이것들아\n생활? 생활도 명분이 있어야 하지 생활력 높으면 뭐가 좋은데 좋은게 없어\n그냥 남들보기 과시용 수치일뿐\n부케 키우라고? 싫은데? 개 재미없는 행동을 왜 또 반복하냐?\n재화 제한으로 플탐 늘리려면 꾸준히 노력한 유저들 종결셋 맞추는 재미라도 줘야지\n맨날 쓸모 없는 룬 나오면 하고 싶겠냐??",
+    "comments": []
+  },
+  {
+    "thread_id": "3391565",
+    "title": "우리는 이것을 룬 승급 실패라고 부르기로 했어요",
+    "date": "2026.03.03 02:12",
+    "comment_count": 0,
+    "view_count": 145,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3391565",
+    "content": "축하합니다~ 축하합니다~\n당신의 룬 승급 실패를~\n축하합니다~~",
+    "comments": []
+  },
+  {
+    "thread_id": "3391552",
+    "title": "브리드 트레블 의류",
+    "date": "2026.03.03 00:53",
+    "comment_count": 0,
+    "view_count": 63,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3391552",
+    "content": "진짜 너므 가지고 싶은데\n다시 안나오나요?\n제스티보야지도요ㅠㅠㅠㅠ 겜 접었다가 다시 한거라… 얻을 수 없는게 너무 슬퍼요ㅠㅜㅜㅜ 제발 ㅠㅠ따흑",
+    "comments": []
+  },
+  {
     "thread_id": "3391414",
     "title": "타바 어려움... 팟 깨지는 이유를 찾았다(자동 보다 더한 빌런)",
     "date": "2026.03.02 20:48",
@@ -317,6 +350,90 @@
     "url": "https://mabinogimobile.nexon.com/Community/Free/3390888",
     "content": "무기16\n나머지 평균 14.6\n2신화 3초월++ 나머지 초월+\n이번 달 말에 패키지 새로 나오면\n모아둔 15만 데카로 패키지 36개 질러서\n에픽 탈것+ 에픽 안장 끼면\n6.4가까이 될듯? ㄷㄷㄷㄷ",
     "comments": []
+  },
+  {
+    "thread_id": "3391535",
+    "title": "다양한 일반던전.사냥터가 나왔으면 좋겠어요",
+    "date": "2026.03.02 00:00",
+    "comment_count": 0,
+    "view_count": 66,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3391535",
+    "content": "은동전 소모처가 매일매일 되는곳이\n센마이평원.페론고분에서만 소모되는데\n유저들 평균전투력이 오른만큼 그만큼 게임사에서도\n새로운 지역과 일반 던전이나 사냥터도 출시해야 한다고 생각됩니다\n레이드와 어비스를 끝내고 다양하게 은동전을 소모하고 싶은데\n새로운 지역나오고나서의 다음 맵의 텀이 너무 .. 길어요\n패키지 게임이 아니라 온라인게임이잖아요...\n어비스 지옥 추가 이런거 말고도..  일반컨텐츠도좀 신경써주세요\n은동전 소모도 너무 빨라 파밍의 재미도 없고 기대도 안되지만\n재밌어 질거라 믿고있습니다\n수고하세요",
+    "comments": []
+  },
+  {
+    "thread_id": "3391527",
+    "title": "진짜 패잔병들만 남았네 ㅋㅋ",
+    "date": "2026.03.02 00:00",
+    "comment_count": 0,
+    "view_count": 217,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3391527",
+    "content": null,
+    "comments": []
+  },
+  {
+    "thread_id": "3391524",
+    "title": "진짜 대~단한 게임이다",
+    "date": "2026.03.02 00:00",
+    "comment_count": 0,
+    "view_count": 160,
+    "like_count": 1,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3391524",
+    "content": "올칭호 다했는데 경치아까워서 부직돌다가 현타온다 이걸 언제 이야기 했는데 몇달이 쳐 지나도록 이난리인거도\n지옥가려고 마음먹다가도 신화 전설 교체안되고\n매관마다 룬교체하려고 하나하나 기억각인 가서 문자열 드래그 하는 레전드 세팅도 그렇고\n레이드 어비스 효율룬도 다르고 룬교환 세팅교환 다해야하는 직업교환의 자유운운하는 게임이 도대체 프리셋 개념은 왜 없는거냐\n거기에 먼 글을 못쓰게 검열단어 해두고 글작성 되지도 않는데 글시간 빠르다 이소리하는거임?",
+    "comments": []
+  },
+  {
+    "thread_id": "3391504",
+    "title": "검술사는 도대체 왜 너프 안 해요? 5일차",
+    "date": "2026.03.02 00:00",
+    "comment_count": 0,
+    "view_count": 63,
+    "like_count": 0,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3391504",
+    "content": "전격 격가 너프 했으니까 검술사 너프해주세요.\n누가 봐도 딜 안 나오는 직업 뻔한데 차라리 비인기 직업들 버프를 해주지 왜 너프로 기준을 잡으려는 건지 이해가 안 갑니다.\n여론이 사기다 사기다 라고 해서 너프 하면 밸런스 잡히나요? 밸런스 잡을거면 제대로 해주세요.\n검술사 인구 많아서 눈치 본다고 그러는 건가요? 그럼 다른 직업 하는 사람들은 뭐가 됩니까? 내릴거면 확실하게 전부 다 내리던가 아니면 약한 직업들 버프를 해주던가\n검술사 너프 안 할거면 빨리 직변 내주세요. 검술사로 직변하게",
+    "comments": []
+  },
+  {
+    "thread_id": "3391466",
+    "title": "자게 하루글리젠 30개도 없는거보니깐",
+    "date": "2026.03.02 00:00",
+    "comment_count": 1,
+    "view_count": 156,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3391466",
+    "content": "조만간 사람들 다접는다 ㅋㅋ\n그나마 신화 60일로 붙잡고있었는데\n라방해서 캐릭터 생성 하고있는꼬라지보니까 오만정 다떨어진듯 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n캐릭터 생상할게아니라 같이 레이드나 어비스를 돌아야지 어휴 답도없다 진심",
+    "comments": [
+      {
+        "text": "심지어 60일 기다려서 받은 신화룬도 랜덤이라 뽑고나니 쓸모 없는거 나와서 개 허탈",
+        "date": "2026.03.03 07:07"
+      }
+    ]
+  },
+  {
+    "thread_id": "3391456",
+    "title": "지옥 15 폐기장 탐택성공~~",
+    "date": "2026.03.02 00:00",
+    "comment_count": 3,
+    "view_count": 174,
+    "like_count": 2,
+    "url": "https://mabinogimobile.nexon.com/Community/Free/3391456",
+    "content": "다들 고생하셨습니다 ㅋㅋㅋㅋ",
+    "comments": [
+      {
+        "text": "너무 고생 많으셨습니다 담에 또 해요!!",
+        "date": "2026.03.02 22:08"
+      },
+      {
+        "text": "멋진 팀이었습니다, 버스 감솨합니다~ !!",
+        "date": "2026.03.02 22:25"
+      },
+      {
+        "text": "멋진 팀이 아니라 멋진 버스기사님 감솨합니다!!",
+        "date": "2026.03.03 07:15"
+      }
+    ]
   },
   {
     "thread_id": "3390751",
@@ -5991,218 +6108,6 @@
       {
         "text": "대장 가지마..",
         "date": "2026.02.24 12:04"
-      }
-    ]
-  },
-  {
-    "thread_id": "3386026",
-    "title": "무기엠블 강화이전권이나 빨리 내라",
-    "date": "2026.02.24 09:01",
-    "comment_count": 0,
-    "view_count": 58,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3386026",
-    "content": "너네 세공으로 돈 벌어먹을거잖아. 어차피 성능주입으로 안나올꺼 다 아니까 사람 더 빠지기전에 낼라면 빨리 내 그냥",
-    "comments": []
-  },
-  {
-    "thread_id": "3385999",
-    "title": "그만좀 나와",
-    "date": "2026.02.24 07:46",
-    "comment_count": 0,
-    "view_count": 50,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3385999",
-    "content": "몰리다음 로나냐 그만좀 쳐나와 이딴것좀 만들지마",
-    "comments": []
-  },
-  {
-    "thread_id": "3385996",
-    "title": "무과금 유저임",
-    "date": "2026.02.24 07:41",
-    "comment_count": 0,
-    "view_count": 49,
-    "like_count": 1,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3385996",
-    "content": "무과금\n패스권 사본적도 없고\n보라색 테두리\n증폭작 및 룬워드 피통.체력  위주\n영원의 정복자 피통 750\n뻥투력 6만인데\n지옥 15가도 되나요?\n월드챗팅 6만클럽 ㅊㅋ도 받았습니다",
-    "comments": []
-  },
-  {
-    "thread_id": "3385991",
-    "title": "로나 뺨 때리는 유료템 팔면 좀 팔릴거 같음.",
-    "date": "2026.02.24 07:03",
-    "comment_count": 0,
-    "view_count": 21,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3385991",
-    "content": "퀘도 안 주고 아이테도 안 주고 하는 거라곤 유저 납치해서 '레벨업 경쟁' 라자는 반복 대사 뿐.\n진훈아.. 참 좋겠다.  이 따위로 일 하고 돈도 벌고.",
-    "comments": []
-  },
-  {
-    "thread_id": "3385988",
-    "title": "(데이안)길드가.. 없다..!",
-    "date": "2026.02.24 06:49",
-    "comment_count": 0,
-    "view_count": 32,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3385988",
-    "content": "오픈 1주일 후부터 시작해서 야금야금 해왔는데 (그래서 사실 투력은 간신히 6만 클럽)\n아직도.. 길드가.. 없다..!\n친구 따라 한 번, 게시판 보고 한 번 가입해봤는데, 가입하나 혼자 하나 똑같아서 결국 나왔다고 한다..\n사실 너무 노터치인 건 싫고, 오픈 톡 자유에 날 잡아 길드 활동 하고, 디코는 있는데 자율이지만 참여도는 있는\n그리고 말은 해도 되고 안 해도 되는 그런 환상적인 길드가 없을까?? 하고 오늘도 길드 게시판을 훔쳐 본다..!",
-    "comments": []
-  },
-  {
-    "thread_id": "3385979",
-    "title": "아직 6캐릭 6.3 안넘은 노답 틀 없지?",
-    "date": "2026.02.24 05:26",
-    "comment_count": 2,
-    "view_count": 108,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3385979",
-    "content": null,
-    "comments": [
-      {
-        "text": "넵.",
-        "date": "2026.02.24 06:54"
-      },
-      {
-        "text": "계정도 안까는 페미녆 말을 누가 믿냐",
-        "date": "2026.02.24 09:00"
-      }
-    ]
-  },
-  {
-    "thread_id": "3385967",
-    "title": "계정 지우기전에 인사글 쓰고간다",
-    "date": "2026.02.24 03:27",
-    "comment_count": 0,
-    "view_count": 113,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3385967",
-    "content": "그간 즐거웠고 데브캣 니네랑은 다신보지말자",
-    "comments": []
-  },
-  {
-    "thread_id": "3385927",
-    "title": "오늘자 반호르에서 공주님안기로 별만들기 했어요",
-    "date": "2026.02.24 01:08",
-    "comment_count": 4,
-    "view_count": 191,
-    "like_count": 3,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3385927",
-    "content": "도와주신 초신속님 윳끼님 오렌지샤베트님 복숭아샤베트님 츠슬님 감사합니다!!",
-    "comments": [
-      {
-        "text": "안아줘요",
-        "date": "2026.02.24 01:09"
-      },
-      {
-        "text": "오앙",
-        "date": "2026.02.24 01:10"
-      },
-      {
-        "text": "추가 사진들",
-        "date": "2026.02.24 01:31"
-      },
-      {
-        "text": "추가",
-        "date": "2026.02.24 01:31"
-      }
-    ]
-  },
-  {
-    "thread_id": "3386755",
-    "title": "다들 던컨서버 ---->빵궁<---- 조심하세요~",
-    "date": "2026.02.24 00:00",
-    "comment_count": 1,
-    "view_count": 164,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3386755",
-    "content": "도대체 엄마안부는 왜묻는겨 대단한친구일세..",
-    "comments": [
-      {
-        "text": "저런애들이 없더라",
-        "date": "2026.02.25 02:19"
-      }
-    ]
-  },
-  {
-    "thread_id": "3386752",
-    "title": "몰리 퇴장하나요??",
-    "date": "2026.02.24 00:00",
-    "comment_count": 1,
-    "view_count": 108,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3386752",
-    "content": "왜지...로나가 나온게 몰리를 퇴장시키려는 떡밥같은...최근 몰리 택스트 읽어보다 느낀건데 마족과 인간 사이 중립적 고찰과 인간이 신이되었다 라는 택스트 모리안이 되는 꿈 등의 언급이 계속나오는데 기존 티이가 모리안이된다는 스토리가 너무 많이 퍼져 스토리 비틀기를 시전해서 우리에게 친숙해진 몰리를 없애는걸로 충격을 주려는듯한...이라는 느낌이드네요",
-    "comments": [
-      {
-        "text": "로나는 엔피씨이긴 한데 엔피씨가 아닌",
-        "date": "2026.02.25 04:37"
-      }
-    ]
-  },
-  {
-    "thread_id": "3386734",
-    "title": "저 방어구 왜 전부 백장미로 바껴있어요",
-    "date": "2026.02.24 00:00",
-    "comment_count": 0,
-    "view_count": 219,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3386734",
-    "content": null,
-    "comments": []
-  },
-  {
-    "thread_id": "3386703",
-    "title": "환불요청",
-    "date": "2026.02.24 00:00",
-    "comment_count": 2,
-    "view_count": 264,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3386703",
-    "content": "모험가패스 결제했는데 오류떠서\n안됩니다 환불을 해주던지 해주세요\n기분더럽네요",
-    "comments": [
-      {
-        "text": "인벤토리에서 모험가패스를 사용하세요?",
-        "date": "2026.02.24 22:40"
-      },
-      {
-        "text": "그걸 여기서 떠든다고 뭐가 되진 않음",
-        "date": "2026.02.24 23:35"
-      }
-    ]
-  },
-  {
-    "thread_id": "3386678",
-    "title": "아이라 타르매어 수도팟",
-    "date": "2026.02.24 00:00",
-    "comment_count": 0,
-    "view_count": 106,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3386678",
-    "content": "천지인 주의\n녹화중 렉 주의\n지난 시즌 때는 수도팟들이 간간히 보였는데\n이번에는 잘 안보여서...\n클리어타임은 8분47초라 다른 딜팟보다\n길 수도 있지만 간만에 즐거웠습니다\n수도 화이팅!!",
-    "comments": []
-  },
-  {
-    "thread_id": "3386635",
-    "title": "아무것도 안했는데 매력이 2867이 떨어짐",
-    "date": "2026.02.24 00:00",
-    "comment_count": 3,
-    "view_count": 279,
-    "like_count": 0,
-    "url": "https://mabinogimobile.nexon.com/Community/Free/3386635",
-    "content": "이런 경험이나 이유를 아시는분 있나영?",
-    "comments": [
-      {
-        "text": "전설로브기한이끝났나봐여?",
-        "date": "2026.02.24 22:05"
-      },
-      {
-        "text": "답변감사합니다~",
-        "date": "2026.02.25 00:29"
-      },
-      {
-        "text": "좀 씻으세요",
-        "date": "2026.02.24 23:06"
       }
     ]
   }
